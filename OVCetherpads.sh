@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export TZ=UTC
+
 echo "starting run at $(date -R)"
 
 pads=$(cat <<'EOF'
