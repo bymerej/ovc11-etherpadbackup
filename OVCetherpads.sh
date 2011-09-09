@@ -47,7 +47,7 @@ set -x
 
 EXPORT_URL_TEMPLATE="http://openetherpad.org/ep/pad/export/%s/latest?format="
 REPO_BASE_PATH="$HOME/ovc11-etherpadbackup"
-UA_STRING='OVC2011 etherpad backup bot (questions: conference@openvideoconference.org)'
+UA_STRING='OVC2011 etherpad backup bot; https://github.com/bymerej/ovc11-etherpadbackup; questions: conference@openvideoconference.org'
 
 mkdir -p "$REPO_BASE_PATH/pads"
 pushd "$REPO_BASE_PATH/pads" >/dev/null
