@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "starting run at $(date -R)"
+
 pads=$(cat <<'EOF'
 ovc2011
 ovc11-alternative-copyright-education
