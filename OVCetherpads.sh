@@ -67,7 +67,7 @@ for pad in $pads; do
     sleep .2
 done
 
-if [ git status 2>&1 | fgrep -q '(working directory clean)' ]; then
+if git status 2>&1 | fgrep -q '(working directory clean)'; then
     echo no changes, bailing
     exit 0
 fi
