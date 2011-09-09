@@ -57,9 +57,11 @@ pushd "$REPO_BASE_PATH/pads" >/dev/null
 
 for pad in $pads; do
     url="$(printf "$EXPORT_URL_TEMPLATE" $pad)"
-    wget "$url" > "$REPO_BASE_PATH/pads/$pad.txt" || \
+    wget -q -O - "$url" > "$REPO_BASE_PATH/pads/$pad.txt" || \
 	echo FAILED: pad from \'"$url"\' >&2
 done
+
+git add .
 
 git commit -a -m 'cron: automated etherpad backup' || \
 	echo FAILED: git commit >&2
