@@ -67,9 +67,14 @@ for pad in $pads; do
     sleep .2
 done
 
+if [ git status 2>&1 | fgrep -q '(working directory clean)' ]; then
+    echo no changes, bailing
+    exit 0
+fi
+
 git add .
 
 git commit -a -m 'cron: automated etherpad backup' || \
-	echo FAILED: git commit >&2
+    echo FAILED: git commit >&2
 git push || \
-	echo FAILED: git push >&2
+    echo FAILED: git push >&2
