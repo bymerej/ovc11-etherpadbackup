@@ -47,10 +47,16 @@ EXPORT_URL_TEMPLATE="http://openetherpad.org/ep/pad/export/%s/latest?format=txt"
 REPO_BASE_PATH="$HOME/ovc11-etherpadbackup"
 
 mkdir -p "$REPO_BASE_PATH/pads"
-pushd "$REPO_BASE_PATH/pads"
+pushd "$REPO_BASE_PATH/pads" >/dev/null
+
+#echo "$pads"
+#
+#for pad in $pads; do
+#    echo "x$pad"
+#done
 
 for pad in $pads; do
-    url="$(printf "$EXPORT_URL_TEMPLATE" $pad)
+    url="$(printf "$EXPORT_URL_TEMPLATE" $pad)"
     wget "$url" > "$REPO_BASE_PATH/pads/$pad.txt" || \
 	echo FAILED: pad from \'"$url"\' >&2
 done
