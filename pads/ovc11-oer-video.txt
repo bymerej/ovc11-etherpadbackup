@@ -3,6 +3,8 @@ Video and Open Educational Resources
 Session Type: Working Group (Invite-Only)
 Time: 1:30-4:30, Saturday and Sunday
 
+pre-session planning document: http://openetherpad.org/videooer
+
 Goals
  * Build relationships between key players in the open education community working with or interested in using video
  * Identify challenges and gaps in the open education landscape with regard to video
@@ -10,7 +12,12 @@ Goals
  * Identify principles, values and standards for this field
  * Share experiences and brainstorm innovative strategies
  * Cross pollinate ideas between different areas within this community, such as higher education, public media, secondary education, youth empowerment, online learning and digital literacy
+ * Achieve consensus on one or two technical/design challenges/gaps in the field that are the most pressing, to be addressed at the Mozilla Drumbeat Festival in November
 
+
+Big Ideas/ Planned Collaborations
+
+Principles/Standards
 
 Resources and Links
 
@@ -28,17 +35,18 @@ Other University OER Video Projects
  * Stanford E-Corner http://ecorner.stanford.edu/
  * New Media UFM http://newmedia.ufm.edu/
 
-Online Educational Video Projects
+Online Educational Video Projects (or projects making prominent use of video)
  * Khan Academy http://www.khanacademy.org/
  * YouTube Education http://www.youtube.com/education
  * iTunes U http://www.apple.com/education/itunes-u/whats-on.html
  * TED http://www.ted.com/
  * Wikimedia: http://commons.wikimedia.org/wiki/Category:Videos and http://www.wikiversity.org/
  * Big Think http://bigthink.com/
+ * Academic Earth http://academicearth.org/
+ * Sookmyung Network for an Open World http://www.snow.or.kr/
+ * Udemy http://www.udemy.com/
 
-Big Ideas/ Planned Collaborations
 
-Principles/Standards
 
 (the organization of this session is inspired by Aspiration Tech's Facilitation Model - http://facilitation.aspirationtech.org/index.php?title=Main_Page)
 
