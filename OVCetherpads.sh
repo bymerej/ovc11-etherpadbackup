@@ -47,6 +47,7 @@ set -x
 
 EXPORT_URL_TEMPLATE="http://openetherpad.org/ep/pad/export/%s/latest?format="
 REPO_BASE_PATH="$HOME/ovc11-etherpadbackup"
+UA_STRING='OVC2011 etherpad backup bot (questions: conference@openvideoconference.org)'
 
 mkdir -p "$REPO_BASE_PATH/pads"
 pushd "$REPO_BASE_PATH/pads" >/dev/null
@@ -60,9 +61,10 @@ pushd "$REPO_BASE_PATH/pads" >/dev/null
 for pad in $pads; do
     url="$(printf "$EXPORT_URL_TEMPLATE" $pad)"
     for format in txt html; do
-        wget -q -O - "$url$format" > "$REPO_BASE_PATH/pads/$pad.$format" || \
+        wget -q -U "$UA_STRING" -O - "$url$format" > "$REPO_BASE_PATH/pads/$pad.$format" || \
             echo FAILED: pad from \'"$url$format"\' >&2
     done
+    sleep .2
 done
 
 git add .
