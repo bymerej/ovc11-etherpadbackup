@@ -45,7 +45,7 @@ EOF
 
 set -x
 
-EXPORT_URL_TEMPLATE="http://openetherpad.org/ep/pad/export/%s/latest?format=txt"
+EXPORT_URL_TEMPLATE="http://openetherpad.org/ep/pad/export/%s/latest?format="
 REPO_BASE_PATH="$HOME/ovc11-etherpadbackup"
 
 mkdir -p "$REPO_BASE_PATH/pads"
@@ -59,8 +59,10 @@ pushd "$REPO_BASE_PATH/pads" >/dev/null
 
 for pad in $pads; do
     url="$(printf "$EXPORT_URL_TEMPLATE" $pad)"
-    wget -q -O - "$url" > "$REPO_BASE_PATH/pads/$pad.txt" || \
-	echo FAILED: pad from \'"$url"\' >&2
+    for format in txt html; do
+        wget -q -O - "$url$format" > "$REPO_BASE_PATH/pads/$pad.$format" || \
+            echo FAILED: pad from \'"$url$format"\' >&2
+    done
 done
 
 git add .
