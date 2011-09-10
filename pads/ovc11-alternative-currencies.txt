@@ -173,9 +173,15 @@ Example: stuff/services you can only buy/use with bitcoin
 
 - Bitcoin's second generation software to improve UI/Ux.
 
-Bitcoin communi
+Bitcoin development community really focusing on usability now. 
 
 - a method to obtain Bitcoin without mining or buying with USD.
+
+And if you can buy the things you need with bitcoin, there's less currency risk.
+
+
+
+
 
 [ Hurriquake Group ]
 Monetizing the Web
