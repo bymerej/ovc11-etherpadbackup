@@ -63,5 +63,5 @@ DISCUSSION
 * retain connection when switching networks/ IP addresses? not sure it works
 * SIP signalling gateways exist in telephone providers
 * codec transcoding gateways are not something that people want to implement
-
+* applications: screen sharing, e.g. a live video editing session, real-time file sharing 
 

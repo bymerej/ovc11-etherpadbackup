@@ -54,10 +54,17 @@ Web Formats:
 -- FLV + VP6 (Commercial, royalty-free)
 -- Real (???)
 
+Compatibility:
+-- UGC challenges
+-- Professional challenges
+
 Challenges:
 -- Quality and time, bitrate
 -- Licensing: patent licensing, software licensing
 -- Device compatibility
+
+Approaches:
+-- frm
 
 Metadata preservation
 -- Some data passed manually alongside of a video (title, author)

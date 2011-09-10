@@ -40,8 +40,13 @@ Issues:
 
 Harlo-(Guardian Project) -- adding metadata to video
  * Challenges - Verifying the source
- * 
+   * collaboration between press, content distributers, human rights groups
+     * takes a LOT of work, a privilege that is difficult to afford
 
+Key challenge is how much expertise is required simply to verify one video - as more and more content online there is a need to identify alternative ways of verification, or streamlining processes.
+
+ * Contemporary Metadata Schematics
+   * Dublin Core, Internet Archive, SMIL, PBCore, HTML5
 
 In advance of the session here are the session leader bios:
 
