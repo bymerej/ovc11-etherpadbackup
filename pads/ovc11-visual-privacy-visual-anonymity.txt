@@ -79,14 +79,15 @@ What are the ways to address some of these issues? What are possible solutions?
  * Personal level
    * Understanding risk analysis. Anyone can track you but are they? What are you willing to sacrifice
      * ??Nate from the Guardian Project?? is two degrees from Julian Assange, it's pretty well known but he hasn't been stopped by authorities
-   * There are levels of privilege. Some people can get a job
+   * There are levels of privilege. Some people can get a job and still have party photos
+   * If you're in a small town people already know who you are vs. a city.
  * Tech development level
-- The people who develop tools and platforms can have a limited understanding
+- The people who develop tools and platforms can have a limited understanding of how the technology affects citizens in completely different contexts to the users they imagine they are designing for - particularly for activists in places like Syria for example.
 
 Interesting demonstrations of privacy awareness/personal management
  * Facebook Users' Phone Numbers Exposed by “Evil” App
    * http://mashable.com/2010/05/24/evil-facebook/
-* Rich Pell at CMU designed iSee, which was intended to enable users to avoid surveillance by providing maps of camera locations http://www.appliedautonomy.com/isee.html
+* Rich Pell and Trevor Paglen at CMU (as the Institute for Applied Auton iSee, which was intended to enable users to avoid surveillance by providing maps of camera locations http://www.appliedautonomy.com/isee.html
  * Facebook´s privacy changes - importance of "a right to awareness"
  * Using Google alerts on names too know what is being put out there 
  * Online identity management tools - Is it naive to think that this is a solution given lack of transparency in much broader data surveillance and tracking?

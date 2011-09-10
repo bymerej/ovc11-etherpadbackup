@@ -50,6 +50,8 @@ Session Prpoper:
 Breakdown the conventions
     > tagline / side effects 
     
+Is it necessary to have
 
-
+    > Place for commentary
+    > Deconstruct a piece to bring to the surface these issues
 
