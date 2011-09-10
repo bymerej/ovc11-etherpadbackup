@@ -22,5 +22,6 @@ Discussion topics:
  * current state of <track> element
  * multitrack API: @mediagroup
  * run scripts at certain time: @kind=metadata track
+ * security considerations: CORS & same-origin
 
 

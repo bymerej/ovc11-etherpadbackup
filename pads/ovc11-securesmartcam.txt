@@ -3,8 +3,7 @@ Technology for Anonymization
 
  * Introduction to tools & technology
  * Review scenarios and proposals from previous sessions
- * 
- * 
+
 =====================================
 INTRODUCTION 
 =====================================
@@ -155,7 +154,15 @@ Verification, obfuscation, redaction - draw on different libraries to create sec
 
 Globalleaks - opensource leaking platform launching = Rich, not a good idea, since don't want necessarily to lower the barrier to entry for secure data too low. People can't set up secure Wordpress most of the time, do you want them to have secure Wikileaks.
 
-N
+Voice distortion app. Could you use auto-tune or random warble.
+
+*********
+
+Nathan - will lead into next eight weeks of the Sprint.
+
+
+
+
 
 
 
