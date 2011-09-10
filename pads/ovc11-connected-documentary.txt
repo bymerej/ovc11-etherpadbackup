@@ -201,7 +201,7 @@ Collaborative documentary lab. Experiment in connected documentary. Omnibus film
 
 New project. Use documentary and storytelling to increase community and connection among the south side's diverse... Talk about the neighborhood's history and make history today.
 
-Brooklyn like Los Sures is the name of the new project. Based on a "lost" 1984 documentary film by the same name by Diego Echeverria. Annotate, update and expand the original film, with a collection of new projects. 35 artists, 3 years. 
+Looking at Los Sures is the name of the new project. Based on a "lost" 1984 documentary film by the same name by Diego Echeverria. Annotate, update and expand the original film, with a collection of new projects. 35 artists, 3 years. 
 
 Three main way to "augment" the original feature
 - Annotations
@@ -234,6 +234,11 @@ Challenges and Invitation to Brainstorm:
 - Digital divide & poverty 
 - Participation & Motivation
 - In-points to projects/ production 
+
+CONTACT: christopher@uniondocs.org
+
+Q: Plugin ready or collaborating with developers?
+A: Wanting to use popcorn, will need developers for that/ the project design will 
 
 ===============================================================
 
