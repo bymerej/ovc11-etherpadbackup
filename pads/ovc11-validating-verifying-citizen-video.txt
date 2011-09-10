@@ -53,7 +53,14 @@ Key challenge is how much expertise is required simply to verify one video - as 
  * Future Metadata standards
    * ??system from John Hopkins??
    * Smartphones
-     * i.e. "Color" app http://www.color.com/ takes geolocation, light sensor
+     * i.e. "Color" app http://www.color.com/ takes geolocation, light sensor, with whom, social context, ties into social graph
+     * Viewdle, API for facial recognition. Images themselves have biometric data.
+
+"We shouldn't think ourselves as victimized by this, we should figure out how to take advantage of it"
+
+Informa Metadata Schematic
+ * Consent
+ * Genaeology
 
 In advance of the session here are the session leader bios:
 

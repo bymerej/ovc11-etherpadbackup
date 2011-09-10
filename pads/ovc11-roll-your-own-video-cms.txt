@@ -62,6 +62,7 @@ Challenges:
 -- Quality and time, bitrate
 -- Licensing: patent licensing, software licensing
 -- Device compatibility
+-- Scaling
 
 Approaches:
 -- open: ffmpeg, mencoder, ffmpeg2theora, avidemux, Handbrake, x264, FireOgg, Miro Video Converter, Xuggle
