@@ -16,5 +16,11 @@ Objectives
 - An automatic lip-syncer that collects every possible syllable-shape that a mouth can make so you can lipsync anything you want 
   (see some of the "read my lips" videos http://bit.ly/qK9z68 -- we would have to do research on the different syllable formations)
 
-5) Discussions 
+
+
+Session Prpoper:
+
+- Projects that could do something with video gameplay footage?
+
+
 

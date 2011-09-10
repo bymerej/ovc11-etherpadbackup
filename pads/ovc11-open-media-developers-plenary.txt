@@ -21,7 +21,7 @@ Eric Pettijon (sp?) - Realtime delivery of media clips, hiring
 Chris Rogers - Web developer, working on "Land of opportunity" film project
 Here to learn about popcorn.js
 
-Zack - Long tail video (jwplayer)
+Zack Ozer - Long tail video (jwplayer)
 Talk about how to make video work for all platforms. Make the best user experience, metrics, and all that jazz.
 
 Foolip - Opera
@@ -37,5 +37,11 @@ Michael Dale - kaltura/wikimedia
 Working on player, find out what's happening in open source video
 
 Eric Carlson - Apple
-Lead developer on WebKit HTML5 audio/video. Involved with standardization at W3C from the begininng and involved with accessibility over the last couple of years. Inter
+Lead developer on WebKit HTML5 audio/video. Involved with standardization at W3C from the begininng and involved with accessibility over the last couple of years. Interested in all of those things and hope to see <track> element and captions show up in the wild
+
+Tracey Jacquith - archive.org
+Big library and digital storage, starting to record TV. Interested in players, interoperability, editors, universalsubtitles.org. Main storage eng, migrating to video.
+
+Richardo duod - 
+Eye candy, show, google creative labs work. 
 
