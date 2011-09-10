@@ -4,9 +4,12 @@ Session Leaders:
  * Pat Aufderheide (American University Center for Social Media)
  * Elisa Kreisinger (PopCulturePirate.Org)
  * Karl Fogel (QuestionCopyright.Org)
+   * Copyright and free speech as in opposition with each other. 
+     * Quality of copyright discussion as very low.
+     * Minute Memes 
  * Richard Esguerra (Electronic Frontier Foundation)
    * 2006- EFF caught whiff of CA passing a law mandating schools to teach copyright as part of their curriculum.
-     * Created a website (Teachingcopyright.org), edu
+   * Created a curriculum available @ http://teachingcopyright.org
 
 Canvasing the audience on what we want to achieve:
  * Add a symmetry with how people understand copyright. 

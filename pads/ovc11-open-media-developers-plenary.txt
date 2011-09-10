@@ -116,5 +116,20 @@ Frank G - Google
 WebM spec and tools.
 
 John Kolezar - Google
-libvpx maintainer 
+libvpx maintainer, making realtime vp8 work better for webrtc. Share more about what we're doing, run our project more openly
+
+Anna Cavender - Gooogle
+Accessibilty. Implementing track and webvtt in Chrom
+
+Andrew - Google
+ditto
+
+David Rice -AudioVisual preservation
+Application of opensource video in service of archive preservation
+
+Greg Maxwell - Xiph.org
+Ogg, Theora, Opus codecs
+
+Xavier M - 
+Organize and index all government meetings
 

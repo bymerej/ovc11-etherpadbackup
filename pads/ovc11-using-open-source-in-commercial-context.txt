@@ -29,4 +29,5 @@ Licensing (I am not a lawyer)
     Weak C-left: LGPL, Mozilla (have to publish changes/patches)
     Not restrictive: MIT, BSD, Apache (no requirement to publish)
     "More liberal" == MIT, etc. (doesn't infect other software that touches it)
+GPL gets triggered when you distribute. Gray area if you're doing SaaS, but most people assume you're free to do what you want.
 
