@@ -1,5 +1,4 @@
+The Missing Link: Flash to HTML5
 
-Welcome to EtherPad!
-
-This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
+Zohar Babin
 
