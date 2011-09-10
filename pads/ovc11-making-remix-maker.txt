@@ -78,4 +78,10 @@ For use in the classroom:
     
 
 Making tags flexible  
+- how to deal with 1000s of clips
+- dealing with a large archive to retrieve smaller clips
+
+Challenge:
+- How do you log the clip?
+
 

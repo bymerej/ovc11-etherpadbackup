@@ -20,12 +20,11 @@ Five Scenario Areas
    * Facebook Users in the Global North (i.e. USA)
    * The existance of an history that's always on the record has already begun to alter behavior of individuals who now self-censor to ensure that information does not get put up online.
 
-Jillian
+Examples of online information privacy situations
 
 Lebanon is more "liberal" country in Arab middle east, has support for gay community
    * Activist in Lebanon stopped worrying about online exposure. 
    * Then learned Mom joined Facebook, changed perspective
-
 
 i.e. Gay girl in Demascus hoax in Syria -- outed a photo of a lesbian in London without her intention
 
@@ -85,7 +84,7 @@ What are the ways to address some of these issues? What are possible solutions?
  * Cultural level
    * Maybe if more 'shaming' is likely, like in British riots, then the criminal-consequences should change.  If no one wants to be shamed, there can at least be less power by the system
    * changing the way we think of privacy - not a question of whether our data is safe, but to what extent it is safe, for how long. Not up to people to manage their information, requires developments at systematic level to measure risk, understanding who controls
-   * 
+   * the "dog poop girl" was actually the subject of so much public shaming that she withdrew from university, a result that seems vastly disproportionate to her violation of social norms -- http://blogoscoped.com/archive/2007-10-15-n68.html
 
  * Personal level
    * Understanding risk analysis. Anyone can track you but are they? What are you willing to sacrifice
@@ -93,12 +92,16 @@ What are the ways to address some of these issues? What are possible solutions?
    * There are levels of privilege. Some people can get a job and still have party photos
    * If you're in a small town people already know who you are vs. a city.
  * Tech development level
+   * partitioning data online so that no individual ISP can hand over data because it's internationally scattered
+     * technically possible, but governments, i.e. Turkey, will 
 - The people who develop tools and platforms can have a limited understanding of how the technology affects citizens in completely different contexts to the users they imagine they are designing for - particularly for activists in places like Syria for example.
     Any individual intermediary  tends not to consider it their own responsibility to provide for   anonymity/data protection--but when we all have to speak through  intermediaries--usually multiple intermediaries--to speak, and no one  individually feels it is their responsibility, the information  environment is one where free speech is suppressed.
 
 Importance of open data, even when it is sensitive and could impinge on important individual privacy questions - necessary to be able to challenge. The problem is not technology, the problem is vigilante justice.
 
-Could absolute transparency create a different informational norm (that is consistent, with accepted expectations) would this change the apparent tension between due process/privacy and absolute transparency
+
+
+Could absolute transparency create a different informational norm (that is consistent, with accepted expectations) would this change the apparent tension between due process/privacy and absolute transparency?
 
 False public sphere/private sphere dichotomy in the digital age - it is not always clear what information is being shared "publically", which has reverberations in the legal sphere as there is no adequate definitions
 

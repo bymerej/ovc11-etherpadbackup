@@ -8,13 +8,13 @@ Time: 12:00pm – 1:30pm
 
 Description
 Ever wanted to get YouTube-like functionality on your site? There’s a huge range of options, from self-hosted to SaaS, that cover the top-to-bottom of managing video. In this session, we’ll take a look at the following:
-   * An overview of the video stack (app, hosting, encoding, uploader,
-   * video player)
+   * An overview of the video stack (app, hosting, encoding, uploader, video player)
    * An overview of open source and paid solutions for each step
    * Questions of participants around challenges of building a video CMS.
    * Open questions and discussion.
 Outcome
 Greater understanding of the range of available options, opportunities and challenges in rolling your own video CMS
+
 
 
 
