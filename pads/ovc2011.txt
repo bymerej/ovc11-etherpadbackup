@@ -91,11 +91,11 @@ http://openvideoconference.org/notes/ovc11-alternative-currencies
 http://openvideoconference.org/notes/ovc11-connected-documentary
 http://openvideoconference.org/notes/ovc11-database-driven-narratives
 http://openvideoconference.org/notes/ovc11-defensive-patent-license
-http://openvideoconference.org/notes/ovc11-designing-a-next-generation-tv-interface
-http://openvideoconference.org/notes/ovc11-designing-storyworlds
+http://openvideoconference.org/notes/ovc11-designing-a-next-generation-tv-interface (empty)
+http://openvideoconference.org/notes/ovc11-designing-storyworlds (empty)
 http://openvideoconference.org/notes/ovc11-device-inputs-av-in-the-browser
-http://openvideoconference.org/notes/ovc11-dmca-automation
-http://openvideoconference.org/notes/ovc11-fun-with-webgl
+http://openvideoconference.org/notes/ovc11-dmca-automation (empty)
+http://openvideoconference.org/notes/ovc11-fun-with-webgl (empty)
 http://openvideoconference.org/notes/ovc11-intro-to-popcorn-js-and-pitch-session
 http://openvideoconference.org/notes/ovc11-is-the-web-safe-for-expression
 http://openvideoconference.org/notes/ovc11-making-remix-maker
