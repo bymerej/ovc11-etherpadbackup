@@ -8,5 +8,8 @@ Potential topics:
  * Transcript ‒ can it be built into browsers in a sane way?
  * Descriptions ‒ synthesis?
  * WebVTT in WebM
+ * 
+ * search
+ * chaptering and subchaptering, also useful for 
 
 
