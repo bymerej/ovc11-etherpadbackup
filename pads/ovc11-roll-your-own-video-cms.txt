@@ -64,8 +64,9 @@ Challenges:
 -- Device compatibility
 
 Approaches:
--- open: ffmpeg, mencoder, ffmpeg2theora, avidemux, Handbrake, x264, FireOgg, Miro Video Converter
--- closed
+-- open: ffmpeg, mencoder, ffmpeg2theora, avidemux, Handbrake, x264, FireOgg, Miro Video Converter, Xuggle
+-- closed: Flix Engine (EOL), Telestream Episode, Rhozet, Pipeline, Flash Video Encoder, Quicktime, Compressor, Squeeze, etc.
+-- cloud: Zencoder, Encoding.com, Panda
 
 Metadata preservation
 -- Some data passed manually alongside of a video (title, author)
