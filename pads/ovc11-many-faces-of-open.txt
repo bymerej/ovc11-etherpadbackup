@@ -30,5 +30,11 @@ Hardware:
 Software players:
     Cost-free        o
     Legally free    ?        (patent risks unknown)
-    
+    Accessable    o-        (digital divide)
+    Participatory    -        (open-source)
+Software tools:
+    Cost-free        x+            (low-cost but not free editing software)
+    Legally free    x                (open source still at early stage)
+    Accessable    -            (digital divide)
+    Participatory    
 

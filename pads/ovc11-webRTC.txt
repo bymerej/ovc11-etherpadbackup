@@ -80,3 +80,7 @@ DISCUSSION
 * is there a p2p websocket API? media goes over RTP and thus over UDP and is unreliable; do we build a reliable channel over this or do we leave it to the Web developer; is it possible to do this via Web sockets?
 * are there going to be implemeter prescriptions for the protocols?
 
+
+Outcome:
+Create a break-out group to discuss use cases, signall
+
