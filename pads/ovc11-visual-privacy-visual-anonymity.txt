@@ -69,7 +69,9 @@ What are the ways to address some of these issues? What are possible solutions?
      * related to helen nissenbaum's idea of 'information flow' and contextual integrity
        * But not sufficient: imbalance of power still exists when the government/private sources have the entire collection and can aggregate it, when you only have your own.
    * Legal precedent with being forced to hand over encryption key
-     * i.e. ??woman insurance case?? she refused to hand over encryption key to her hard drive to the courts, case is pending but she seems to be ??winning?? on grounds of 5th Amendment right against self-incrimination
+     * i.e. US v. Fricosu, and it's in the Colorado district court -- https://www.eff.org/press/archives/2011/07/08 
+       * she refused to hand over encryption key to her hard drive to the courts, case is pending but she seems to be ??winning?? on grounds of 5th Amendment right against self-incrimination
+And right now he's talking about L
  * Corporate Policy level
    * http://my.nameis.me -- Examples of who is harmed by real name policies, campaign to change Google+ policy
 
@@ -91,7 +93,7 @@ False public sphere/private sphere dichotomy in the digital age - it is not alwa
 
 For example - recent push by the Philadelphia PD to get private business owners to register their cameras with the police department, essentially using private resources to gather evidence of crimes. The Philly ACLU currently doesn't see a legal problem here (and they're right) but is there an ethical problem? Where's the line between evidence-gathering and privacy violation?
 
-THe gray areas where privacy is nuanced
+The gray areas where privacy is nuanced creates serious ethical dilemmas, maybe a philosophical question before its a legal question
 There is no such thing as digital media content that can be created and shared in a controlled way?
 
 Interesting demonstrations of privacy awareness/personal management
