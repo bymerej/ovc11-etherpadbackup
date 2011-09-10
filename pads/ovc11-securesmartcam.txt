@@ -1,5 +1,6 @@
 
 Technology for Anonymization
 
- * 
+ * Introduction to tools & technology
+ * Review scenarios and proposals from previous sessions
 
