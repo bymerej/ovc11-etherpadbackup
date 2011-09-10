@@ -44,8 +44,13 @@ Q7 - Archiving issues
 http://constellation.tv
 
 Q8 - How to integrate the content in a relevant web experience ?
-- Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency
+- Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency.
+- http://amianet.org Association of moving image archivist might be of interested to contribute for this kind of data structuration. Posting a message to their list-serv with
 
+
+AMIA.org
+
+Asosciation of Moving Image Archivists
 
 
 
