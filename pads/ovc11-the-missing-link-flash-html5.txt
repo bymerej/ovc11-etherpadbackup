@@ -9,7 +9,7 @@ Silvia Pfeiffer, Google
 * fragmentation of features
 * is innovation getting in the way of colaboration?
 
-WRITE BUG REPORTS
+WRITE BUG REPORTS if browser implementations are giving you headaches
 
 == Use Cases ==
 
