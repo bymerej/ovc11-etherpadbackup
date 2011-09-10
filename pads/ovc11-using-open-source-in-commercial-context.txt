@@ -42,5 +42,13 @@ Benefits of choosing to be Open vs. Closed
 
 Open
 -------
-Lower deve
+Lower development costs (if you can make a community)
+Easier Adoption
+
+Closed
+----------
+Less
+Building community isn't easy
+IP
+Not giving away your competitive advantage
 

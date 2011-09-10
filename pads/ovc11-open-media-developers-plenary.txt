@@ -49,7 +49,7 @@ Big library and digital storage, starting to record TV. Interested in players, i
 Richardo duod (?) - @mrdoob 
 Eye candy, show, google creative labs work. Want to talk to developers fixing tools.
 
-Mark Watson -netflix
+Mark Watson - netflix
 Make sure HTML5 grows into the kind of thing we can use for our service. Evolve for embedded, set-top, tvs.
 
 Tim Terriberry - Mozilla, Xiph.Org
@@ -84,7 +84,7 @@ Metrics, adaptive streaming, see how the sausage is made
 Greg Schechter - Youtube
 better xp ux
 
-Matt - Youtube
+Matt Ward - Youtube
 Adaptive streaming, client side flash player. here to learn about html5
 
 Jedehan - 
@@ -160,7 +160,7 @@ Nathanael Lécaudé  - studio imaginaire -  Montreal
  Open technology for artistic software, audio editing, OLPC (tam tam programmer)
  
  Simon - studio Imaginaire
- Interested in coding, creatives,
+ Interested in bridges between open technologies and new narratives
  
  Abram Stern (Aphid) - UCSC, Metavid
  Work with gov't video to digitize and put online as open video with metadata
