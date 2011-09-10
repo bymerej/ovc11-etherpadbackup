@@ -61,4 +61,8 @@ Services/Support (Redhat, Drupal)
 Open + SaaS (Wordpress)
 Dual Licensing
 Add-ons/App Store (Android)
+Advertising
+Drive to other revenue. Promoting other revenue generating products
+Open + Closed
+Freemium
 

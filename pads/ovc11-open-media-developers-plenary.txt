@@ -15,7 +15,7 @@ Working on "co-create" film crew and location scouting, crowd-sourcing film prod
 Roger MacDonald - archive.org
 Semantic schema on online video, television, candidate background information, and the like. Particularly interested in using sub
 
-Forest Mars - manhattan neighbor network
+Forest Mars - Manhattan Neighborhood Network
 Largest community tv network in the world.
 Preserving content from a quantitative and a qualitative point of view. Curiatorial aspects of video. Evolution of Television vs Internet, and not making the same mistakes we did in tv with business interests.
 
@@ -188,7 +188,13 @@ On Monday we'll be at the Events Center around the corner. That's the official h
 
 Separation of "technology" and "open media developer" tracks
 
-Web Audio API - competing proposals
-Streaming server implementations - Luca, Thomas
-Media Stream API proposal - browser people should talk about that
+* Web Audio API - competing proposals
+
+* Streaming server implementations - Luca, Thomas
+
+* Media Stream API proposal - browser people should talk about that in the device api session, maybe follow up on monday
+
+* Content protection in HTML5
+
+* Playlists, APIs among players and browsers. Mu
 
