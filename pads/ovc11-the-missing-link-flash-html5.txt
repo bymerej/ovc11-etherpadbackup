@@ -25,7 +25,8 @@ sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-sp
 
 canvas.getMediaStream() is another way forward
 
-the biggest issue is: how to use canvas with capturing video frames withou
+the biggest issue is: how to use canvas with capturing video frames without losing any data, i.e. in a synchronised manner -> we need timestamps in canvas media frames
+
 
 * DRM
 ** What hooks do we need
@@ -33,5 +34,6 @@ the biggest issue is: how to use canvas with capturing video frames withou
 ** encryption key should be published
 ** secure key exchange
 ** proxy opaque DRM messages over HTTP
+** is applicable to many other areas (ecrypted messaging, etc.)
 
 

@@ -8,8 +8,11 @@ Watching One Millitonth Tower making of video by Katerina Cizek  as an introduct
 - What are the benifits of having developers in the creative process.
 - How to enrich narratives with theses tools, which might at first seem gimmicky
 
+===============================================================
 
 Presentation of inspiring documentary projects using open web technologies 
+
+===============================================================
 
 ** 30 Mosques, 30 States, 30 days || http://30mosques.com/ || 30 Mosques in 30 States is Aman Ali and Bassam Tariq’s Ramadan road trip across the United States.
 
@@ -49,23 +52,14 @@ Q8 - How to integrate the content in a relevant web experience ?
 - Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency.
 - The Association of Moving Image Archivist http://amianet.org  might be of interested to contribute for this kind of data structuration. Posting a message to their list-serv could be a good way to get in touch with them.
 
-Q9 - Comment about the specitify of the 30 days roadtrip VS something else (missed it, sounded good if anyone can summarize it).
+Q9 - Comment about the specitify of the 30 days roadtrip VS something else (missed it, sounded good if anyone can summarize it). Basically, what about another organizing structure alternative to the map. What about using the 30 days of Ramadan as the organizing structure? The map neutralizes the content, this (calendar/ temporality) could bring all threads together
 
 Q10 - Release strategy for the feature documentary.
-- Composite web
-
-
----------------------------------------------------
-
-
-
-AMIA.org
-
-Asosciation of Moving Image Archivists
+- Possibilities to integrate web elements in the film frame.
 
 ===============================================================
 
-The Tillman Story
+The Tillman Story - Amir Bar-lev
 
 
 
