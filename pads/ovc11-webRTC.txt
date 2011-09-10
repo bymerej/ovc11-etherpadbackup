@@ -1,5 +1,12 @@
-Hi there Me too i say this is really fantastic absolutly
-Welcome to EtherPad!
+WebRTC
 
-This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
+Jan Linden, Google
+Tim Terriberry, Mozilla
+CISCO
+
+== Introduction - what is WebRTC
+
+* real-time communication: need for open and free solutions
+* 
+
 

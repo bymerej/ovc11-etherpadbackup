@@ -49,12 +49,15 @@ Notes:
    * Code of Best Practices for Online Video: http://centerforsocialmedia.org/fair-use
  * Living in Dream Land:
    * If your youtube video gets taken down, there would be a set of tools where you can click check boxes claiming you had fair use. Have an interactive interface through which you can engage with the ways in which decisions are made. As it is now, little transparency.
+   * Again in fantasy land, you can also keep track of how many times fair use has been claimed and/or exercised.
  * Even if you know your rights, it's scary.
  * Link to the Lenz v. Universal EFF page: http://www.eff.org/cases/lenz-v-universal
  * Moving away from morality and move toward how we can make it clear in a business environment that it's ultimately bad for business. Demonstrating the potential for creativity.
  * A lot of people are afraid of transgressing, which changes what fair use becomes. You cannot make fair use become a transgressive instrument. 
    * Technically, everyone is a transgressor?
      * Should we leave it that way so as to not introduce a new fear in people who do not even know that they are transgressors. 
+ * Consolidating cases cataloguing what's happened, how, why, etc.
+ * ACLU's book
 
 The Website: KnowYourCopy.Org
 
