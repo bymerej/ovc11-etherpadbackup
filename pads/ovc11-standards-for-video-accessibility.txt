@@ -21,5 +21,6 @@ Discussion topics:
  * simplicity to translate between new format and e.g. SRT
  * current state of <track> element
  * multitrack API: @mediagroup
+ * run scripts at certain time: @kind=metadata track
 
 

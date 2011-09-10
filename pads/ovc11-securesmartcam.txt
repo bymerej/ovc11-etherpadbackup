@@ -140,9 +140,22 @@ Tool that spits junk data - is there a way to effectively create chaf for human 
 
 Social media environment scenario
 
-*Have functionality that defaults to your name 'not being suggested' for tagging
+Have functionality that defaults to your name 'not being suggested' for tagging
 
-Try and confuse the system, e.g. using Harlo's face, and trying to game Facebook (Rich's friend trying to do this with tagging of someone else as him - it works). Is there a way to use Facebook API to radn
+Try and confuse the system, e.g. using Harlo's face, and trying to game Facebook (Rich's friend trying to do this with tagging of someone else as him - it works). Is there a way to use Facebook API to randomly tag people as you? or needs to be a composite face (in order to avoid tagging someone else as you who will suffer repercussions because of your ID; c.f. gay girl in damascus discussion from this am).
+
+
+App-builders
+
+We should build modular technology in pieces to put together in different ways
+
+Bulding good libraries - that you can build from to use
+
+Verification, obfusca
+
+
+
+
 
 
 
