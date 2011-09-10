@@ -95,6 +95,11 @@ Captioning:
 -- Metavid - OCR and speech-to-text, universalsubtitles.org, sublr
 -- Web versions of broadcast video in US must include subtitles, starting next year
 
+CAPTURE
+=================
+-- pluraleyes, fcpx (multi-input sync)
+
+
 PLAYBACK
 =================
 

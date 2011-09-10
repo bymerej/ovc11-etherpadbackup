@@ -68,5 +68,7 @@ DISCUSSION
 * are schemes like ZRTP supported? not right now; don't have secure conversation through an untrusted website!
 * have all the browsers implement Kademlia?
 * isn't the WebRTC stack over-engineered? is there a slim version of WebRTC? e.g. for Web server content that connects to non-browser UAs like vlc; you should support codecs and probably SIP if you don't want to support JavaScript
-* WebRTC and mobile? can VP8 run 
+* WebRTC and mobile? can VP8 run on phones? wait for HW implementations.
+* chrome on mobile and WebRTC? right now phone users use apps more than the browser; in future it will be both and increasingly browsers
+* 
 
