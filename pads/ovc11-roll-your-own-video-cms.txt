@@ -67,5 +67,7 @@ Transcript
 
 Captioning:
 -- WGBH captioning as a service for broadcast
--- Closed captions (separate from videovs. open captions
+-- Closed captions (separate from video) vs. open captions (burned into video)
+-- Metavid - OCR and speech-to-text, universalsubtitles.org, sublr
+-- Web versions of broadcast video in US must include subtitles, starting next year
 
