@@ -62,5 +62,14 @@ Ralph Giles - Mozilla, works on Ogg /WebM/ WebVTT/ WebRTC
 WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
 
 Thomas van der Stichele - gstreamer
-Flumotion streaming server, WebM and Theora support. Recently star
+Flumotion streaming server, WebM and Theora support. Recently started live transcoding. Streaming the conference today. Interested in develoiper connections.
+
+Jasmine Langridge - YouTube,  web interfaces for tv
+Interested in WebGL, what people are excited in.
+
+Ian Small - Talkbox
+Working on f2f cloud video. interested in webrtc to make it more open.
+
+Luca Barbato - libav (nee ffmpeg)
+Interested in network protocols, codecs. Interested in webrtc background. Please use libav directly rather than us
 

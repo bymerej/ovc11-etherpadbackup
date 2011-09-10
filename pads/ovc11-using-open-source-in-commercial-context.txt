@@ -19,8 +19,9 @@ Developer/Corporate Relations
 - MediaEncoder heated discussion example
 - EFF & Free Software foundation will advocate for developers in legal situations
 
-Licensing
-
+Licensing (IANAL)
+- Open source vs. Free Software
+    - If you don't provide a license with code, it's assumed to be restrictive
 
 
 
