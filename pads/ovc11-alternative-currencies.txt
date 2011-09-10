@@ -41,6 +41,7 @@ Bruce Wagner, OnlyOneTV, The Bitcoin Show http://onlyonetv.com
 Daniel Liss, http://pouringdown.tv
 e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/ hwilson@gmail.com
 Jeremy Baron, @bymerej (identi.ca too)
+Dennis Stevens denstevens@gmail.com
 
 ###
 
@@ -52,7 +53,7 @@ Make a system where virtual goods / game mechanics / transparency / social psych
 
 Make it so we can donate to anyone (even collaborators/remixers, even if we don't know who they are) PER
 
-In an open ecosystem with digital content, there should be a way of adding value to all parts of the ecosystem. Which parts are worth most, is 
+In an open ecosystem with digital content, there should be a way of adding value to all parts of the lifecycle of a piece of content. This includes remixes, distrubution channels, etc. Which parts are worth most is up to "the market".
 
 
 
