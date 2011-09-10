@@ -34,8 +34,18 @@ Andrew Lee, Mt. Gox, andrew.lee@mtgox.com
 Fran Ilich, Eyebeam - Spacebank http://spacebank.org ilich@sabotage.tv
 Bruce Wagner, OnlyOneTV, The Bitcoin Show http://onlyonetv.com
 Daniel Liss, http://pouringdown.tv
-
 e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
+
+
+Ease of use with Bitcoin
+
+Virtual goods, game mechanics, psychology of donations
+
+How do I donate to a Youtube user?  How do I donate to somebody who doesn't know about these systems?
+
+
+
+
 
 
 Use cases for alternative currencies and compensation
@@ -250,6 +260,9 @@ Barter! Fair trades for things
 Move away from the abstract attempt at decimal point representation of value. What if value was represented as just value. 
 
 We need a fundamental new understanding of what value is, how it's exchanged and the organizational intelligence that is exists when transactions retain value into the future.  (Money is just a memory of transactions that happened over past decades)
+
+Focal Points
+
 
 ####
 
