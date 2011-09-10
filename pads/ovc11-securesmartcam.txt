@@ -30,6 +30,9 @@ Rich Jones -- OpenWatch
  * iphone & Android apps, records audio then gives option to upload to openwatch site, openwatch redacts by listening sensitive personally information (i.e. Social Security #s)
    * i.e. citizen refuses DUI in San Diego -- http://openwatch.net/view/3543
      * lead to investigation by state of CA
+ * Also a voice Dropbox, user dials phone # and records and submits to site
+   * Responding to a request to start using in Jamaica
+
  * LectureLeaks
    * allows students to upload college lectures
 
