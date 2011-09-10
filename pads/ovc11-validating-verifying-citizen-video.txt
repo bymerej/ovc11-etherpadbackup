@@ -30,7 +30,7 @@ Here's how Storyful verified within a few hours to guide news publishers
 Example of video doctored by Syrian government
  * Storyful advised not to use video, match river on Google maps, was dryer.
 
-Example of Ivory Coast
+Example of Ivory Coast video
 
 Issues:
 1. video take-downs almost automatically - we do not know why, perhaps because of graphic images. Crucial that it is preserved if taken down from social media platforms. (Storyful does this)
@@ -43,10 +43,13 @@ Harlo-(Guardian Project) -- adding metadata to video
    * collaboration between press, content distributers, human rights groups
      * takes a LOT of work, a privilege that is difficult to afford
 
-Key challenge is how much expertise is required simply to verify one video - as more and more content online there is a need to identify alternative ways of verification, or streamlining processes.
+Key challenge is how much expertise is required simply to verify one video - as more and more content online there is a need to identify alternative ways of verification, or streamlining processes/data itself
 
  * Contemporary Metadata Schematics
    * Dublin Core, Internet Archive, SMIL, PBCore, HTML5
+     * PROS - interoperable. "future proof"
+     * CONS - metadata is easy to wipe, it's not "sticky"
+       * fails the "Daubert" test for admissibility of technical analysis as evidence in US -- http://en.wikipedia.org/wiki/Daubert_standard
 
 In advance of the session here are the session leader bios:
 

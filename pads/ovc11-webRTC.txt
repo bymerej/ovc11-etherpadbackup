@@ -63,5 +63,6 @@ DISCUSSION
 * retain connection when switching networks/ IP addresses? not sure it works
 * SIP signalling gateways exist in telephone providers
 * codec transcoding gateways are not something that people want to implement
-* applications: screen sharing, e.g. a live video editing session, real-time file sharing 
+* applications: screen sharing, e.g. a live video editing session, real-time file sharing (e.g. experience video/audio together)
+* cross-origin permission restrictions of what one is able to do with the data? ICE channel gives you the trust
 

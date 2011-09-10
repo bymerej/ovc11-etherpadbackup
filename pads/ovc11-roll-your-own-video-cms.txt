@@ -64,7 +64,8 @@ Challenges:
 -- Device compatibility
 
 Approaches:
--- frm
+-- open: ffmpeg, mencoder, ffmpeg2theora, avidemux, Handbrake, x264, FireOgg, Miro Video Converter
+-- closed
 
 Metadata preservation
 -- Some data passed manually alongside of a video (title, author)
