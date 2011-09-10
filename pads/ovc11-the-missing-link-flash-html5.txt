@@ -24,7 +24,7 @@ Bug Trackers:
 *** Adaptive Streaming
 *** Video Editing
 *** Multiplexing
-*** Syncronized Media
+*** Syncronized Media: @mediagroup has been developed as a solution
 *** Software Transcoding
 
 sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html
@@ -44,8 +44,11 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 ** JS needs to be delivered over HTTPS or as signed JS
 ** what is the patent situation?
 
-Topics for Monday breakouts:
+
+Other sessions:
 * analytics/QOS
+
+Topics for Monday breakouts:
 * video editing
 * adaptive streaming append bytes
 * fullscreen
