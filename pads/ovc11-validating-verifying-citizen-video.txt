@@ -3,5 +3,20 @@ Welcome to EtherPad!
 
 This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
 
-In advance of the session here are the sessio
+In advance of the session here are the session leader bios:
+
+Session Leader BIOS: Validating and Verifying Citizen Video Panel
+ 
+David Clinch is the former Senior International Editor and Social Media expert for CNN. He is the Editorial Director of Storyful.com and Founder of Clinch Media.
+ 
+Sam Gregory helps people use the power of the moving image to create change. He is the Program Director at the human rights organization WITNESS (www.witness.org), where he supervises initiatives that partner on impactful campaigns with grassroots activists using video, and train and support the growing number of video activists to use video safely, effectively and ethically. Within WITNESS ‘Cameras Everywhere’ Leadership Initiative he identifies solutions to the challenges, and ways to capitalize on the opportunities, presented by increasingly ubiquitous video for human rights. Sam has created training tools and programs including the WITNESS Video Advocacy Institute, was lead editor on ‘Video for Change’ (Pluto Press, 2005) and teaches ‘Human Rights Advocacy Using Video and Related Multimedia’ as an Adjunct Lecturer at the Harvard Kennedy School. Sam graduated from the University of Oxford and completed a Masters in Public Policy as a Kennedy Memorial Scholar at Harvard.    
+ 
+Sarah Knuckey is the Director, Project on Extrajudicial Executions, New York University. She has worked with non-governmental and international organisations in Australia, Nepal, Papua New Guinea, Cambodia, the UK and the USA, leading human rights fact-finding missions, reporting on human rights violations and providing humanitarian and human rights legal and policy advice. Her work has addressed a range of humanitarian and human rights concerns, including refugee rights and detention, indigenous rights, counter-terrorism, torture, rape, the right to life, forced relocation, and the liability of transnational corporations and other non-state actors for human rights abuses. Previously, she was a Clerk to the Hon Justice Michael Kirby at the High Court of Australia, Fulbright Postgraduate Scholar, Lionel Murphy Postgraduate Scholar, Harvard Human Rights Program Summer Fellow, and Everett Public Interest Internship recipient (at Human Rights Watch). She has a BA and LLB (Hons) (University of Western Australia), an LLM (Harvard), and is currently a PhD candidate (University of London).
+ 
+Bradley Samuels is one of Situ Studio's five founding members. He holds a B.A. from Vassar College in Art History and a B.Arch from the Cooper Union School of Architecture. Concentrating on research, design and fabrication, Situ Studio utilizes emerging technologies at the intersection of architecture and a variety of other disciplines.  Recent projects include the reOrder installation in the Brooklyn Museum's Great Hall and the design and fabrication of six analytical models for the Guggenheim Museum’s exhibition Frank Lloyd Wright: From Within Outward. 
+
+Situ Studio is currently working with Eyal Weizman, Director of the Centre for Research Architecture at Goldsmiths, University of London and Thomas Keenan, Director of the Human Rights Project at Bard College on a project titled: Forensic Architecture. Proceeding with a series of case studies, this project explores roles for emerging tools of spatial analysis and visualization in Human Rights cases and International law. This work is supported by a grant from the European Research Council. 
+ 
+Harlo Holmes is a mobile developer and media scholar, who currently hacks for the Guardian Project. Harlo holds a BA in Comparative Literature from Oberlin College and an MA from New York University's Media, Culture and Communication program.  Her research interests include: media steganography, technological infrastructures of the public sphere, and the sociopolitical foundations of digital codices and metadata schematics.  Please tweet @harlo.
+ 
 
