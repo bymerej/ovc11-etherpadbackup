@@ -27,7 +27,7 @@ Points to other examples:
 There's the 'visual detection' side of the house, and the 'data' side - both parts of SSC.
 
 Rich Jones -- OpenWatch
- * iphone & Android apps, records audio then gives option to upload to openwatch site, openwatch redacts by listening sensitive personally information (i.e. Social Security #s)
+ * iphone & Android apps, records audio/video then gives option to upload to openwatch site, openwatch redacts by listening sensitive personally information (i.e. Social Security #s)
    * i.e. citizen refuses DUI in San Diego -- http://openwatch.net/view/3543
      * lead to investigation by state of CA
  * Also a voice Dropbox, user dials phone # and records and submits to site
@@ -38,5 +38,7 @@ Rich Jones -- OpenWatch
 
 Philosophy = We are all under surveillance anyway, the public needs to derive benefit
 
+What about security?
+ * OpenWatch app designed for simplicity. Adding layers of security adds layers of usabili
 
 

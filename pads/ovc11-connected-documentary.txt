@@ -19,7 +19,7 @@ Showing video segment from the project http://vimeo.com/28186883  "Freeway spits
 
 Film about the blog, meta documentary on the process of the making the blog and the personal journey of it's creators. Opportunities to integrate all of the content around this project, the photos, the blog entries, the vlog entries and the video documentary of the process. They are looking to create a web experience. Sharing some of the ideas they have, showing a mockup of a non-linear narrative including other people doing a 30 Mosque process. 
 
-The creators can ask questions to the audience : 
+**Question / comments time (notes might be more sketchy...)
 Q1 - How to make the story relevant to larger communities?
 Q1 - What would drive engagement ?
 
@@ -27,12 +27,17 @@ Q2 - Participant wants to know more about the mockup they show, which is a map w
 
 Q3 - Question about narrative focus, what is the story ?
 
-Q4- ??
+
 The challenge would be to find interesting people. Finding more people who are willing to share their story, experiences. 
 
 Are multiple entry point in a narrative relevant and efficient ? 
 
-- 
+Q5 - How to show Muslim experience in different places around the world?
+    what kinds of interfaces would you design to facilitate this?
+    
+Q6 - holding live events, building communities
+
+
 
 
 

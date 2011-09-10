@@ -52,7 +52,8 @@ Online Educational Video Projects (or projects making prominent use of video)
 
 Engagement Online: What works for learning?
 
-Demo/example:popcornj
+Demo/example: hyper-audio.org/r/
  popcorn.js based - synced audio and video with a raining transcript
+ text color changes based on who is speaking
 
 
