@@ -49,7 +49,7 @@ Big library and digital storage, starting to record TV. Interested in players, i
 Richardo duod (?) - @mrdoob 
 Eye candy, show, google creative labs work. Want to talk to developers fixing tools.
 
-Mark Watson - netflix
+Mark Watson - Netflix
 Make sure HTML5 grows into the kind of thing we can use for our service. Evolve for embedded, set-top, tvs.
 
 Tim Terriberry - Mozilla, Xiph.Org
@@ -58,18 +58,18 @@ Lead of the theora project, now working on VP8, Opus. Getting Opus and WebRTC sh
 Anant Narayanan - Mozilla
 Implement and standardize video in the browser. WebRTC and device API. Get everyone on the same page re device access. Permission models, etc.
 
-Jan Linden - google
+Jan Linden - Google
 WebRTC project. Mostly interested in feedback for the web platform
 
-Ralph Giles - @rillian
-Mozilla, works on Ogg /WebM/ WebVTT/ WebRTC
+Ralph Giles (rillian) - Mozilla, Xiph.org
+Works on Ogg, WebM, WebVTT, WebRTC, ...
 
 Philippe Normand - WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
 
-Thomas van der Stichele - gstreamer
+Thomas van der Stichele - GStreamer
 Flumotion streaming server, WebM and Theora support. Recently started live transcoding. Streaming the conference today. Interested in develoiper connections.
 
-Jasmine Langridge - YouTube,  web interfaces for tv
+Jasmine Langridge - YouTube, web interfaces for tv
 Interested in WebGL, what people are excited in.
 
 Ian Small - Talkbox
@@ -81,10 +81,10 @@ Interested in network protocols, codecs. Interested in webrtc background. Please
 Richard Leider - client side scripting at youtube
 Metrics, adaptive streaming, see how the sausage is made
 
-Greg Schechter - Youtube
+Greg Schechter - YouTube
 better xp ux
 
-Matt Ward - Youtube
+Matt Ward - YouTube
 Adaptive streaming, client side flash player. here to learn about html5
 
 Jedehan - 
@@ -120,7 +120,7 @@ Chrome HTML5 video, adding Adaptive streaming apis. Want to meet collaborators i
 Frank Galligan - Google
 WebM spec and tools.
 
-John Kolezar - Google
+John Koleszar - Google
 libvpx maintainer, making realtime vp8 work better for webrtc. Share more about what we're doing, run our project more openly
 
 Anna Cavender - Google

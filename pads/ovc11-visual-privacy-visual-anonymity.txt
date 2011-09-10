@@ -71,7 +71,10 @@ Interesting demonstrations of privacy awareness
  * Facebook Users' Phone Numbers Exposed by “Evil” App
    * http://mashable.com/2010/05/24/evil-facebook/
  * Facebook´s privacy changes - importance of "a right to awareness"
- * 
+ * Using Google alerts on names too know what is being put out there 
+ * Online identity management tools - Is it naive to think that this is a solution given lack of transparency on much broader data surveillance
+
+
 Here are the session leader bios:
 
 Session Leader BIOS: Visual Privacy? Visual Anonymity? Panel

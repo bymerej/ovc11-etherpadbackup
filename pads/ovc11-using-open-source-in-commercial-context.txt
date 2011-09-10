@@ -44,11 +44,13 @@ Open
 -------
 Lower development costs (if you can make a community)
 Easier Adoption
+Disadvantage: Might be giving people tools they can't use and creating a support burden
 
 Closed
 ----------
-Less
+Less (? sorry, missed it)
 Building community isn't easy
 IP
 Not giving away your competitive advantage
+Ambiguity
 
