@@ -1,4 +1,12 @@
 The Missing Link: Flash to HTML5
 
-Zohar Babin
+Zohar Babin, Kaltura
+Silvia Pfeiffer, Google
+
+== Where do you think we should go with HTML5?
+* ease of use; e.g. drag and drop API is 3 lines in Flash, but really complicated in HTML5
+* lack of authoring tools
+* fragmentation of features
+* is innovation getting in the way of colaboration?
+
 
