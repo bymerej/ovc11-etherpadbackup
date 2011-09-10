@@ -2,7 +2,7 @@ Important references for this session
 (feel free to add crowd-funding, micropayment, alternative currency links here)
 
 http://cl1p.net/ovcsession
-
+http:// firecoin.com
 http://bitcoin.org/
 http://en.wikipedia.org/wiki/Bitcoin
 https://btc.io/
@@ -23,7 +23,7 @@ http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
 https://mtgox.com/
 
-Solution to Jay's problem of coins stored on boxen (e.g. phones) where the coin owner doesn't have root: store your coins on your freedombox. run your bitcoin client on your freedombox. run an app (maybe a webapp) on the freedombox that 
+Solution to Jay's problem of coins stored on boxen (e.g. phones) where the coin owner doesn't have root: store your coins on your freedombox. run your bitcoin client on your freedombox. run an app (maybe a webapp) on the freedombox that allows something on another box to manipulate some coins. (maybe with rate limits)
 http://en.wikipedia.org/wiki/FreedomBox
 http://www.freedomboxfoundation.org/
 
@@ -40,6 +40,7 @@ Fran Ilich, Eyebeam - Spacebank http://spacebank.org ilich@sabotage.tv
 Bruce Wagner, OnlyOneTV, The Bitcoin Show http://onlyonetv.com
 Daniel Liss, http://pouringdown.tv
 e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
+Jermey Baron, @bymerej (identi.ca too)
 
 ###
 
@@ -50,6 +51,10 @@ Make bitcoin easier to use.  Better usability, wider adoption, ability to send m
 Make a system where virtual goods / game mechanics / transparency / social psychology encourages donations/payments TOM
 
 Make it so we can donate to anyone (even collaborators/remixers, even if we don't know who they are) PER
+
+In an open ecosystem with digital content, there should be a way of adding value to all parts of the ecosystem. Which parts are worth most, is 
+
+
 
 Creators tools.  What's it like from creator's perspective.  Licensing.  Product transaction tracking. TOM
 

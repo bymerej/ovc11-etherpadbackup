@@ -138,6 +138,12 @@ To ensure reach: how about having it as installed app on the devices when bought
 
 Tool that spits junk data - is there a way to effectively create chaf for human rights purposes.
 
+Social media environment scenario
+
+*Have functionality that defaults to your name 'not being suggested' for tagging
+
+Try and confuse the system, e.g. using Harlo's face, and trying to game Facebook (Rich's friend trying to do this with tagging of someone else as him - it works). Is there a way to use Facebook API to radn
+
 
 
 
