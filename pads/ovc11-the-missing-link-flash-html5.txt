@@ -10,4 +10,5 @@ Silvia Pfeiffer, Google
 * is innovation getting in the way of colaboration?
 
 
+sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html
 

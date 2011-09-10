@@ -1,9 +1,13 @@
+Connected documentary panel at #OVC11
+(Some missing stuff from the introduction).
+
 Watching One Millitonth Tower making of video by Katerina Cizek  as an introduction to the possibilities of connected documentaries.
 - http://highrise.nfb.ca/tag/one-millionth-tower/
 
 - What the benefits of open source are. 
 - What are the benifits of having developers in the creative process.
 - How to enrich narratives with theses tools, which might at first seem gimmicky
+
 
 Presentation of inspiring documentary projects using open web technologies 
 
@@ -21,6 +25,7 @@ Q1 - What would drive engagement ?
 
 Q2 - Participant wants to know more about the mockup they show, which is a map with videos blobs layered onto it. 
 
+Question about narrative focus, what is the story. 
 
 
 
