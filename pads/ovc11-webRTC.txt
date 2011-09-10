@@ -6,7 +6,19 @@ CISCO
 
 == Introduction - what is WebRTC
 
-* real-time communication: need for open and free solutions
-* 
+* real-time communication for the Web: need for open and free solutions
+* make it easy for any Web developer to easily deploy RTC apps
+* Requirements:
+* open
+* high quality
+* low latency
+* secure
+* interoperable
+* ease of use
+
+* What will it be used for?
+  * phone app
+  * video conferencing
+  * do what flash is capable of and more
 
 

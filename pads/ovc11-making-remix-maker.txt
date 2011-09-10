@@ -100,5 +100,8 @@ Expectations for Monday:
 Summary: 
 
 - Nice to haves:
+    > click through interface that breaks down the pharmaceutical commercial by menu 
+        - choose every element
+         
 
 
