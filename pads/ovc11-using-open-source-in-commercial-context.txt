@@ -34,4 +34,8 @@ Affero GPL (AGPL) addresses this. If you use it in a SaaS model you have to cont
 Not a lot of organizations will choose to use AGPL.
 Dual license, Commerical & AGPL. If you're not free-softare, pay me money (Zed Shaw note, Kaltura).
 
+Can businesses embrace Free Software?
+- iPhone vs. Android (will be interested to see who wins)
+
+
 

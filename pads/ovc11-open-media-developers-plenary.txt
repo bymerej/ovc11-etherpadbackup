@@ -1,5 +1,7 @@
 Introduction by Silvia Pfeiffer
 
+Open Media Developers P
+
 Around-the-room participant introductions
 
 Silvia Pfeiffer - here reprensenting Google, working on accessibility in browsers
@@ -59,7 +61,7 @@ WebRTC project. Mostly interested in feedback for the web platform
 
 Ralph Giles - Mozilla, works on Ogg /WebM/ WebVTT/ WebRTC
 
-WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
+Philippe Normand - WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
 
 Thomas van der Stichele - gstreamer
 Flumotion streaming server, WebM and Theora support. Recently started live transcoding. Streaming the conference today. Interested in develoiper connections.
@@ -104,7 +106,7 @@ Chris Blizzard - Mozilla
 Happy to talk about WebRTC< HTML5 video, etc.
 
 Cole Gillespie - Mozilla News, IBM Blade center @theCole
-Mozilla news lab finalist, popcorn.js contributor, interested in geolocation, changing the way we consume media and creating journalist tools to discover new people via geolocated social media.
+Mozilla news lab finalist, popcorn.js contributor, interested in geolocation, changing the way we consume media and creating journalist tools to discover new people via geo enabled social media.
 
 Pippin Lee - student from toronto
 Mozilla News Lab, student journalism, teaching students how to use tools.
@@ -152,7 +154,7 @@ Peter Pinch - WGBH
 Interested in archive interop, accessibility
 
 Nathanael Lécaudé  - studio imaginaire -  Montreal
- Open technology for artistic software, audio editing, OLPC (tam tam creator)
+ Open technology for artistic software, audio editing, OLPC (tam tam programmer)
  
  Simon - studio Imaginaire
  Interested in coding, creatives,
@@ -171,4 +173,12 @@ Nathanael Lécaudé  - studio imaginaire -  Montreal
  Julie ?? - Pace U CS student
 
 Michael Cornell - Pace U student
+
+Silvia Pfeiffer plenary conclusion
+
+Schedule at http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
+
+WebM metrics scheduled for tomorrow in room 303 in parallel with open video editors
+
+Please update the schedule with breakouts as they happens
 
