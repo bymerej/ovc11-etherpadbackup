@@ -27,11 +27,14 @@ Points to other examples:
 There's the 'visual detection' side of the house, and the 'data' side - both parts of SSC.
 
 Rich Jones -- OpenWatch
- * iphone & Android apps, records audio/video then gives option to upload to openwatch site, openwatch redacts by listening sensitive personally information (i.e. Social Security #s)
+ * Features
+   * iphone & Android apps, records audio/video then gives option to upload to openwatch site, openwatch redacts by listening sensitive personally information (i.e. Social Security #s)
    * i.e. citizen refuses DUI in San Diego -- http://openwatch.net/view/3543
      * lead to investigation by state of CA
- * Also a voice Dropbox, user dials phone # and records and submits to site
+   * Also a voice Dropbox, user dials phone # and records and submits to site
+ * Use cases
    * Responding to a request to start using in Jamaica
+   * Activist in Chile used Synogen Mod to load the app based on ??swipe pattern??
 
  * LectureLeaks
    * allows students to upload college lectures

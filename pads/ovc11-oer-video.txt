@@ -57,6 +57,6 @@ Demo/example: hyper-audio.org/r/
  text color changes based on who is speaking
  interactive transcript that allows users to jump to specific content
 
-Demo/example: student created videos, which are a remix of 
+Demo/example: student created videos, which are a remix of http://www.rebelliouspixels.com/semanticremix/, with different videos
 
 

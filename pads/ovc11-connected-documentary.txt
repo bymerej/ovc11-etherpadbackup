@@ -43,7 +43,8 @@ Q7 - Archiving issues
 - Tools which might be relevant : 
 http://constellation.tv
 
-Q8 - 
+Q8 - How to integrate the content in a relevant web experience ?
+- Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency
 
 
 
