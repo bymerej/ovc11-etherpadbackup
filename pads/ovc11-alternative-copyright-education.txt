@@ -6,7 +6,7 @@ Session Leaders:
  * Karl Fogel (QuestionCopyright.Org)
  * Richard Esguerra (Electronic Frontier Foundation)
 
-Canvasing the audience on what we want to achieve
+Canvasing the audience on what we want to achieve:
  * Add a symmetry with how people understand copyright. 
  * Correct misunderstandings on copyright (i.e. Fair Use)
  * Understanding valid alternatives that are in practice.
@@ -16,6 +16,7 @@ Canvasing the audience on what we want to achieve
  * Taking alternative copyright education from the genreal to the specifics of how to do very specific things.
  * Address the best practices of fair use in a very specific way.
  * Be able to direct people to one page that represents the status quo or at least the trends.
- * 
- * 
+
+Announcements:
+ * Center for Social Media, American University is releasing a code of Fair Use resources and best practices for Research Institutions and Librarians.
 
