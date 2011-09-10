@@ -108,6 +108,8 @@ Super Group Nr 1
 
 - How to flattr a youtube video? Should the uploader get the flattr or the original content author?
 
+But  how do remixers get paid directly?  If they're just an intermediary,  how do they get compensated.  If they're creators how do we weight the  value?
+
 - How to finance music artists? Donations + concert tickets?
 
 The big problem is make people pay. The only way is either creating a exchange culture, without expecting a reward inmediately. 
@@ -117,15 +119,15 @@ Kickstarter model is much more effective for these reasons.
 Is the kickstarter model, could we implemented in other ways? Its an unsustainable model (kickstarter). 
  Its hard to count on people on donation. Doesn't mean that it will be the way of getting the most amount. 
  
-Wjhy people think that virtual goods are valuable? 
- 
+W
  It get to a interesting paradox, social 
  
  the audience creates for free and watch for free. that's working well. Flattr makes it interesting. Where as the other model is not compatible with the phenomenon. 
 
 Virtual Goods and psychology of donations
  
-
+why people think that virtual goods are valuable? 
+ 
  Curious in virtual goods role?  How to marry the behavior between virtual goods and quality creative goods? 
  People pay for "stupid stuff" :) online just for fun!  So why don't they pay for content.
 
@@ -269,7 +271,7 @@ Concerned that people would manipulate alternative currencies or compensation mo
 
 Moving from sampling models to direct payments.  Remove the need for intermediary platform.
 
-But how do remixers get paid directly?  If they're just an intermediary, how do they get compensated.  If they're creators how do we weight the value?
+
 
 Direct compensation model's effect on advertising
 

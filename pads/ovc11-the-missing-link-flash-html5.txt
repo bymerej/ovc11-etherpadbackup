@@ -49,11 +49,8 @@ Topics for Monday breakouts:
 * fullscreen
 * playlist and gapless playback high level html tags
 
-All Topics:
+Additional Topics:
 
 * file metadata
 * hw acceleration for video playback and compositing
-* adaptive streaming append bytes
-* playlist and gapless playback high level html tags
-
 
