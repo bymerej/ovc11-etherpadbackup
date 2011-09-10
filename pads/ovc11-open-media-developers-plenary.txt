@@ -5,6 +5,10 @@ Around-the-room introductions
 Silvia Pfeiffer - here reprensenting Google, working on accessibility in browsers
 expectations: good conversations about WebVTT and other accessibilities
 
-Aaron Comly (sp?) - openindie.com
-Working on "co-create"
+Aaron Crumly (sp?) - openindie.com
+Working on "co-create" film crew and location scouting, crowd-sourcing film production resources. Looking for a ruby on rails developer to demonstrate what can be done in film on the web.
+
+
+Roger MacDonald - archive.org
+Semantic information on 
 
