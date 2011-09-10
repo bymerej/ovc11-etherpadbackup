@@ -18,11 +18,17 @@ Symbols:
 o = yes
 x =no 
 - = neutral
+? = unknown
 
 Our chart:
 
 Hardware:
     Cost-free:        x
-    Legally free:    - (pate
+    Legally free:    -       (patents, DMCA)
+    Accessable:    o-     (broad use of cameraphones, etc.)
+    Participatory    -       (weak DIY culture)
+Software players:
+    Cost-free        o
+    Legally free    ?        (patent risks unknown)
     
 
