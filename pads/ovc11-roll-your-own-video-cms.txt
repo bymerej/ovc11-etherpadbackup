@@ -58,8 +58,12 @@ Unpredictable types/files
 Preserving original version
 
 Transcript
--- Human generated
+-- Human-generated > software-generated for accuracy 
 -- Speech-to-text for syncing
--- Nuance, Ramp, Nexidia - speech-to-text software
+-- Nuance, Ramp, Nexidia, Matterhorn - speech-to-text software
 -- Youtube: timed transcript, non-timed, speech-to-text
+-- Sync transcript to player
+-- Benefits: SEO (?), accessibility, usability
+
+Captioning
 

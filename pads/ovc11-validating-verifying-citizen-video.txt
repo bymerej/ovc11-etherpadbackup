@@ -19,13 +19,13 @@ Clients are major news agencies who want to know three things
 Example of unverified violent video from Syria, apparently showed execution of protester.
 Here's how Storyful verified within a few hours to guide news publishers
  * The human algorithm
-     * that video {{LINK??}} originally showed up on Facebook
+   * that video {{http://storyful.com/stories/1000007681}} originally showed up on Facebook
      * shot by the soldier themselves, had to investigate, how did it get onto facebook if a soldier shot it
        * Did a soldier sell the video for someone else to post? (it happens)
  * Forensic process
      * What kind of weapons did the video show
      * What accents did soldiers speak with, how does the street look, does the weather match
-       * They matched buildings with Google Earth images to verify location was ?Halms? Syria
+       * They matched buildings with Google Earth images to verify location was ?Homs, Syria
 
 
 
