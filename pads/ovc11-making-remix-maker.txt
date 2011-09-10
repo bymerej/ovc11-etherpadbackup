@@ -85,6 +85,12 @@ Challenge:
 - How do you log the clip? (and make that easier for the user?) 
 - How this gets logged, we need to design the system for this. 
     > this would determine how you would tag
-> what about 
+> what about tagging / then cropping and preserving context
+
+Tagging might become a bigger issue later on when it becomes crowd-sourced
+
+Expectations for Monday: 
+- Not really an interface
+- One example / one 
 
 
