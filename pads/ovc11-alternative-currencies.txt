@@ -14,6 +14,7 @@ http://onlyonetv.com ["The Bitcoin Show" in 12 languages]
 http://bitcoinnavigator.com [Bitcoin Brick&Motor Locator]
 http://bitsyn.com [NYC Bitcoin Consultancy]
 http://BitInstant.com [Instant Xfers for the Bitcoin Economy] 
+"coffee and power"
 
 http://freecoin.ch/
 http://media.ccc.de/browse/conferences/camp2011/cccamp11-4450-imagine_the_future_of_money-en.html
@@ -36,14 +37,20 @@ Bruce Wagner, OnlyOneTV, The Bitcoin Show http://onlyonetv.com
 Daniel Liss, http://pouringdown.tv
 e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
 
+###
 
-Ease of use with Bitcoin
+Possibile projects:
 
-Virtual goods, game mechanics, psychology of donations
-
-How do I donate to a Youtube user?  How do I donate to somebody who doesn't know about these systems?
+Make bitcoin easier to use
 
 
+Make a system where virtual goods / game mechanics / social psychology encourages donations
+
+Make it so we can donate to anyone
+
+
+
+#####
 
 
 
