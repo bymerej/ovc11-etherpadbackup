@@ -39,15 +39,15 @@ e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
 
 ###
 
-Possibile projects:
+Possibile projects / primary themes
 
-Make bitcoin easier to use
+Make bitcoin easier to use.  Better usability, wider adoption, cross plat
 
 Make a system where virtual goods / game mechanics / transparency / social psychology encourages donations/payments
 
 Make it so we can donate to anyone (even collaborators/remixers, even if we don't know who they are)
 
-
+Will it work?  Is donation-support a viable way to support artistic creation
 
 
 
@@ -273,7 +273,8 @@ We need a fundamental new understanding of what value is, how it's exchanged and
 
 Focal Points
 
-
+licensing 
+contextualized tr
 ####
 
 Best world scenario
