@@ -21,12 +21,21 @@ Eric Pettijon (sp?) - Realtime delivery of media clips, hiring
 Chris Rogers - Web developer, working on "Land of opportunity" film project
 Here to learn about popcorn.js
 
-Zack - Long 
+Zack - Long tail video (jwplayer)
 Talk about how to make video work for all platforms. Make the best user experience, metrics, and all that jazz.
 
 Foolip - Opera
-Working on WebVTT, will fix Opera bugs (bring 
+Working on WebVTT, will fix Opera bugs (bring chocolate)
 
 Pablo - Long tail video
 works on jwplayer, consistent experience between html5 and flash
+
+...Williams??? - Northhampton community television
+Find a good way to implement a front-end for video upload and editing
+
+Michael Dale - kaltura/wikimedia
+Working on player, find out what's happening in open source video
+
+Eric Carlson - Apple
+Lead developer on WebKit HTML5 audio/video. Involved with standardization at W3C from the begininng and involved with accessibility over the last couple of years. Inter
 
