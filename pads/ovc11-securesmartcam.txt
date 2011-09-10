@@ -128,6 +128,8 @@ Who do you trust?? Region
 
 For human rights situations, provide public keys for orgs who will accept footage (or have a public key that is shared with a trusted # of sources).
 
+Good example of a more idiot-proof public key approach (noting that problem with public keys is complexity): "Viscosity+VyperVPN, as an example, makes securing your Internet connection against interception pretty idiot-proof."
+
 Make sure to explain that encryption is not unbreakable, as is anonymization - but makes it harder.
 
 Go with non-redacted version (to evidentiary repository/trusted source) and a then a redacted version (vs encrypted sections) for public distribution.
