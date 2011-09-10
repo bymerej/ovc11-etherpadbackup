@@ -27,11 +27,15 @@ Here's how Storyful verified within a few hours to guide news publishers
      * What accents did soldiers speak with, how does the street look, does the weather match
        * They matched buildings with Google Earth images to verify location was Homs, Syria
 
-Example of video doctored by Syrian g
+Example of video doctored by Syrian government
+ * Storyful advised not to use video, match river on Google maps, was dryer.
+
+Example of Ivory Coast
 
 Issues:
 1. video take-downs almost automatically - we do not know why, perhaps because of graphic images. Crucial that it is preserved if taken down from social media platforms. (Storyful does this)
-2. counter narratives to explain context of videos - disparity between Syrian authorities version and opposition groups (or international advocates/media who sometimes assume version of events before verification)
+2. counter narratives to explain context of videos - disparity between Syrian authorities version and opposition groups (or international advocates/media who sometimes assume version of events before verification) -- verification is helped by increased contact via social networks with people on the ground in Syria, Ivory Coast, &c., contacts that traditional journalism doesn't immediately identify or valu
+3. Storyful needs corroborating evidence that a video is not only real but that it is relevant NOW as news content i.e. that it is in fact what it appears to be, and is showing what it is purports to be
 
 
 In advance of the session here are the session leader bios:

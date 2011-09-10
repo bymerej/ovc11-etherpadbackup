@@ -46,6 +46,16 @@ Approaches:
 
 TRANSCODING
 ================
+
+Formats:
+-- MP4 + H.264 + AAC/MP3
+-- Ogg + Theora + Vorbis
+-- WebM (MKV) + VP8 + Vorbis
+
+Challenges:
+-- Quality and time
+-- bitrate
+
 Metadata preservation
 -- Some data passed manually alongside of a video (title, author)
 -- Other metadata is automatically added to a file by a camera (lat/long, creation date) - like EXIF
@@ -68,6 +78,8 @@ Transcript
 Captioning:
 -- WGBH captioning as a service for broadcast
 -- Closed captions (separate from video) vs. open captions (burned into video)
+-- Multiple languages
 -- Metavid - OCR and speech-to-text, universalsubtitles.org, sublr
 -- Web versions of broadcast video in US must include subtitles, starting next year
+
 

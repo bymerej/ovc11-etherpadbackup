@@ -51,14 +51,15 @@ Ethan Hugg, CISCO
 
 
 
-TOPICS FOR DISCUSSION
+DISCUSSION
 
 * SIP - implementation in the browser necessary?
 * call recording (real-time processing required, remote machine recording, where to compress, saving to local file)
 * p2p distribution of content?
 * DDOS? protocol to provide a shard secret and IP address is used called ICE; rate-limit the ICE protocol (there will be a native implementation of ICE)
-* what protocols are supported? SRTP/RTP, DTLS (key exchange), RTCP, TURN server for two NAT-ed peers, SDP 
+* what protocols are supported? SRTP/RTP, DTLS (key exchange), RTCP, TURN server for two NAT-ed peers, SDP-based codec negotiation will exist
 * codecs? trying to mandate vp8 & opus (2.5-20ms latency codec); real-time transcoding isn't going to happen so how do we get 
 * what apis to expose for statistics? round-trip time, packet loss, latency, delay
 * retain connection when switching networks/ IP addresses? not sure it works
+* signalling gateways 
 
