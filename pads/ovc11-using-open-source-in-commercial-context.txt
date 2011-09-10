@@ -13,5 +13,9 @@ The best software for working with video is open source. Companies everywhere, l
 Outcome
 An understanding and appreciation of using FOSS building blocks in a commercial video context
 
+Discussion Topics
+
 Developer/Corporate Relations
+- MediaEncoder heated discussion example
+- EFF & Free Software foundation will advocate
 

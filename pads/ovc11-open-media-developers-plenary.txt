@@ -24,10 +24,10 @@ Here to learn about popcorn.js
 Zack Ozer - Long tail video (jwplayer)
 Talk about how to make video work for all platforms. Make the best user experience, metrics, and all that jazz.
 
-Foolip - Opera
+Philip Jägenstedtfoolip (Foolip) - Opera
 Working on WebVTT, will fix Opera bugs (bring chocolate)
 
-Pablo - Long tail video
+Pablo Schklowsky - Long tail video
 works on jwplayer, consistent experience between html5 and flash
 
 ...Williams??? - Northhampton community television
@@ -42,6 +42,15 @@ Lead developer on WebKit HTML5 audio/video. Involved with standardization at W3C
 Tracey Jacquith - archive.org
 Big library and digital storage, starting to record TV. Interested in players, interoperability, editors, universalsubtitles.org. Main storage eng, migrating to video.
 
-Richardo duod - 
-Eye candy, show, google creative labs work. 
+Richardo duod (?) - @mrdoob 
+Eye candy, show, google creative labs work. Want to talk to developers fixing tools.
+
+Mark Watson -netflix
+Make sure HTML5 grows into the kind of thing we can use for our service. Evolve for embedded, set-top, tvs.
+
+Tim Terriberry - Mozilla, Xiph.org
+Lead of the theora project, now working on VP8, Opus. Getting Opus and WebRTC shipped in browsers. Find out what's going on and hear platform problems.
+
+Ananta - Mozilla
+Implement and standardize video in the browser. WebRTC and device 
 
