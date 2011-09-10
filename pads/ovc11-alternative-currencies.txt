@@ -104,16 +104,20 @@ Super Group Nr 1
 - How to flattr a youtube video? Should the uploader get the flattr or the original content author?
 
 - How to finance music artists? Donations + concert tickets?
+The big problem is make people pay. The only way is either creating a exchange culture, without expecting a reward inmediately. 
+
 
 - How to finance movie makers? Donations + movie tickets.
 
 - Donations, paywalls, ads, is there a 4th way to make a living? Communism? ;)
 
-Introduction to flltr
+Introduction to flattr - video
 
+- It would be great to have flattr accept bitcoin. 
+Everyone in flattr has their own opinion. We don't accept bitcoin because of the legal implications.
 
 (╯°□°）╯︵ ┻━┻ Group
-- how to get people do donate to any type of micropayment system?
+- how to get people use to any type of micropayment system?
 
 - Bitcoin usibility? bitcoin only perks to create liquidity.
 

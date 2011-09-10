@@ -59,12 +59,14 @@ IDEAS
     * VOICE manipulator
     
 Sarah Knuckey: potential challenges thinking from human rights documentation perspective
-- Perpetrators removing selves
-- Victims (in future need for identification or proof) 
-[possible to have reverse redaction that decrypts redaction back to original]
-- In mass situations/Crowd situations
-- Does it really hide people?
-- Voice distortion (Guardian sees this as important, wants to implement)
+ * - Perpetrators removing selves 
+ * - Victims (in future need for identification or proof) 
+   * [possible to have reverse redaction that decrypts redaction back to original]
+   * use a key that a trusted source has/ + public key
+ * - In mass situations/Crowd situations
+ * - Does it really hide people?
+ * - Voice distortion 
+   * (Guardian sees this as important, wants to implement)
 
 OpenCV allows "standards of redaction" to be identified
 
