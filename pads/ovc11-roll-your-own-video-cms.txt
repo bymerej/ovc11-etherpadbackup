@@ -16,5 +16,5 @@ Ever wanted to get YouTube-like functionality on your site? There’s a huge ran
 Outcome
 Greater understanding of the range of available options, opportunities and challenges in rolling your own video CMS
 
-Looking forward to this!
+
 

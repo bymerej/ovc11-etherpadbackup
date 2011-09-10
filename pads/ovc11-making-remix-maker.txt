@@ -74,5 +74,8 @@ Ex. Wikiclips
     > designing tools that keeps with dynamic taxonomies
     
 For use in the classroom:
-    > Would be best to have it d 
+    > Would be best to have it flexible enough to accommodate the conversation that happens there, what if another trope is noted in the classroom? And then we can start pulling that trope out 'on the fly' in the classroom.
+    
+
+Making tags flexible  
 
