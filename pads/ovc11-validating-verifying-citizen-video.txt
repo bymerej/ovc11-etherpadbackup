@@ -61,14 +61,20 @@ Key challenge is how much expertise is required simply to verify one video - as 
 Informa Metadata Schematic
  * Intent - ownership, sharing, context
  * Consent 
- * Genealogy - kind of like tracking provenance (who's the owner
+ * Genealogy - kind of like tracking provenance (who's the owner, whose image is it, chain of permission and preference)
  * Data
 
 Packaging Metadata
  * JSON vs XML
 
-Watermark as sto
- * 
+Watermark as storage Vecor
+ * would it pass the Daubert test?
+ * infungible part of image, robust technological object
+
+Tech challenges of preserving watermark during encoding process
+
+Creat
+
 
 In advance of the session here are the session leader bios:
 
