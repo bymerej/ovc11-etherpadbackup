@@ -76,7 +76,7 @@ Interested in network protocols, codecs. Interested in webrtc background. Please
 Richard Leider - client side scripting at youtube
 Metrics, adaptive streaming, see how the sausage is made
 
-Greg - Youtube
+Greg Schechter - Youtube
 better xp ux
 
 Matt - Youtube
@@ -112,14 +112,14 @@ Mozilla News Lab, student journalism, teaching students how to use tools.
 Aaron Colwell - Google
 Chrome HTML5 video, adding Adaptive streaming apis. Want to meet collaborators in real life, standardize with other browsers.
 
-Frank G - Google
+Frank Galligan - Google
 WebM spec and tools.
 
 John Kolezar - Google
 libvpx maintainer, making realtime vp8 work better for webrtc. Share more about what we're doing, run our project more openly
 
 Anna Cavender - Gooogle
-Accessibilty. Implementing track and webvtt in Chrom
+Accessibilty. Implementing track and webvtt in Chrome
 
 Andrew - Google
 ditto
@@ -161,5 +161,14 @@ Interested in archive interop, accessibility
  Work with gov't video to digitize and put online as open video with metadata
  
  George C - openvideoproductions llc
+ Record conferences, encode and upload as CC-licensed open video as a professional service. Researching how to do that better.
+ openmeetings.org - metavid install, non-profit direction
  
+ Douglas Campbell -IT student at pase U
+ 
+ ?? - Pace U student
+ 
+ Julie ?? - Pace U CS student
+
+Michael Cornell - Pace U studen
 
