@@ -65,5 +65,6 @@ DISCUSSION
 * codec transcoding gateways are not something that people want to implement
 * applications: screen sharing, e.g. a live video editing session, real-time file sharing (e.g. experience video/audio together)
 * cross-origin permission restrictions of what one is able to do with the data? ICE channel gives you the trust and your peer can do what they want; depending on the key exchange mechanism, you can ascertain that they are still who they claim they were at the beginning of the connection
-* 
+* are schemes like ZRTP supported? not right now; don't have secure conversation through an untrusted website!
+
 

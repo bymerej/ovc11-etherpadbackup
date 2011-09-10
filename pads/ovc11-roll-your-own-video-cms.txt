@@ -95,4 +95,16 @@ Captioning:
 -- Metavid - OCR and speech-to-text, universalsubtitles.org, sublr
 -- Web versions of broadcast video in US must include subtitles, starting next year
 
+PLAYBACK
+=================
+
+HTML5
+-- MP4 (IE, Safari, Chrome for now) - Closed
+-- Ogg, WebM (Firefox, Opera, Chrome) - Open
+-- ~50% support and growing
+-- Allows cascading versions for device compatibility
+
+Flash
+-- 99.9% support
+
 

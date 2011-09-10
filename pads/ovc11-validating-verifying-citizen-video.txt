@@ -59,8 +59,16 @@ Key challenge is how much expertise is required simply to verify one video - as 
 "We shouldn't think ourselves as victimized by this, we should figure out how to take advantage of it"
 
 Informa Metadata Schematic
- * Consent
- * Genaeology
+ * Intent - ownership, sharing, context
+ * Consent 
+ * Genealogy - kind of like tracking provenance (who's the owner
+ * Data
+
+Packaging Metadata
+ * JSON vs XML
+
+Watermark as sto
+ * 
 
 In advance of the session here are the session leader bios:
 
