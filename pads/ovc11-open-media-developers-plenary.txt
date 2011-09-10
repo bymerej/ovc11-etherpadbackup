@@ -187,3 +187,5 @@ Please update the schedule with breakouts as they happens. Reserve rooms through
 
 On Monday we'll be at the Events Center around the corner. That's the official hack space during the conference.
 
+Separation of "technology" and "open media developer"
+

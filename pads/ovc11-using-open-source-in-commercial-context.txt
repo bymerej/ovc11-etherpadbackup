@@ -56,3 +56,6 @@ IP
 Not giving away your competitive advantage
 Ambiguity
 
+Commercializing Open Source Software
+Services (Redhat, Drupal, Wordpress)
+
