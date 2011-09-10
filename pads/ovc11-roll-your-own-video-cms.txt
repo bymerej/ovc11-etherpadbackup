@@ -57,3 +57,8 @@ Unpredictable types/files
 
 Preserving original version
 
+Transcript
+-- Human generated
+-- Speech-to-text for syncing
+-- Nuance, Ramp - speech-to-text software
+
