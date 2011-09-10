@@ -149,9 +149,13 @@ App-builders
 
 We should build modular technology in pieces to put together in different ways
 
-Bulding good libraries - that you can build from to use
+Bulding good libraries - that you can build from to use in multiple configurations.
 
-Verification, obfusca
+Verification, obfuscation, redaction - draw on different libraries to create securesmartcam, openwatch. Drop into app-inventor to create own mix.
+
+Globalleaks - opensource leaking platform launching = Rich, not a good idea, since don't want necessarily to lower the barrier to entry for secure data too low. People can't set up secure Wordpress most of the time, do you want them to have secure Wikileaks.
+
+N
 
 
 

@@ -2,7 +2,7 @@ Important references for this session
 (feel free to add crowd-funding, micropayment, alternative currency links here)
 
 http://cl1p.net/ovcsession
-http:// firecoin.com
+http://firecoin.com
 http://bitcoin.org/
 http://en.wikipedia.org/wiki/Bitcoin
 https://btc.io/
@@ -40,7 +40,7 @@ Fran Ilich, Eyebeam - Spacebank http://spacebank.org ilich@sabotage.tv
 Bruce Wagner, OnlyOneTV, The Bitcoin Show http://onlyonetv.com
 Daniel Liss, http://pouringdown.tv
 e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
-Jermey Baron, @bymerej (identi.ca too)
+Jeremy Baron, @bymerej (identi.ca too)
 
 ###
 
@@ -351,12 +351,5 @@ User never gets pissed off with the donation model.  They pay for what they want
 
 
 
-Insentivitizing -
 
-Why do people use these copmensation models?
-
-Goodwill -
-    issue = not scalable 
-    
-Gamification
 
