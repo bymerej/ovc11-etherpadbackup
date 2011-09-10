@@ -82,5 +82,6 @@ DISCUSSION
 
 
 Outcome:
-Create a break-out group to discuss use cases, signall
+Create a break-out group to discuss use cases, signalling needs, metrics needs, error reporting needs for the mediaStream API
+
 

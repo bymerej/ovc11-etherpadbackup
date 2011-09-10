@@ -36,5 +36,15 @@ Software tools:
     Cost-free        x+            (low-cost but not free editing software)
     Legally free    x                (open source still at early stage)
     Accessable    -            (digital divide)
-    Participatory    
+    Participatory    -        (open-source)
+Distribution:
+    Cost-free:        o        (YouTube, etc., but not on TV)
+    Legally free    -        (non-downloadblle, etc. censorship works in short run)
+    Accessable    o        (widely used platforms)
+    Participatory    x+    (few true large-scale community-run platforms)
+Standards   
+    Cost-free        v-
+    Legally free    ?        (patents)
+    Accessable    -        (harder to find than they should be)
+    Participatory   ??
 
