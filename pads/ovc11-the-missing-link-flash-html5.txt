@@ -42,16 +42,18 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 ** proxy opaque DRM messages over HTTP
 ** is applicable to many other areas in addition to media (ecrypted messaging, etc.)
 
+Topics for Monday breakouts:
+* analytics/QOS
+* video editing
+* adaptive streaming append bytes
+* fullscreen
+* playlist and gapless playback high level html tags
 
 All Topics:
 
 * file metadata
-* analytics/QOS
-* video editing
 * hw acceleration for video playback and compositing
 * adaptive streaming append bytes
-* devices and camera
-* fullscreen
-* social viewing
 * playlist and gapless playback high level html tags
+
 

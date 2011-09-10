@@ -117,20 +117,23 @@ Kickstarter model is much more effective for these reasons.
 Is the kickstarter model, could we implemented in other ways? Its an unsustainable model (kickstarter). 
  Its hard to count on people on donation. Doesn't mean that it will be the way of getting the most amount. 
  
+Wjhy people think that virtual goods are valuable? 
+ 
  It get to a interesting paradox, social 
  
  the audience creates for free and watch for free. that's working well. Flattr makes it interesting. Where as the other model is not compatible with the phenomenon. 
- 
- Curious in virtual goods role?  How to marry the behavior between virtual goods and quality creative goods? 
+
+Virtual Goods and psychology of donations
  
 
-People pay for "stupid stuff" :) online just for fun!  So why don't they pay for content.
+ Curious in virtual goods role?  How to marry the behavior between virtual goods and quality creative goods? 
+ People pay for "stupid stuff" :) online just for fun!  So why don't they pay for content.
+
+Kickstarter has been really successful with the prizes.
 
 Add game mechanics or points to Flattr, or other donation systems.
 
 If the creator could know and customize their site for somebody who had donated.  (But that's a kind of paywall)
-
-Kickstarter has been really successful with the prizes.
 
 It's okay to have different levels of return from the creator, it's positive, not necessarily negative the way a paywall might be
 
@@ -140,9 +143,11 @@ Maybe we're thinking too narrowly about it, could be donations of resources (stu
 
 Farmville duck sales vs. washington post print edition sales?
 
+Ease of use
+
 Micropayments should be clickable (ease). I need to set up, it should be easier than that.
 
-Wjhy people think that virtual goods are valuable? 
+
 
 I believe that Flattr hacks that economic system that we work right now, by creating a model that it could be applied to any currency, either trade system as well as real currency (even bitcoins). Rather than standarizing another currency that sins for its same flaws.
 
