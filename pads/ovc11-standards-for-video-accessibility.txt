@@ -10,7 +10,7 @@ Potential topics:
  * WebVTT in WebM
 
 Discussion topics:
- * search
+ * searchability? 
  * chaptering and subchaptering, also useful for metadata-based access
  * url link to chapter
  * thumbnails are great for navigation
@@ -27,6 +27,7 @@ Discussion topics:
  * security considerations: CORS & same-origin; no cross-origin xml file like Flash?
  * events are great
  * voice tag: how to expose special styling? apply class to <v> tag
+ * why have a "WEBVTT" magic string at the file start? file tle type identification
  * Why not leveraging what is already available (e.g. matroska external entity support and ASS subtitle format)
 
 
