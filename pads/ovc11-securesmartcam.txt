@@ -70,5 +70,9 @@ Sarah Knuckey: potential challenges thinking from human rights documentation per
 
 OpenCV allows "standards of redaction" to be identified
 
-Nathan: On the decisions about putting something into the 'app' world; do you put it in the store or curate it/distribute it specifically? In app store, ObscuraCam is how you hide in keg parties. 
+Nathan: On the decisions about putting something into the 'app' world; do you put it in the store or curate it/distribute it specifically? In app store, ObscuraCam is how you hide in keg parties. But if it was just for human right use, it would flag the users.
+
+For evidentiary value: it's important to have reversible redaction, alongside signing of original value. Or could it be just a redaction of a part of the video, sustaining the evidentiary value of the other parts of the video.
+
+
 
