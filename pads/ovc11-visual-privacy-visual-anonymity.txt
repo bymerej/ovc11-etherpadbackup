@@ -52,7 +52,7 @@ Key questions raised:
 
 5. Nathan - there can be aesthetic incompatibilities for storytellers and documentary makers between making human rights cases compelling and powerful and providing complete visual anonymity for activists - are there ways to address this?
 
-6. If your image is collected in connection with a riot/protest/officially surveilled action, how does it impact due process rights to be identified de fact as a "rioter," "protester" or participant?
+6. If your image is collected in connection with a riot/protest/officially surveilled action, how does it impact due process rights to be identified de facto as a "rioter," "protester" or participant? Is this different (or do we think of it differently) in different contexts? 
 
 Rich Jones - In favor of more surveillance
  * Surveillance is already happening, it's only going to get worse, the intrusion will increase
@@ -62,7 +62,7 @@ Rich Jones - In favor of more surveillance
    * Majority of people have instant access to cameras
    * Openwatch posts police abuse as well as positive police actions
 
-It's correct, I think, to point out that right now the trend seems to be toward the powerful (and the government in particular) having increased control over their online presence; I think this in part comes from the connection between resources and control over the direction of innovation.
+It's correct, I think, to point out that right now the trend seems to be toward the powerful (and the government in particular) having increased control over their online presence; this in part comes from the connection between resources and control over the direction of innovation.
 
 
 Here are the session leader bios:

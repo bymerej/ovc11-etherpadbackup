@@ -1,6 +1,8 @@
 Introduction by Silvia Pfeiffer
 
-Open Media Developers P
+Open Media Developers Plenary
+
+This is a continuation of the FOMS conferences we've been having since 2007, including last year's meeting associated with OVC in 2010.
 
 Around-the-room participant introductions
 
@@ -26,8 +28,8 @@ Here to learn about popcorn.js
 Zack Ozer - Long tail video (jwplayer)
 Talk about how to make video work for all platforms. Make the best user experience, metrics, and all that jazz.
 
-Philip Jägenstedtfoolip (Foolip) - Opera
-Working on WebVTT, will fix Opera bugs (bring chocolate)
+Philip Jägenstedt (foolip) - Opera Software
+Core developer on HTML <video>, currently working on <track> and WebVTT. Will fix Opera bugs (bring chocolate).
 
 Pablo Schklowsky - Long tail video
 works on jwplayer, consistent experience between html5 and flash
@@ -141,8 +143,8 @@ Has free t-shirts. At FOMS last year. Interested in ffvp8, adaptive streaming. T
 Jonathan Hill - Pace U
 Supporter of the conference. Interested in Open Gov't and open patent. Getting web media support for that. Pace create labs. Hoping to make some good connections, brought student coders.
 
-Jean-Francois - pitivi
-Open source video editor. Interested in user interface ideas, talk about sharing technology and web intergration, upload to sites like youtube.
+Jean-François Fortin - pitivi
+Open source video editor. Interested in user interface ideas, talk about sharing technology and web integration, upload to sites like youtube.
 
 Ben Schwartz - Xiph.Org, student
 Fan, love to talk about codecs and algorithms, low power devices, OLPC.
@@ -180,5 +182,7 @@ Schedule at http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
 
 WebM metrics scheduled for tomorrow in room 303 in parallel with open video editors
 
-Please update the schedule with breakouts as they happens
+Please update the schedule with breakouts as they happens. Reserve rooms through etherpad.
+
+On Monday we'll be at the Events Center around the corner. That's the official hack space during the conference.
 
