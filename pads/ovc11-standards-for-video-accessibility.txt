@@ -1,10 +1,11 @@
 Potential topics:
 
  * WebVTT syntax ‒ anything missing that we should add in a hurry?
- * Style and rendering ‒ is it any good? Overkill to support multiple tracks natively?
- * UI ‒ standardized icons for indicating availability? [CC] icon?
- * Chapters ‒ should the end point be significant?
- * Transcript ‒ can it be built into browsers in a sane way?
+ * WebVTT Style and rendering ‒ is it any good? Overkill to support multiple tracks natively?
+ * <track> UI ‒ standardized icons for indicating availability? [CC] icon?
  * UI for enabling multiple tracks?
+ * <track> Chapters ‒ should the end point be significant?
+ * Transcript ‒ can it be built into browsers in a sane way?
  * Descriptions ‒ synthesis?
+ * WebVTT in WebM
 

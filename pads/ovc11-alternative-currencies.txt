@@ -27,6 +27,7 @@ Joe Miller, http://joemillerjd.com - @joemillerjd
 Celeste North, http://nuflick.com - celeste@nuflick.com
 Per Thulin, http://flattr.com http://www,youtify.com - per@flattr.com
 Pablo J. Varona Borges, "Centro Popular de Transparencia Gubernamental" - pabjvar@gmail.com
+Yifu Guo, BitSyncom, yifu.guo@bitsyn.com
 Charlie Shren, BitInstant Project, charlie@bitinstant.com
 Andrew Lee, Mt. Gox, andrew.lee@mtgox.com
 Fran Ilich, Eyebeam - Spacebank http://spacebank.org ilich@sabotage.tv
@@ -227,11 +228,16 @@ A ecosystem of creation and consuming that works in harmony. (create an experien
 Need to be able to create an experience for people where money changes hand.
 
 
-Distribution tools to measure audience demand and get indie films theaters(finantia
-A gradation of financial participation
-Aligning the producers utopia with the audiences utopia
-Barter!
-Move away from the abstract attempt at decimal point representation of value.
-We need a fundamental new understanding of what value is, how it's exchanged and the organizational intelligence that is exists when transactions retain value into the future.
+Distribution tools to measure audience demand and get indie films theaters
+
+A gradation of financial participation (you get more access based on a larger contribution)
+
+Aligning the producers utopia with the audiences utopia (the dream of having access to every song, film, thing with the creator's utopia of making a living off their work)
+
+Barter! Fair trades for things
+
+Move away from the abstract attempt at decimal point representation of value. What if value was represented as just value. 
+
+We need a fundamental new understanding of what value is, how it's exchanged and the organizational intelligence that is exists when transactions retain value into the future.  (Money is just a memory of transactions that happened over past decades)
 
 
