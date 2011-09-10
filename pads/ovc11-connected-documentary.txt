@@ -19,6 +19,8 @@ Showing video segment from the project http://vimeo.com/28186883  "Freeway spits
 
 Film about the blog, meta documentary on the process of the making the blog and the personal journey of it's creators. Opportunities to integrate all of the content around this project, the photos, the blog entries, the vlog entries and the video documentary of the process. They are looking to create a web experience. Sharing some of the ideas they have, showing a mockup of a non-linear narrative including other people doing a 30 Mosque process. 
 
+-----------------
+
 **Question / comments time (notes might be more sketchy...)
 Q1 - How to make the story relevant to larger communities?
 Q1 - What would drive engagement ?
@@ -45,14 +47,19 @@ http://constellation.tv
 
 Q8 - How to integrate the content in a relevant web experience ?
 - Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency.
-- http://amianet.org Association of moving image archivist might be of interested to contribute for this kind of data structuration. Posting a message to their list-serv with
+- The Association of Moving Image Archivist http://amianet.org  might be of interested to contribute for this kind of data structuration. Posting a message to their list-serv could be a good way to get in touch with them.
 
+Q9 - Comment. 
+
+---------------------------------------------------
 
 AMIA.org
 
 Asosciation of Moving Image Archivists
 
+===============================================================
 
+The Tillman Story
 
 
 

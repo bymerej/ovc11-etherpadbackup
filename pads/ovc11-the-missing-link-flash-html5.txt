@@ -14,14 +14,20 @@ Silvia Pfeiffer, Google
 * AppendBytes, editable byte arrays, the netstream--Dependent on OS media framework
 ** Low Level Video apis
 ** DVR (high speed seeking within buffers) on livestreams
+** netstream file construction
+*** Adaptive Streaming
+*** Video Editing
+
+
+sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html
+
+canvas.getMediaStream() is another way forward
+
 * DRM
 ** What hooks do we need
 ** data over RTP
 ** encryption key should be published
 ** secure key exchange
-** proxy opaque DRM messages ov
+** proxy opaque DRM messages over HTTP
 
-sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html
-
-canvas.getMediaStream() is another way forward
 
