@@ -2,11 +2,14 @@ Creating an Alternative Copyright Education
 Session Leaders:
  * Katie Baxter (NYLS Free Culture)
  * Pat Aufderheide (American University Center for Social Media)
+   * Fair Use
  * Elisa Kreisinger (PopCulturePirate.Org)
+   * 
  * Karl Fogel (QuestionCopyright.Org)
    * Copyright and free speech as in opposition with each other. 
-     * Quality of copyright discussion as very low.
-     * Minute Memes 
+     * Quality of copyright discussion as very low, and creating ways to create an "fuller" discussion.
+     * Minute Memes: http://questioncopyright.org/minute_memes
+     * Addressing Right/Wrong v. Legal/Illegal in sharing culture w/o getting permission
  * Richard Esguerra (Electronic Frontier Foundation)
    * 2006- EFF caught whiff of CA passing a law mandating schools to teach copyright as part of their curriculum.
    * Created a curriculum available @ http://teachingcopyright.org

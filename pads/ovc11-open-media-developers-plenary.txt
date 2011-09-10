@@ -131,5 +131,11 @@ Greg Maxwell - Xiph.org
 Ogg, Theora, Opus codecs
 
 Xavier M - 
-Organize and index all government meetings
+Organize and index all government meetings, searchable video. Learn about webrtc for remote participation
+
+John Luther - webm project manager
+Has free t-shirts. At FOMS last year. Interested in ffvp8, adaptive streaming. Things do come out of this meeting. :) Would like people to start working on xvp8
+
+Jonathan Hill - Pace U
+Supporter of the conference. 
 
