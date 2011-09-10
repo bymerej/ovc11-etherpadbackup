@@ -1,6 +1,6 @@
 Introduction by Silvia Pfeiffer
 
-Around-the-room introductions
+Around-the-room participant introductions
 
 Silvia Pfeiffer - here reprensenting Google, working on accessibility in browsers
 expectations: good conversations about WebVTT and other accessibilities
@@ -37,7 +37,7 @@ Michael Dale - kaltura/wikimedia
 Working on player, find out what's happening in open source video
 
 Eric Carlson - Apple
-Lead developer on WebKit HTML5 audio/video. Involved with standardization at W3C from the begininng and involved with accessibility over the last couple of years. Interested in all of those things and hope to see <track> element and captions show up in the wild
+Lead developer from Apple on WebKit HTML5 audio/video. Involved with standardization at W3C from the begininng and involved with accessibility over the last couple of years. Interested in all of those things and hope to see <track> element and captions show up in the wild
 
 Tracey Jacquith - archive.org
 Big library and digital storage, starting to record TV. Interested in players, interoperability, editors, universalsubtitles.org. Main storage eng, migrating to video.
@@ -103,8 +103,8 @@ RTCWeb references and standards, real time video
 Chris Blizzard - Mozilla
 Happy to talk about WebRTC< HTML5 video, etc.
 
-Colt Gillespie - Mozilla News, IBM Blade center
-Excited about popcorn.js, geolocation, changing the way we consume media, creating journalist tools.
+Cole Gillespie - Mozilla News, IBM Blade center @theCole
+Mozilla news lab finalist, popcorn.js contributor, interested in geolocation, changing the way we consume media and creating journalist tools to discover new people via geolocated social media.
 
 Pippin Lee - student from toronto
 Mozilla News Lab, student journalism, teaching students how to use tools.
@@ -151,24 +151,24 @@ Database narrative editing suite. Porting flash apps to HTML5, particularly for 
 Peter Pinch - WGBH
 Interested in archive interop, accessibility
 
- ??  - Montreal
+Nathanael Lécaudé  - studio imaginaire -  Montreal
  Open technology for artistic software, audio editing, OLPC (tam tam creator)
  
- Simon - Studio Imaginal
+ Simon - studio Imaginaire
  Interested in coding, creatives,
  
- Aphid - UCSC, Metavid
+ Abram Stern (Aphid) - UCSC, Metavid
  Work with gov't video to digitize and put online as open video with metadata
  
  George C - openvideoproductions llc
  Record conferences, encode and upload as CC-licensed open video as a professional service. Researching how to do that better.
  openmeetings.org - metavid install, non-profit direction
  
- Douglas Campbell -IT student at pase U
+ Douglas Campbell -IT student at Pace U
  
  ?? - Pace U student
  
  Julie ?? - Pace U CS student
 
-Michael Cornell - Pace U studen
+Michael Cornell - Pace U student
 

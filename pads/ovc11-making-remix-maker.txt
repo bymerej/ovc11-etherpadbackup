@@ -28,7 +28,11 @@ Session Prpoper:
 "ideas" group:
 - education emerges as a key interest 
 
-- problem with using YouTube in  
+- problem with using YouTube in restrictive school situations
+    > what about adding text to videos
+        - difference between invideo text/ subtitles and overlay (like YouTube annotations) 
+        
+-  
 
 
 
