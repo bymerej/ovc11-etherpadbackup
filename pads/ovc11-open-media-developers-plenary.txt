@@ -143,5 +143,14 @@ Jean-Francois - pitivi
 Open source video editor. Interested in user interface ideas, talk about sharing technology and web intergration, upload to sites like youtube.
 
 Ben Schwartz - Xiph.Org, student
-Fan, love to talk about codecs and algorithms, low powe
+Fan, love to talk about codecs and algorithms, low power devices, OLPC.
+
+Dave Riche - 
+Database narrative editing suite. Porting flash apps to HTML5, particularly for iOS. Automated transcoding for different devices, ffmpeg.
+
+Peter Pinch - WGBH
+Interested in archive interop, accessibility
+
+ - Montreal
+ Open technology for artistic software, audio editing, 
 

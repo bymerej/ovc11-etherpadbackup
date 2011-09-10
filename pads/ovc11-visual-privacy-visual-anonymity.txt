@@ -11,14 +11,14 @@ difference of CCTV in a hospital during surgery instead of a public space.
 
 Databases like choicepoint
 
-NYLS has no camera parties
+NYLS has "no camera" parties which indicates a subconsious awareness of visual privacy
 
 Sam
 
 Five Scenario Areas
    * 
    * Facebook Users in the Global North (i.e. USA)
-   * 
+   * The existance of an history that's always on the record has already begun to alter behavior of individuals who now self-censor to ensure that information does not get put up online.
 
 Jillian
 
@@ -30,6 +30,16 @@ Lebanon is more "liberal" country in Arab middle east, has support for gay commu
    * 
 
 i.e. Gay girl in Demascus hoax in Syria -- outed a photo of a lesbian in London without her intention
+
+Key questions raised:
+
+1. What values and purposes underpinning information flow controls are being disrupted by technological changes? What are the privacy harms in different contexts - we need to understand the implem
+
+2. If a current problem is the lack of conscious, privacy-minded decision making on the part of users, is the solution to try and get them to make those decisions in an informed way, or should we look for a technical solution that d
+
+Rich Jones - In favor of more surveillance
+ * Surveillance is already happening, it's only going to get worse, the intrusion will increase
+   * therefore we need to level the playing field and get the public involved to dr
 
 
 Here are the session leader bios:
