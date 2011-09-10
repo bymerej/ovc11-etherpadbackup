@@ -9,6 +9,8 @@ Silvia Pfeiffer, Google
 * fragmentation of features
 * is innovation getting in the way of colaboration?
 
+== Use Cases
+
 
 sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html
 
