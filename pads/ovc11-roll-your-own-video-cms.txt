@@ -53,8 +53,8 @@ Formats:
 -- WebM (MKV) + VP8 + Vorbis
 
 Challenges:
--- Quality and time
--- bitrate
+-- Quality and time, bitrate
+-- Licensing: Patent licensing, software licensing
 
 Metadata preservation
 -- Some data passed manually alongside of a video (title, author)
