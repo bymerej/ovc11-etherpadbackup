@@ -71,5 +71,20 @@ Ian Small - Talkbox
 Working on f2f cloud video. interested in webrtc to make it more open.
 
 Luca Barbato - libav (nee ffmpeg)
-Interested in network protocols, codecs. Interested in webrtc background. Please use libav directly rather than us
+Interested in network protocols, codecs. Interested in webrtc background. Please use libav directly rather than using wrappers.
+
+Richard Leider - client side scripting at youtube
+Metrics, adaptive streaming, see how the sausage is made
+
+Greg - Youtubne
+better xp ux
+
+Matt - Youtube
+Adaptive streaming, client side flash player. here to learn about html5
+
+Jedehan - 
+XMPP messaging. Interested in documenting conventions for participatory media
+
+Mark Boas - Happy Worm
+50 % of the jplayer team. (jquer
 

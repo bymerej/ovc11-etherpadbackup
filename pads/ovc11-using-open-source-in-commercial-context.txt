@@ -22,6 +22,7 @@ Developer/Corporate Relations
 Licensing (IANAL)
 - Open source vs. Free Software
     - If you don't provide a license with code, it's assumed to be restrictive
-
+- Copyright vs. Copyleft
+    - Copy left encourages distribution and discourages restriction
 
 

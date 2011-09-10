@@ -15,5 +15,7 @@ Canvasing the audience on what we want to achieve
  * Getting the education out to the public in general.
  * Taking alternative copyright education from the genreal to the specifics of how to do very specific things.
  * Address the best practices of fair use in a very specific way.
- * Be able to direct people to one page that represents the status quo or at least the trends
+ * Be able to direct people to one page that represents the status quo or at least the trends.
+ * 
+ * 
 
