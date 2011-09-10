@@ -65,7 +65,7 @@ Solutions:
    * Not re-inventing the wheel. 
    * Making website an aggregate of the resources that are currently in existence. 
    * Capturing people with the little thing on the side (a badge of sorts).
-   * There are a lot of synergies here that
+   * 
 
 
 Announcements:
@@ -73,4 +73,5 @@ Announcements:
  * Reclaiming Fair Use: How to Put Balance Back in Copyright by Pat Aufderheide and Peter Jaszi.
  * PopCulturePirate.com is currently accepting donations.
  * EFF is open to accept cases--open to finding the right case. Disclaimer: Richard is not a lawyer. More information: https://www.eff.org/pages/legal-assistance
+ * Remix Contest - Political Remix
 

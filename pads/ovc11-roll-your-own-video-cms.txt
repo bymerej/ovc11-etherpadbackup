@@ -35,6 +35,10 @@ Approaches:
 -- Drupal: MediaMover
 -- Send to third party (archive.org, YouTube)
 -- Upload front-end: swfupload, plupload
+-- Send webcam frames individually
+-- Erlyvideo
+-- Native iOS upload
+
 
 TRANSCODING
 ================
