@@ -29,7 +29,7 @@ Zack Ozer - Long tail video (jwplayer)
 Talk about how to make video work for all platforms. Make the best user experience, metrics, and all that jazz.
 
 Philip Jägenstedt (foolip) - Opera Software
-Core developer on HTML <video>, currently working on <track> and WebVTT. Will fix Opera bugs (bring chocolate).
+Core developer on HTML <video>, currently working on <track> and WebVTT. Will fix Opera bugs for chocolate.
 
 Pablo Schklowsky - Long tail video
 works on jwplayer, consistent experience between html5 and flash
@@ -61,7 +61,8 @@ Implement and standardize video in the browser. WebRTC and device API. Get every
 Jan Linden - google
 WebRTC project. Mostly interested in feedback for the web platform
 
-Ralph Giles - Mozilla, works on Ogg /WebM/ WebVTT/ WebRTC
+Ralph Giles - @rillian
+Mozilla, works on Ogg /WebM/ WebVTT/ WebRTC
 
 Philippe Normand - WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
 
@@ -122,8 +123,8 @@ WebM spec and tools.
 John Kolezar - Google
 libvpx maintainer, making realtime vp8 work better for webrtc. Share more about what we're doing, run our project more openly
 
-Anna Cavender - Gooogle
-Accessibilty. Implementing track and webvtt in Chrome
+Anna Cavender - Google
+Accessibilty. Implementing track and webtv in Chrome
 
 Andrew - Google
 ditto

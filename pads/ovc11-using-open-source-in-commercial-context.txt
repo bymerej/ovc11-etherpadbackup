@@ -36,6 +36,11 @@ Dual license, Commerical & AGPL. If you're not free-softare, pay me money (Zed S
 
 Can businesses embrace Free Software?
 - iPhone vs. Android (will be interested to see who wins)
+- OSMF (Adobe) licensing is unclear so difficult for lawyers
 
+Benefits of choosing to be Open vs. Closed
 
+Open
+-------
+Lower deve
 
