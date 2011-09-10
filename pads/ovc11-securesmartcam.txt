@@ -39,6 +39,6 @@ Rich Jones -- OpenWatch
 Philosophy = We are all under surveillance anyway, the public needs to derive benefit
 
 What about security?
- * OpenWatch app designed for simplicity. Adding layers of security adds layers of usabili
+ * OpenWatch app designed for simplicity. Adding layers of security adds layers of usability complication.
 
 
