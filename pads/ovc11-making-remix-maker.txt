@@ -63,5 +63,7 @@ Overview:
         - find the conventions 
     > separate all the elements
     > make elements modular
-    > then you can bring those all togeth
+    > then you can bring those all together and swap them with other advertisement genres
+    
+    > also the helpful part of lo
 

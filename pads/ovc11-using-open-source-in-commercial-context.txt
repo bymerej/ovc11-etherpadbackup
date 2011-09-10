@@ -77,4 +77,7 @@ Five Suggestions (if using open source software)
     - Learn how to communicate there
 - Follow the licencse
 
+For Open source Devs
+- Provide easy ways for people to contribute
+
 
