@@ -1,5 +1,10 @@
+Introduction by Silvia Pfeiffer
 
-Welcome to EtherPad!
+Around-the-room introductions
 
-This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
+Silvia Pfeiffer - here reprensenting Google, working on accessibility in browsers
+expectations: good conversations about WebVTT and other accessibilities
+
+Aaron Comly (sp?) - openindie.com
+Working on "co-create"
 
