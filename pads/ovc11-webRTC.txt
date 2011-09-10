@@ -67,5 +67,6 @@ DISCUSSION
 * cross-origin permission restrictions of what one is able to do with the data? ICE channel gives you the trust and your peer can do what they want; depending on the key exchange mechanism, you can ascertain that they are still who they claim they were at the beginning of the connection
 * are schemes like ZRTP supported? not right now; don't have secure conversation through an untrusted website!
 * have all the browsers implement Kademlia?
-* isn't the WebRTC stack over-engineered? is there a slim version of WebRTC? e.g. for Web server content that connects to non-browser UAs like vlc
+* isn't the WebRTC stack over-engineered? is there a slim version of WebRTC? e.g. for Web server content that connects to non-browser UAs like vlc; you should support codecs and probably SIP if you don't want to support JavaScript
+* WebRTC and mobile? can VP8 run 
 
