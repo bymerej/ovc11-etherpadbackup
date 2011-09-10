@@ -2,7 +2,7 @@ Creating an Alternative Copyright Education
 Session Leaders:
  * Katie Baxter (NYLS Free Culture)
  * Pat Aufderheide (American University Center for Social Media)
- * Elisa Kreisinger (Pop Culture Pirate)
+ * Elisa Kreisinger (Pop CulturePirate.Org)
  * Karl Fogel (QuestionCopyright.Org)
  * Richard Esguerra (Electronic Frontier Foundation)
 
@@ -19,4 +19,5 @@ Canvasing the audience on what we want to achieve:
 
 Announcements:
  * Center for Social Media, American University is releasing a code of Fair Use resources and best practices for Research Institutions and Librarians.
+ * 
 

@@ -19,13 +19,14 @@ Developer/Corporate Relations
 - MediaEncoder heated discussion example
 - EFF & Free Software foundation will advocate for developers in legal situations
 
-Licensing (IANAL)
+Licensing (I am not a lawyer)
 - Open source vs. Free Software
     - If you don't provide a license with code, it's assumed to be restrictive
 - Copyright vs. Copyleft
     - Copy left encourages distribution and discourages restriction
     - Strong copy left - anything that touches it also has to be unrestricted
-    Strong C-left: GPL
+    Strong C-left: GPL (have to publish
     Weak C-left: LGPL, Mozilla
     Not restrictive: MIT, BSD, Apache
+    "More liberal" == MIT, etc. (doesn't infect other software that touches it)
 

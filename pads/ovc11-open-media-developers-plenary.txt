@@ -95,4 +95,16 @@ Nick Fox-Geig - animator
 Interested in Kinect camera. Home motion capture.
 
 Colin Clark - fluid project
+Open source designer/UX/usability collaboration. Video artist and composer.
+
+Ethan Hugh - Cisco
+RTCWeb references and standards, real time video
+
+Chris Blizzard - Mozilla
+Happy to talk about WebRTC< HTML5 video, etc.
+
+Colt Gillespie - Mozilla News, IBM Blade center
+Excited about popcorn.js, geolocation, changing the way we consume media, creating journalist tools.
+
+
 
