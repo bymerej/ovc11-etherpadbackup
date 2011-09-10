@@ -6,6 +6,8 @@ http://en.wikipedia.org/wiki/Bitcoin
 http://vodo.net/
 http://flattr.com/
 http://www.kickstarter.com/
+http://rockethub.com
+
 
 http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
@@ -13,6 +15,7 @@ https://mtgox.com/
 
 People and projects involved
 (Add your name, links to your projects here, if you like)
+Joe Miller, http://joemillerjd.com - @joemillerjd
 Celeste North, http://nuflick.com - celeste@nuflick.com
 Per Thulin, http://flattr.com http://www,youtify.com - per@flattr.com
 Pablo J. Varona Borges, "Centro Popular de Transparencia Gubernamental" - pabjvar@gmail.com
@@ -27,7 +30,9 @@ Use cases for alternative currencies and compensation
 The session will be divided in broad group discussions and smaller group brainstorming. The idea is to provoke a participatory atmosphere. 
 
 Holmes Wilson - Intro
-Miro C
+Miro Co-founder
+Universal Subtitles Co-founder
+
 
 
 
