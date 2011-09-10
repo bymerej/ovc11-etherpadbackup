@@ -70,9 +70,10 @@ DISCUSSION
 * isn't the WebRTC stack over-engineered? is there a slim version of WebRTC? e.g. for Web server content that connects to non-browser UAs like vlc; you should support codecs and probably SIP if you don't want to support JavaScript
 * WebRTC and mobile? can VP8 run on phones? wait for HW implementations.
 * chrome on mobile and WebRTC? right now phone users use apps more than the browser; in future it will be both and increasingly browsers
-* what's still missing? requirements document - spec is still unstable; API is very basic only and goes barely beyond establishing a connection;
+* what's still missing? requirements document - spec is still unstable; API is very basic only and goes barely beyond establishing a connection; network side of things is quite complete though what parts we want to support and which don't is still under discussion
   * mediaStream API needs more 
   * device handling e.g. how do you enumerate cameras
-  * error reporting
-  * m
+  * error reporting e.g. if TURN server doesn't exist
+  * metrics
+* is there a p2p websocket API? media goes over RTP and thus over UDP
 
