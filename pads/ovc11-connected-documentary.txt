@@ -14,7 +14,8 @@ Presentation of inspiring documentary projects using open web technologies
 
 ===============================================================
 
-** 30 Mosques, 30 States, 30 days || http://30mosques.com/ || 30 Mosques in 30 States is Aman Ali and Bassam Tariq’s Ramadan road trip across the United States.
+30 Mosques, 30 States, 30 days
+http://30mosques.com/ || 30 Mosques in 30 States is Aman Ali and Bassam Tariq’s Ramadan road trip across the United States.
 
 Started as a blog which got attention. They took filmmakers onboard for the project. Using technologies to engage with the audience. For example, used Livescribe pen for blog entries http://www.livescribe.com/fr/. 
 
@@ -59,7 +60,8 @@ Q10 - Release strategy for the feature documentary.
 
 ===============================================================
 
-The Tillman Story - Amir Bar-lev || http://www.tillmanstory.com/
+The Tillman Story
+Amir Bar-lev || http://www.tillmanstory.com/
 
 First a feature documentary 
 (From Wikipidea : The film is about the 2004 death of U.S. Army Ranger Pat Tillman in the war in Afghanistan, the cover-up of the true circumstances of his death, and his family's struggle to unearth the truth. http://en.wikipedia.org/wiki/The_Tillman_Story )
@@ -71,9 +73,9 @@ The movie's based on a huge amount of archives with a lot of scribbling in the m
 
 The feature films plays in the center of the frame and is surrounded by a group of widgets. The widgets break down in four categories. Updates, outtakes, documents and forums
 
-Updates. Allows to show updated information abo
+Updates. Allows to show updated information about the subject
 
-Outtakes. Filmmaking is building a story and sheer away everything that does not fit in the story. In the end you have a lot of good material on "the cutting room floor". 
+Outtakes. Filmmaking is building a story and sheer away everything that does not fit in the story. In the end you have a lot of good material on "the cutting room floor". Especially for this film, some of the most inciendary information was not included in the final cut. 
 
 
 

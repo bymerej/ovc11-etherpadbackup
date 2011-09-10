@@ -37,8 +37,11 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 ** is applicable to many other areas in addition to media (ecrypted messaging, etc.)
 
 
-Other Topics:
+All Topics:
 
 * file metadata
-
+* analytics/QOS
+* video editing
+* hw acceleration for video playback and compositing
+* adaptive streaming append b
 
