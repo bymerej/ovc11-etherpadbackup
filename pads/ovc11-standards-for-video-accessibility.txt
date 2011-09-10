@@ -22,6 +22,7 @@ Discussion topics:
  * current state of <track> element
  * multitrack API: @mediagroup
  * run scripts at certain time: @kind=metadata track
- * security considerations: CORS & same-origin
+ * security considerations: CORS & same-origin; no cross-origin xml file like
+ * Why not leveraging what is already available (e.g. matroska external entity support and
 
 
