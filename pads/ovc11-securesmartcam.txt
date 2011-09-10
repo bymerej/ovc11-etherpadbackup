@@ -6,15 +6,23 @@ Technology for Anonymization
  * 
  * 
 
+INTRODUCTION 
+
 Nathan explains progress on the SecureSmartCam project.
 
 See this blog post explaining progress since conceptualization at OVC 2010:
 
 https://guardianproject.info/2011/09/10/progress-on-mobile-video-privacy-tools/
 
-Examples of usage on the ObscuraCam facebook pag
+Examples of usage on the ObscuraCam facebook page: https://www.facebook.com/obscuracam
 
-Including this video demo:
+Including this video demo: http://www.youtube.com/watch?v=aXOKRShqYa0&feature=player_embedded 
+
+Facial recognition in this functionality could also be used not only redact, but also to embed additional data (eg. intent/consent)
+
+Points to other examples:
+- Opencv face detection (check out videos illustrating usage - youtube opencv)
+- Viewdl
 
 
 
