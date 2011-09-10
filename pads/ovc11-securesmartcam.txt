@@ -63,7 +63,7 @@ Sarah Knuckey: potential challenges thinking from human rights documentation per
 - Victims (in future need for identification or proof)
 - In mass situations/Crowd situations
 - Does it really hide people?
-- Voice distortion
+- Voice distortion (Guardian sees this as important, wants to implement)
 
-
+OpenCV allows "standards of redaction" to be identified
 

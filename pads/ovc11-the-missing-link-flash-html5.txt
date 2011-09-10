@@ -9,6 +9,8 @@ Silvia Pfeiffer, Google
 * fragmentation of features
 * is innovation getting in the way of colaboration?
 
+WRITE BUG REPORTS
+
 == Use Cases ==
 
 * AppendBytes, editable byte arrays, the netstream--Dependent on OS media framework
