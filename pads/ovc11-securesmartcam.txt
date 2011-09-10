@@ -46,5 +46,5 @@ What about security?
 
 Other technology examples
  * yelp type app that uses security cameras to show what a scene looks like in real-time at a restaurant or commercial establishment
- * Berkerley Open Courseware video software that keeps professor from getting in the way of tracks and removes professor based on earlier frames of whiteboard so he doesn't block
+ * Berkerley Open Courseware video software that keeps professor from getting in the way of whiteboard by referencing earlier frames and tracking professor
 

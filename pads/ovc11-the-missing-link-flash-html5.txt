@@ -34,6 +34,6 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 ** encryption key should be published
 ** secure key exchange
 ** proxy opaque DRM messages over HTTP
-** is applicable to many other areas (ecrypted messaging, etc.)
+** is applicable to many other areas in addition to media (ecrypted messaging, etc.)
 
 

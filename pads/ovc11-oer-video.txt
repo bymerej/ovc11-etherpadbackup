@@ -64,5 +64,6 @@ Mediathread: looking for partners
 Noticing self-organizing groups. ex; skillshare startup
 How can video be best harnessed to engage people within a colloboration
 
+overlay video feeds of people watching (live) an openvideo lecture so that it turns watching an openvideo into a community activity. Can see other people raise hands, etc.
 
 
