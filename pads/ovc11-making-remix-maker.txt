@@ -99,9 +99,14 @@ Expectations for Monday:
 
 Summary: 
 
-- Nice to haves:
+- Nice to haves
+
     > click through interface that breaks down the pharmaceutical commercial by menu 
-        - choose every element
+        - choose every element through this menu
+        - when done, a remix is put generated from these choices
+        - audio swapping would be nice
+        
+    > is basically a forking model
          
 
 

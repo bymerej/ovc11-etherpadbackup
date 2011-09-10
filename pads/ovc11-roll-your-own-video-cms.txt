@@ -16,5 +16,12 @@ Outcome
 Greater understanding of the range of available options, opportunities and challenges in rolling your own video CMS
 
 
-n
+upload, encode, host, CD
+
+UPLOAD
+================
+
+Front-end (JS, Flash, HTML5)
+Back-end (handling upload, report progress)
+
 

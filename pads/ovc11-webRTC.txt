@@ -9,16 +9,24 @@ CISCO
 * real-time communication for the Web: need for open and free solutions
 * make it easy for any Web developer to easily deploy RTC apps
 * Requirements:
-* open
-* high quality
-* low latency
-* secure
-* interoperable
-* ease of use
+  * open
+  * high quality
+  * low latency
+  * secure
+  * interoperable
+  * ease of use
 
 * What will it be used for?
   * phone app
   * video conferencing
   * do what flash is capable of and more
 
+== How did we get where we are
+
+* started a year ago over lunch, IETF meeting July 2010
+* requirements have been there for many years
+* this is the right time to address it
+* IETF RTCWEB WB formed in April 2011: focus on network protocols
+* W3C WebRT WG created May  2011: JS API focus
+* focus on 
 
