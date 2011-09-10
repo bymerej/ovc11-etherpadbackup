@@ -65,5 +65,7 @@ Transcript
 -- Sync transcript to player
 -- Benefits: SEO (?), accessibility, usability
 
-Captioning
+Captioning:
+-- WGBH captioning as a service for broadcast
+-- Closed captions (separate from videovs. open captions
 

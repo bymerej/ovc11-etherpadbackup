@@ -27,7 +27,8 @@ Here's how Storyful verified within a few hours to guide news publishers
      * What accents did soldiers speak with, how does the street look, does the weather match
        * They matched buildings with Google Earth images to verify location was ?Homs, Syria
 
-
+Issues:
+1. video take-downs almost automatically - we do not know why, perhaps because of graphic images. Crucial that it is preserved if taken down from social media platforms. (Storyful does this)
 
 In advance of the session here are the session leader bios:
 
