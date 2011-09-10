@@ -43,8 +43,18 @@ Distribution:
     Accessable    o        (widely used platforms)
     Participatory    x+    (few true large-scale community-run platforms)
 Standards   
-    Cost-free        v-
+    Cost-free        o-
     Legally free    ?        (patents)
     Accessable    -        (harder to find than they should be)
-    Participatory   ??
+    Participatory  -        (varies by standards organization)
+Social
+    Cost-free        o-        (varies by country and culture)
+    Legally free    o
+    Accessable    x+
+    Participatory    -
+Content
+    Cost-free        o
+    Legally free    o-
+    Accessable    v-- (searchability low, much material not online, quality can be low)
+    Participation    THE GOAL, also a WORK IN PROGRESS
 
