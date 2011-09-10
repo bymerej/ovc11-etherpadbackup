@@ -17,8 +17,8 @@ Bug Trackers:
 
 == Use Cases ==
 
-* AppendBytes, editable byte arrays, the netstream--Dependent on OS media framework
-** Low Level Video apis
+* AppendBytes, editable byte arrays, the netstream concept -- Dependent on OS media framework
+** Low Level Video APIs
 ** DVR (high speed seeking within buffers) on livestreams
 ** netstream file construction
 *** Adaptive Streaming
@@ -46,16 +46,19 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 
 
 Other sessions:
+* adaptive streaming: appendBytes
 * analytics/QOS
+* device and camera
 
 Topics for Monday breakouts:
+* appendBytes
 * video editing
-* adaptive streaming append bytes
 * fullscreen
-* playlist and gapless playback high level html tags
+* playlist and gapless playback, high level html tags
 
 Additional Topics:
 
 * file metadata
 * hw acceleration for video playback and compositing
+* social viewing
 
