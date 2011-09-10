@@ -63,7 +63,7 @@ WebRTC project. Mostly interested in feedback for the web platform
 Ralph Giles (rillian) - Mozilla, Xiph.org
 Works on Ogg, WebM, WebVTT, WebRTC, ...
 
-Philippe Normand - WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
+Philippe Normand - WebKit GStreamer backend, Web Audio API. Interested in WebRTC and Accessibility
 
 Thomas van der Stichele - GStreamer
 Flumotion streaming server, WebM and Theora support. Recently started live transcoding. Streaming the conference today. Interested in develoiper connections.
@@ -188,6 +188,8 @@ On Monday we'll be at the Events Center around the corner. That's the official h
 
 Separation of "technology" and "open media developer" tracks
 
+Other discussion ideas
+
 * Web Audio API - competing proposals
 
 * Streaming server implementations - Luca, Thomas
@@ -196,5 +198,9 @@ Separation of "technology" and "open media developer" tracks
 
 * Content protection in HTML5
 
-* Playlists, APIs among players and browsers. Mu
+* Playlists, APIs among players and browsers. Multiple clips with seamless transition - maybe talk about in the flash vs html5 panel?
+
+* Alpha channel in HTML5 video? - will talk about that in webm
+
+* How to loop HTML5 video. Browser bug? Too slow? Doesn't work in Mozilla and Chrome at least. Not seamless.
 

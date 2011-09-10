@@ -77,7 +77,11 @@ What are the ways to address some of these issues? What are possible solutions?
    * changing the way we think of privacy - not a question of whether our data is safe, but to what extent it is safe, for how long. Not up to people to manage their information, requires developments at systematic level to measure risk, understanding who controls
 
  * Personal level
-   * Understanding risk analysis. Anyone can track you but are they? How far are you wi
+   * Understanding risk analysis. Anyone can track you but are they? What are you willing to sacrifice
+     * ??Nate from the Guardian Project?? is two degrees from Julian Assange, it's pretty well known but he hasn't been stopped by authorities
+   * There are levels of privilege. Some people can get a job
+ * Tech development level
+- The people who develop tools and platforms can have a limited understanding
 
 Interesting demonstrations of privacy awareness/personal management
  * Facebook Users' Phone Numbers Exposed by “Evil” App
