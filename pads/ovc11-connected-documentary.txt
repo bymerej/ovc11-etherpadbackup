@@ -32,8 +32,6 @@ Q1 - What would drive engagement ?
 Q2 - Participant wants to know more about the mockup they show, which is a map with videos blobs layered onto it. 
 
 Q3 - Question about narrative focus, what is the story ?
-
-
 The challenge would be to find interesting people. Finding more people who are willing to share their story, experiences. 
 
 Are multiple entry point in a narrative relevant and efficient ? 
@@ -53,7 +51,7 @@ Q8 - How to integrate the content in a relevant web experience ?
 - Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency.
 - The Association of Moving Image Archivist http://amianet.org  might be of interested to contribute for this kind of data structuration. Posting a message to their list-serv could be a good way to get in touch with them.
 
-Q9 - Comment about the specitify of the 30 days roadtrip VS something else (missed it, sounded good if anyone can summarize it). Basically, what about another organizing structure alternative to the map. What about using the 30 days of Ramadan as the organizing structure? The map neutralizes the content, this (calendar/ temporality) could bring all threads together
+Q9 - What about another organizing structure alternative to the map. What about using the 30 days of Ramadan as the organizing structure? The map neutralizes the content, this (calendar/ temporality) could bring all threads together
 
 Q10 - Release strategy for the feature documentary.
 - Possibilities to integrate web elements in the film frame.
@@ -77,8 +75,7 @@ Updates. Allows to show updated information about the subject
 
 Outtakes. Filmmaking is building a story and sheer away everything that does not fit in the story. In the end you have a lot of good material on "the cutting room floor". Especially for this film, some of the most inciendary information was not included in the final cut. 
 
-
-
+Documents.
 
 
 

@@ -56,6 +56,14 @@ IDEAS
     *Option to redact when someone tags you
     *Gamification of anonymization/redaction
     * Layers of access, multiple sources, ACL
+    * VOICE manipulator
     
-    
+Sarah Knuckey: potential challenges thinking from human rights documentation perspective
+- Perpetrators removing selves
+- Victims (in future need for identification or proof)
+- In mass situations/Crowd situations
+- Does it really hide people?
+- Voice distortion
+
+
 

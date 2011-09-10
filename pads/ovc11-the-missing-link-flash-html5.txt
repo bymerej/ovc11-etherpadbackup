@@ -43,5 +43,9 @@ All Topics:
 * analytics/QOS
 * video editing
 * hw acceleration for video playback and compositing
-* adaptive streaming append b
+* adaptive streaming append bytes
+* devices and camera
+* fullscreen
+* social viewing
+* playlist, gapless playback high level javascript apis
 
