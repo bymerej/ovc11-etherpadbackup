@@ -60,8 +60,12 @@ Q10 - Release strategy for the feature documentary.
 ===============================================================
 
 The Tillman Story - Amir Bar-lev || http://www.tillmanstory.com/
+
+Feature documentary (From Wikipidea : The film is about the 2004 death of U.S. Army Ranger Pat Tillman in the war in Afghanistan, the cover-up of the true circumstances of his death, and his family's struggle to unearth the truth. It was nominated for the Grand Jury Prize at the 2010 Sundance Film Festival. The film is narrated by Josh Brolin.[2] http://en.wikipedia.org/wiki/The_Tillman_Story )
+
+Creating a interactive version of the film
 - The ending of the movie tends to engage people to act. The audience asked how to engage. That's why they decided to create an interactive edition of the feature film. 
-- 
+- Based on a huge amount of archives with a lot of scribbling in the margins. Filmmaker tried to recreate this experience of margin annotation. 
 
 
 

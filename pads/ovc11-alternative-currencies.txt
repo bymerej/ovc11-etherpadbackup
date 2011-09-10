@@ -104,5 +104,5 @@ Super Group Nr 1
 
 - how to get people do donate to any type of micropayment system?
 
-- Bitcoin 
+- Bitcoin's second generation
 
