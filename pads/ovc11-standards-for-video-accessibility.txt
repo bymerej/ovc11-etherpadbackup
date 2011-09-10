@@ -29,6 +29,8 @@ Discussion topics:
  * voice tag: how to expose special styling? apply class to <v> tag
  * why have a "WEBVTT" magic string at the file start? file tle type identification
  * WebVTT in WebM
+ * Create tracks later: add <track> later or use MutableTextTrack
+ * 
 
 
 
