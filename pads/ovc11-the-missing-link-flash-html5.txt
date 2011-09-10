@@ -45,19 +45,22 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 ** what is the patent situation?
 
 
-Other sessions:
+Other sessions cover these topics:
 * adaptive streaming: appendBytes
 * analytics/QOS
 * device and camera
 
+
 Topics for Monday breakouts:
 * appendBytes
+* DVR on live streams, seeking
+* DRM
 * video editing
 * fullscreen
 * playlist and gapless playback, high level html tags
 
-Additional Topics:
 
+Additional Topics:
 * file metadata
 * hw acceleration for video playback and compositing
 * social viewing
