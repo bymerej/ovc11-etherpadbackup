@@ -65,7 +65,8 @@ Solutions:
    * Not re-inventing the wheel. 
    * Making website an aggregate of the resources that are currently in existence. 
    * Capturing people with the little thing on the side (a badge of sorts).
-   * 
+ * Generating the right content/knowledge is an intensive process. 
+ * 
 
 
 Announcements:
