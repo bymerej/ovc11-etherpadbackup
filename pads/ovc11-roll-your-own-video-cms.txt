@@ -41,6 +41,7 @@ Approaches:
 -- Erlyvideo
 -- Native iOS upload
 -- Backend: Apache, Ngnix, NodeJS
+-- UDP
 
 
 TRANSCODING

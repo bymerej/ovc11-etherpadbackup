@@ -38,7 +38,20 @@ Ethan Hugg, CISCO
 * PeerConnection API in Firefox Q1 2012 (ikran) (demo provided)
 * CISCO open sourced SIP stack (SIP proxy server to signal to real phone)
 * CISCO demos shows a Firefox plugin that implements the SIP stack
+* Ericsson has a Webkit implementation that uses WebRTC
 
+== What does the platform provide?
+
+* media capture
+* real-time media encoding
+* signal processing (noise filter, echo cancellation, gain control etc)
+* real-time secure media transmission (jitter buffer, encrypotion etc)
+* P2P data channel
+* signalling / negotiation
+
+TOPICS FOR DISCUSSION
+
+* SIP - implementation in the browser necessary?
 
 
 
