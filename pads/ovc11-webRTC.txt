@@ -36,7 +36,7 @@ Ethan Hugg, CISCO
 * open source project developed that Chrome, Firefox & Opera etc can pick up
 * PeerConnection in Webkit and Chrome Sept 2011 (demo provided)
 * PeerConnection API in Firefox Q1 2012 (ikran) (demo provided)
-* 
+* CISCO open sourced SIP stack (SIP proxy server to signal to real phone)
 
 
 

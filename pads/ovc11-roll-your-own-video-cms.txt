@@ -21,7 +21,7 @@ stack:  upload, encode, host, CDN, player, app
 UPLOAD
 ================
 
-Front-end (JS, Flash, HTML5)
+Front-end (JS, Flash, HTML5, Java, Plugin)
 Back-end (handling upload, report progress)
 
 Challenges:
@@ -34,6 +34,7 @@ Approaches:
 -- scp from client to server
 -- Drupal: MediaMover
 -- Send to third party (archive.org, YouTube)
+-- Upload front-end: swfupload, plupload
 
 TRANSCODING
 ================
