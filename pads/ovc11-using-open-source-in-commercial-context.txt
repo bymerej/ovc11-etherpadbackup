@@ -67,6 +67,10 @@ Open + Closed
 Freemium (MySQL)
 Brand use criterea (Rails, Mozilla)
 
-Five Suggestions (if using ope
+Five Suggestions (if using open source software)
+- Don't try to hide it (powerd by apache)
+- Donate to open source projects (might be paypal-ing $ to a dev)
+    - Check out BitCoin if you're an open source dev.
+    
 
 

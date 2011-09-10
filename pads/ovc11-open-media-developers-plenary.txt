@@ -63,19 +63,19 @@ WebRTC project. Mostly interested in feedback for the web platform
 Ralph Giles (rillian) - Mozilla, Xiph.org
 Works on Ogg, WebM, WebVTT, WebRTC, ...
 
-Philippe Normand - WebKit GStreamer backend, Web Audio API. Interested in WebRTC and Accessibility
+Philippe Normand - WebKit GStreamer backend, Web Audio API. Interested in WebRTC and accessibility
 
 Thomas van der Stichele - GStreamer
 Flumotion streaming server, WebM and Theora support. Recently started live transcoding. Streaming the conference today. Interested in develoiper connections.
 
-Jasmine Langridge - YouTube, web interfaces for tv
+Jasmine Langridge - YouTube, web interfaces for TV
 Interested in WebGL, what people are excited in.
 
 Ian Small - Talkbox
-Working on f2f cloud video. interested in webrtc to make it more open.
+Working on f2f cloud video. interested in WebRTC to make it more open.
 
 Luca Barbato - libav (nee ffmpeg)
-Interested in network protocols, codecs. Interested in webrtc background. Please use libav directly rather than using wrappers.
+Interested in network protocols, codecs. Interested in  WebRTC background. Please use libav directly rather than using wrappers.
 
 Richard Leider - client side scripting at youtube
 Metrics, adaptive streaming, see how the sausage is made
@@ -90,7 +90,7 @@ Jedehan -
 XMPP messaging. Interested in documenting conventions for participatory media
 
 Mark Boas - Happy Worm
-50 % of the jplayer team. (jquery plugin). Very interested in audio as well. working on hyper-audio with link text in spoken word.
+50% of the jplayer team. (jquery plugin). Very interested in audio as well. Working on hyper-audio with link text in spoken word.
 
 Brian, O'Hagan - Columbia U
 Media infrastructure and repositoris. Web video tools to collect, analyse, annotate video. Interested in codecs and format standards, accessibiltiy
@@ -182,7 +182,7 @@ Schedule at http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
 
 WebM metrics scheduled for tomorrow in room 303 in parallel with open video editors
 
-Please update the schedule with breakouts as they happens. Reserve rooms through etherpad.
+Please update the schedule with breakouts as they happens. Reserve rooms through etherpad. http://openetherpad.org/ovc2011
 
 On Monday we'll be at the Events Center around the corner. That's the official hack space during the conference.
 
@@ -204,5 +204,7 @@ Other discussion ideas
 
 * How to loop HTML5 video. Browser bug? Too slow? Doesn't work in Mozilla and Chrome at least. Not seamless.
 
-* Positional/3D audio? P
+* Positional/3D audio? Possible with Apple's Web Audio api proposal
+
+Encourage pair programming to fix specific issues in the session. 
 
