@@ -46,6 +46,6 @@ Approaches:
 
 TRANSCODING
 ================
-Metadata preservation
+Metadata preservation: manual entry
 Unpredictable types/files
 
