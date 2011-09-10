@@ -22,7 +22,7 @@ Facial recognition in this functionality could also be used not only redact, but
 
 Points to other examples:
 - Opencv face detection (check out videos illustrating usage - youtube opencv)
-- Viewdl
+- Viewdle (Facial Recognition API) iOS SDK including comic Napoleon explaining...
 
-
+There's the 'visual detection' side of the house, and the 'data' side - both parts of SSC.
 
