@@ -13,3 +13,4 @@ The best software for working with video is open source. Companies everywhere, l
 Outcome
 An understanding and appreciation of using FOSS building blocks in a commercial video context
 
+
