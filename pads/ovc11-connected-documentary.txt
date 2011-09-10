@@ -140,11 +140,16 @@ Blanket participation through multiple social media outlets/ websites: flickr, f
 Gathering Resources through Digital Diaspora store - http://ddfr.tv/store/
 
 trans4mations
-    - using an archive to engage and educate a younger/ broader audience with interactive scenarios
+    - making an archive interactive to engage and educate a younger/ broader audience with different historical scenarios
     
 Needs: 
     - technical aspects of gaming 
-    - creating a model that can take 
+    - creating a model that can take the project to different cities 
+    - figuring out a systeme to integrate videos and photos in realtime during live events
+    - activating communities that attend screenings of the film 
+    
+    
+    
 
 ===============================================================
 
