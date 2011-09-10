@@ -4,5 +4,39 @@ permissions dialog
 
 browsers agree on single means to get access to camera/mic, preferably as a media stream object
 
+permissions
+settings (how do they persist)
+how to map devices to tabs
+js api/html5 
+two devices from same page (time synch)
+
+permissions
+===========
+tying to domain is not sufficient.
+should a site be able to force the browser to reprompt for permission to access device
+session based
+
+master swich a-la gps control in android
+
+want to separate camera setup dialogs
+
+need to be able to faking camera and mic
+
+where should api live? under navigator object? already bloated.
+
+enumeration
+===========
+can ask for permission for both camera and screen at the same time, not twice
+only after user has consented
+delegation of responsibility for picking devices can be delegated to the browser
+
+use cases
+=========
+take a picture from camera
+  hints [mandatory/preferable]
+output to canvas/webgl
+time lapse
+record/review/upload
+
 
 
