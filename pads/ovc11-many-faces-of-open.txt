@@ -11,5 +11,18 @@ Nouns:
 Adjectives
  * Cost-free (free as in beer)
  * Legally free (free as in free speech)
- * 
+ * Accessable (can and do people actually use it)
+ * Participatory (can and do people take part in shaping it)
+
+Symbols:
+o = yes
+x =no 
+- = neutral
+
+Our chart:
+
+Hardware:
+    Cost-free:        x
+    Legally free:    - (pate
+    
 
