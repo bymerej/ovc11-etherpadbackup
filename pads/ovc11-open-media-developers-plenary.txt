@@ -16,5 +16,17 @@ Forest Mars - manhattan neighbor network
 Largest community tv network in the world.
 Preserving content from a quantitative and a qualitative point of view. Curiatorial aspects of video. Evolution of Television vs Internet, and not making the same mistakes we did in tv with business interests.
 
-Eric Pettijon (sp?) - Realtime delivery of media
+Eric Pettijon (sp?) - Realtime delivery of media clips, hiring
+
+Chris Rogers - Web developer, working on "Land of opportunity" film project
+Here to learn about popcorn.js
+
+Zack - Long 
+Talk about how to make video work for all platforms. Make the best user experience, metrics, and all that jazz.
+
+Foolip - Opera
+Working on WebVTT, will fix Opera bugs (bring 
+
+Pablo - Long tail video
+works on jwplayer, consistent experience between html5 and flash
 
