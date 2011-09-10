@@ -17,5 +17,10 @@ Discussion Topics
 
 Developer/Corporate Relations
 - MediaEncoder heated discussion example
-- EFF & Free Software foundation will advocate
+- EFF & Free Software foundation will advocate for developers in legal situations
+
+Licensing
+
+
+
 

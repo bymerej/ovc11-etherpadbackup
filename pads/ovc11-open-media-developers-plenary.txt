@@ -48,9 +48,19 @@ Eye candy, show, google creative labs work. Want to talk to developers fixing to
 Mark Watson -netflix
 Make sure HTML5 grows into the kind of thing we can use for our service. Evolve for embedded, set-top, tvs.
 
-Tim Terriberry - Mozilla, Xiph.org
+Tim Terriberry - Mozilla, Xiph.Org
 Lead of the theora project, now working on VP8, Opus. Getting Opus and WebRTC shipped in browsers. Find out what's going on and hear platform problems.
 
-Ananta - Mozilla
-Implement and standardize video in the browser. WebRTC and device 
+Anant Narayanan - Mozilla
+Implement and standardize video in the browser. WebRTC and device API. Get everyone on the same page re device access. Permission models, etc.
+
+Jan Linden - google
+WebRTC project. Mostly interested in feedback for the web platform
+
+Ralph Giles - Mozilla, works on Ogg /WebM/ WebVTT/ WebRTC
+
+WebKit gstreamer backend, web audio api. Interested in WebRTC and Accessibility
+
+Thomas van der Stichele - gstreamer
+Flumotion streaming server, WebM and Theora support. Recently star
 

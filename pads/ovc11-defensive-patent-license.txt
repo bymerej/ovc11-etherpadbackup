@@ -1,5 +1,9 @@
+Introduction to Session
 
-Welcome to EtherPad!
+Open video standards and tools are essential for participatory media. Yet, in order to keep them open, there must be strategies for managing intellectual property—both within the community and outside. Free and open source licenses have helped manage copyright issues for quite some time, but concerns over patents still abound. 
+In this workshop, we will introduce a new approach to protecting open video from patent threats—the Defensive Patent License. In many patent-heavy industries, defensive patenting is a common strategy used to control patent threats and create freedom to operate and consensus around standards. The concept is simple. Rather than prosecuting and obtaining patents for the purpose of excluding competitors or seeking license fees, defensive patentees acquire patents solely as a deterrent and potential counter-weapon against any entity that threatens them legally.
 
-This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
+Despite this tradition, the practice of defensive patenting has been very limited in the open source community, in part because of the costs of patenting, political and cultural objections to patents, and anti-innovation “bullying” tactics by both dominant industry players and “patent trolls.” There has also been important skepticism about whether or not defensive patents will actually stay defensive over their lifetime. 
+
+This session will begin by introducing the DPL and the rationale behind it. We will then gather data from the audience as to the types of patent issues confronting open video projects and which technologies or standards they target. We will then explore whether or not using a Defensive Patent License could help address patent problems in the OVC and what specific needs the community would have in order to implement it. Coming out of the meeting, we intend to produce a set of recommendations for defensive patent licensing in open video.
 
