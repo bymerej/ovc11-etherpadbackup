@@ -23,7 +23,7 @@ http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
 https://mtgox.com/
 
-Solution to Jay's problem of coins stored on boxen (e.g. phones) where the coin owner doesn't have root: store your coins on your freedombox. run your bitcoin client on your fre
+Solution to Jay's problem of coins stored on boxen (e.g. phones) where the coin owner doesn't have root: store your coins on your freedombox. run your bitcoin client on your freedombox. run an app (maybe a webapp) on the freedombox that 
 http://en.wikipedia.org/wiki/FreedomBox
 http://www.freedomboxfoundation.org/
 

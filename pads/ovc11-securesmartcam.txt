@@ -130,11 +130,11 @@ For human rights situations, provide public keys for orgs who will accept footag
 
 Good example of a more idiot-proof public key approach (noting that problem with public keys is complexity): "Viscosity+VyperVPN, as an example, makes securing your Internet connection against interception pretty idiot-proof."
 
-Make sure to explain that encryption is not unbreakable, as is anonymization - but makes it harder. Question of 'how much effort to break' -  vs
+Make sure to explain that encryption is not unbreakable, as is anonymization - but makes it harder. Question of 'how much effort to break' -  locked box vs unbreakable.
 
 Go with non-redacted version (to evidentiary repository/trusted source) and a then a redacted version (vs encrypted sections) for public distribution.
 
-To ensure reach: how about having it as installed app on the devices when bought; or built into overall camera functionality? (which also has to do with manufacturers). Could incentivize a manufacturer to do from a market perspective? (Nokia, Sony Ericsson, Samsung?). Should this be put into the Google camera app source as a patch - get manufacturers using it. Build off Google cameras-source code as an easier path to reference design?
+To ensure reach: how about having it as installed app on the devices when bought; or built into overall camera functionality? (which also has to do with manufacturers). Could incentivize a manufacturer to do from a market perspective? (Nokia, Sony Ericsson, Samsung?). Should this be put into the Google camera app source as a patch - get manufacturers using it. Build off Google cameras-source code as an easier path to reference design? Filter with the app
 
 Tool that spits junk data - is there a way to effectively create chaf for human rights purposes.
 

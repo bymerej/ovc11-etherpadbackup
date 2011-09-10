@@ -17,6 +17,9 @@ Discussion topics:
  * audio descriptions delivered as text descriptions
  * concerns of desktop players
    * why was a new format introduced?
-   * 
+   * ...
+ * simplicity to translate between new format and e.g. SRT
+ * current state of <track> element
+ * multitrack API: @mediagroup
 
 
