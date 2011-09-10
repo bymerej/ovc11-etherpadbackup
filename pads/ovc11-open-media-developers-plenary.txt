@@ -151,6 +151,15 @@ Database narrative editing suite. Porting flash apps to HTML5, particularly for 
 Peter Pinch - WGBH
 Interested in archive interop, accessibility
 
- - Montreal
- Open technology for artistic software, audio editing, 
+ ??  - Montreal
+ Open technology for artistic software, audio editing, OLPC (tam tam creator)
+ 
+ Simon - Studio Imaginal
+ Interested in coding, creatives,
+ 
+ Aphid - UCSC, Metavid
+ Work with gov't video to digitize and put online as open video with metadata
+ 
+ George C - openvideoproductions llc
+ 
 

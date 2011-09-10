@@ -33,13 +33,19 @@ i.e. Gay girl in Demascus hoax in Syria -- outed a photo of a lesbian in London 
 
 Key questions raised:
 
-1. What values and purposes underpinning information flow controls are being disrupted by technological changes? What are the privacy harms in different contexts - we need to understand the implem
+1. Helen - What values and purposes underpinning information flow controls are being disrupted by technological changes? What are the privacy harms in different contexts - we need to understand the implementation of these systems in different contexts.
 
-2. If a current problem is the lack of conscious, privacy-minded decision making on the part of users, is the solution to try and get them to make those decisions in an informed way, or should we look for a technical solution that d
+2. If a current problem is the lack of conscious, privacy-minded decision making on the part of users, is the solution to try and get them to make those decisions in an informed way, or should we look for a technical solution that doesn't take as much time and effort? 
+
+3. Given that it is so difficult to retract an online personality (once "out"
 
 Rich Jones - In favor of more surveillance
  * Surveillance is already happening, it's only going to get worse, the intrusion will increase
-   * therefore we need to level the playing field and get the public involved to dr
+   * therefore we need to level the playing field and get the public involved to drive benefits
+
+ * Openwatch -- project for public to monitor authority figures, i.e. cops
+   * Majority of people have instant access to cameras
+   * Openwatch posts police abuse as well as positive police actions
 
 
 Here are the session leader bios:
