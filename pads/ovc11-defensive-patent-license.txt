@@ -27,6 +27,7 @@ Questions for Discussion
  * •Other issues/ideas
 
 • Concerns / Questions
+    Scope of DPL--concerns about "all-in" model vs. by technology 
 
 
 

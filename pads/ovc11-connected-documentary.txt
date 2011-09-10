@@ -7,11 +7,11 @@ Watching One Millitonth Tower making of video by Katerina Cizek  as an introduct
 
 Presentation of inspiring documentary projects using open web technologies 
 
-30 Mosques, 30 States, 30 days || http://30mosques.com/ || 30 Mosques in 30 States is Aman Ali and Bassam Tariq’s Ramadan road trip across the United States.
+** 30 Mosques, 30 States, 30 days || http://30mosques.com/ || 30 Mosques in 30 States is Aman Ali and Bassam Tariq’s Ramadan road trip across the United States.
 
 Started as a blog which got attention. They took filmmakers onboard for the project. Using technologies to engage with the audience. For example, used Livescribe pen for blog entries http://www.livescribe.com/fr/. 
 
 Showing video segment from the project http://vimeo.com/28186883  "Freeway spits a few verses inside an Indian grocery store during a segment we like to call “Saffron Cipher”"
 
-Film about the blog, meta documentary on the process of the making the blog and the personal journey of it's creators. Opportunities to integrate all of the content around this project, 
+Film about the blog, meta documentary on the process of the making the blog and the personal journey of it's creators. Opportunities to integrate all of the content around this project, the photos, the blog entries, the vlog entries and the video documentary of the process. They are looking to create a web experience. Sharing some of the ideas they have, showing a mo
 
