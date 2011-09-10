@@ -66,14 +66,16 @@ Rich Jones - In favor of more surveillance
 It's correct, I think, to point out that right now the trend seems to be toward the powerful (and the government in particular) having increased control over their online presence; this in part comes from the connection between resources and control over the direction of innovation.
 
 What are the ways to address some of these issues? What are possible solutions?
+ * You should at least have the right to FOIA-like  access on what reports private sources have about you.
+   * related to helen nissenbaum's idea of 
 
 Interesting demonstrations of privacy awareness
  * Facebook Users' Phone Numbers Exposed by “Evil” App
    * http://mashable.com/2010/05/24/evil-facebook/
  * Facebook´s privacy changes - importance of "a right to awareness"
  * Using Google alerts on names too know what is being put out there 
- * Online identity management tools - Is it naive to think that this is a solution given lack of transparency on much broader data surveillance
-
+ * Online identity management tools - Is it naive to think that this is a solution given lack of transparency in much broader data surveillance and tracking?
+   * Rich Jones - it's naive because public data is just the tip of the iceberg
 
 Here are the session leader bios:
 

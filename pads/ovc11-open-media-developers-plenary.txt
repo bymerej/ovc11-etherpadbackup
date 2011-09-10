@@ -43,11 +43,11 @@ Working on player, find out what's happening in open source video
 Eric Carlson - Apple
 Lead developer from Apple on WebKit HTML5 audio/video. Involved with standardization at W3C from the begininng and involved with accessibility over the last couple of years. Interested in all of those things and hope to see <track> element and captions show up in the wild
 
-Tracey Jacquith - archive.org
+Tracey Jaquith - archive.org
 Big library and digital storage, starting to record TV. Interested in players, interoperability, editors, universalsubtitles.org. Main storage eng, migrating to video.
 
 Richardo duod (?) - @mrdoob 
-Eye candy, show, google creative labs work. Want to talk to developers fixing tools.
+Eye candy, show, google creative labs work. Want to talk to developers fixing tools. created three.js
 
 Mark Watson - Netflix
 Make sure HTML5 grows into the kind of thing we can use for our service. Evolve for embedded, set-top, tvs.
@@ -153,8 +153,8 @@ Fan, love to talk about codecs and algorithms, low power devices, OLPC.
 Dave Riche - 
 Database narrative editing suite. Porting flash apps to HTML5, particularly for iOS. Automated transcoding for different devices, ffmpeg.
 
-Peter Pinch - WGBH
-Interested in archive interop, accessibility
+Peter Pinch - WGBH @pdpinch
+Interested in archive interopability, accessibility
 
 Nathanael Lécaudé  - studio imaginaire -  Montreal
  Open technology for artistic software, audio editing, OLPC (tam tam programmer)

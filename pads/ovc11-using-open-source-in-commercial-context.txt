@@ -45,6 +45,8 @@ Open
 Lower development costs (if you can make a community)
 Easier Adoption
 Disadvantage: Might be giving people tools they can't use and creating a support burden
+Good Will
+Innovation
 
 Closed
 ----------
