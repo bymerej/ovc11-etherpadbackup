@@ -1,5 +1,10 @@
+Potential topics:
 
-Welcome to EtherPad!
-
-This  pad text is synchronized as you type, so that everyone viewing this  page sees the same text.  This allows you to collaborate seamlessly on  documents!
+WebVTT format ? anything missing that we should add in a hurry?
+Style and rendering ? is it any good?
+UI ? standardized imagery for indicating presence?
+Chapters ? the end time is pointless?
+Transcript ? can it be built into browsers in a sane way?
+UI for enabling multiple tracks?
+Descriptions ? synthesis?
 

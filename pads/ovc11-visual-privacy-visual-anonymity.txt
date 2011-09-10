@@ -23,11 +23,9 @@ Five Scenario Areas
 Jillian
 
 Lebanon is more "liberal" country in Arab middle east, has support for gay community
-   * 
    * Activist in Lebanon stopped worrying about online exposure. 
-   * 
-   * Then learned Mom joined Facebook
-   * 
+   * Then learned Mom joined Facebook, changed perspective
+
 
 i.e. Gay girl in Demascus hoax in Syria -- outed a photo of a lesbian in London without her intention
 
@@ -70,7 +68,7 @@ What are the ways to address some of these issues? What are possible solutions?
    * You should at least have the right to FOIA-like  access on what reports private sources have about you.
      * related to helen nissenbaum's idea of 'information flow' and contextual integrity
  * Corporate Policy level
-   * 
+   * http://my.nameis.me -- Examples of who is harmed by real name policies
 
  * Cultural level
    * Maybe if more 'shaming' is likely, like in British riots, then the criminal-consequences should change.  If no one wants to be shamed, there can at least be less power by the system
@@ -84,11 +82,13 @@ What are the ways to address some of these issues? What are possible solutions?
  * Tech development level
 - The people who develop tools and platforms can have a limited understanding of how the technology affects citizens in completely different contexts to the users they imagine they are designing for - particularly for activists in places like Syria for example.
 
-False public sphere/private sphere dichotomy in the digital age - it is not always clear what information is being shared "publically", which has reverberations in the legal sphere 
+    Any individual intermediary tends not to consider it their own responsibility to provide for  anonymity/data protection--but when we all have to speak through intermediaries--usually multiple intermediaries--to speak, and no one individually feels it is their responsibility, the information environment is one where free speech is suppressed.
+
+False public sphere/private sphere dichotomy in the digital age - it is not always clear what information is being shared "publically", which has reverberations in the legal sphere as there is no adequate definitions
 
 For example - recent push by the Philadelphia PD to get private business owners to register their cameras with the police department, essentially using private resources to gather evidence of crimes. The Philly ACLU currently doesn't see a legal problem here (and they're right) but is there an ethical problem? Where's the line between evidence-gathering and privacy violation?
 
-    Any individual intermediary tends not to consider it their own responsibility to provide for anonymity/data protection--but when we all have to speak through intermediaries--usually multiplei ntermediaries--to speak, and 
+There is no such thing as digital media content that can be created a
 
 Interesting demonstrations of privacy awareness/personal management
  * Facebook Users' Phone Numbers Exposed by “Evil” App

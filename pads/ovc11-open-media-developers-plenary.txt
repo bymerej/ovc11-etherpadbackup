@@ -208,3 +208,7 @@ Other discussion ideas
 
 Encourage pair programming to fix specific issues in the session. 
 
+Turns out openetherpad is limited to 16 participants, so it doesn't work so well for live conference notes.
+
+For each session, please have a note taker dump things into a page at openetherpad.org/ovc2011
+
