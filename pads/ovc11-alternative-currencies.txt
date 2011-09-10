@@ -11,14 +11,13 @@ http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
 https://mtgox.com/
 
-Use cases for micropayments and dona
-
-
-
 People and projects involved
 (Add your name, links to your projects here, if you like)
 
 e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
+
+
+Use cases for alternative currencies and compensation
 
 
 

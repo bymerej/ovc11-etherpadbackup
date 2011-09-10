@@ -24,11 +24,17 @@ UPLOAD
 Front-end (JS, Flash, HTML5)
 Back-end (handling upload, report progress)
 
-Challenge:
+Challenges:
 -- Large file size: 2GB limit in Flash, 4GB in HTML5 (?)
 -- Webcam ingest
+-- Progress: Flash (on front end), JS (via backend)
+-- Bandwidth: slow uploads
+
+Approaches:
+-- scp from client to server
 
 TRANSCODING
 ================
-Meta
+Metadata preservation
+Unpredictable types/files
 
