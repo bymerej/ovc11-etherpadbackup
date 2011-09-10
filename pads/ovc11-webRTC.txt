@@ -57,7 +57,8 @@ TOPICS FOR DISCUSSION
 * call recording (real-time processing required, remote machine recording, where to compress, saving to local file)
 * p2p distribution of content?
 * DDOS? protocol to provide a shard secret and IP address is used called ICE; rate-limit the ICE protocol (there will be a native implementation of ICE)
-* what protocols are supported? SRTP/RTP, DTLS (key exchange)
+* what protocols are supported? SRTP/RTP, DTLS (key exchange), RTCP
 * codecs? trying to mandate vp8 & opus (2.5-20ms latency codec)
+* what apis to expose for statistics? round-trip time, packet loss, latency, delay
 
 

@@ -60,5 +60,6 @@ Preserving original version
 Transcript
 -- Human generated
 -- Speech-to-text for syncing
--- Nuance, Ramp - speech-to-text software
+-- Nuance, Ramp, Nexidia - speech-to-text software
+-- Youtube: timed transcript, non-timed, speech-to-text
 
