@@ -5,8 +5,10 @@ Technology for Anonymization
  * Review scenarios and proposals from previous sessions
  * 
  * 
-
+=====================================
 INTRODUCTION 
+=====================================
+
 
 SecureSmartCam: Nathan explains progress on the SecureSmartCam project.
 
@@ -81,4 +83,11 @@ Use scenario of obscura cam technology doesn't have to be for everyone, even if 
 Importance of cultural paradigms - around intent (of the creator), consent (of the subjects), anonymity, implications of sharing an image - may be greater than the actual tool itself. 
 
 Case in Afghanistan involving Physicians for Human Rights who discovered moving of mass graves, the discovery of the grave removal was used by satellite, but launched by human anectdotes, not pure scientific evidence at first.
+
+=====================================
+GROUP BREAKOUT SESSIONS
+=====================================
+
+
+
 

@@ -114,7 +114,9 @@ Document cloud  - http://www.documentcloud.org/home
 OCR, content annotation.
 
 working on keeping annotation from being "just an inline commenting system"
-actively working on guidelines for int
+actively working on guidelines for interaction, moderation
+
+guardian took all parliament MP expense reports, revelead malfeasance thru crowdsourcing. "does this look real?"
 
 
 

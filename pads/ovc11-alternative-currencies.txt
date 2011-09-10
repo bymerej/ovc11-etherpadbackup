@@ -179,8 +179,9 @@ Bitcoin development community really focusing on usability now.
 
 And if you can buy the things you need with bitcoin, there's less currency risk.
 
+How do you make it possible for anybody to get access to Bitcoin.  The focus has been on people who already are users, but it should be on everyone who isn't already a user.
 
-
+Hording vs Spending
 
 
 [ Hurriquake Group ]
@@ -198,6 +199,26 @@ Monetize through Vertical Services
 
 
 
+BRAINSTORM THINGS WE NEED (Arin, Tom, Jake, Celeste, Chana, Shakir)
 
+Easy to use to use tool kit for creators in one place.
+
+A way to sustain ones self producing their own work.
+A funding effort that can scale.
+Financial solution that doesn't require philanthropy
+Solutions that supports the artist.
+Audience paying to contribute to 
+Proceeds needs to match what it costs to make the work.
+Sponsors need to have to pony up more money.
+Over throw iTunes and cut out the middle man.
+A shift in culture, encourage people to want to pay.
+A ecosystem of creation and consuming that works in harmony.
+Need to be able to create an experience for people where money changes hand.
+Distribution tools to measure audience demand and get indie films theaters
+A gradation of financial participation
+Aligning the producers utopia with the audiences utopia
+Barter!
+Move away from the abstract attempt at decimal point representation of value.
+We need a fundamental new understanding of what value is, how it's exchanged and the organizational intelligence that is exists when transactions retain value into the future.
 
 
