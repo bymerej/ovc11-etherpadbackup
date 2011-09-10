@@ -45,7 +45,7 @@ Ethan Hugg, CISCO
 * media capture
 * real-time media encoding
 * signal processing (noise filter, echo cancellation, gain control etc)
-* real-time secure media transmission (jitter buffer, encrypotion etc)
+* real-time secure media transmission (RTP distribution, low latency, jitter buffer, encrypotion etc)
 * P2P data channel should be included
 * how to do signalling / negotiation
 
@@ -54,7 +54,8 @@ Ethan Hugg, CISCO
 TOPICS FOR DISCUSSION
 
 * SIP - implementation in the browser necessary?
-* call recording (real-time processing required?
+* call recording (real-time processing required, remote machine recording, where to compress, saving to local file)
+* p2p distribution of content?
 
 
 

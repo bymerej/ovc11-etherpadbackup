@@ -46,6 +46,12 @@ Approaches:
 
 TRANSCODING
 ================
-Metadata preservation: manual entry
+Metadata preservation
+-- Some data passed manually alongside of a video (title, author)
+-- Other metadata is automatically added to a file by a camera (lat/long, creation date) - like EXIF
+-- Manual metadata can be injected  
+-- (mediainfo is a tool that will display this metadata)
+-- e.g. id3 tags for mp3
 Unpredictable types/files
+Preserving original version
 
