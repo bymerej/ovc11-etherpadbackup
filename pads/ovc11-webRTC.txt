@@ -75,5 +75,5 @@ DISCUSSION
   * device handling e.g. how do you enumerate cameras
   * error reporting e.g. if TURN server doesn't exist
   * metrics
-* is there a p2p websocket API? media goes over RTP and thus over UDP
+* is there a p2p websocket API? media goes over RTP and thus over UDP and is unreliable; do we build a reliable channel over this or do we leave it to the Web developer; is it possible to do this via Web sockets?
 

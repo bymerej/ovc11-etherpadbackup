@@ -5,5 +5,10 @@ Nouns:
  * Hardware (cameras, computers, mobile phones, etc.)
  * Software, divided into players and tools (editors, etc.)
  * Distribution (e.g. YouTube, broadcast TV)
- * Content (
+ * Social (education, cultural encouragement to make video) 
+ * Content (the video itself)
+
+Adjectives
+ * Cost-free (free as in beer)
+ * Legally free (free as in free speech)
 
