@@ -2,17 +2,21 @@ Key questions/challenges:
 
 Sarah - Perpetrator shot video only evidence of abuses in Sri Lanka (mobile video of extrajudicial killings)...illicited public outrage and led to UN investigation. But perpetrators also becoming increasingly sophisticated in how they counter such allegations. Requires new tools, training to be able to bridge the knowledge gap. Highlights importance of identifying other methods, less resource intensive, more accessible.
 
-Bradley - BTselem case of demonstrator´s death - ballistics information, aerial maps, photos post facto, a lot of documentation from day of the protest, syncing video from different vantage points, mapping trajectory of missile
+Bradley - B'Tselem case of demonstrator´s death - ballistics information, aerial maps, photos post facto, a lot of documentation from day of the protest, syncing video from different vantage points, mapping trajectory of missile
 
 Forensic architectural analysis.  demonstrator killed by a gas canister round fired directly at victim.  Legal question as to whether laws were broken with regard to the soldier's firing orders.
 
  * http://www.fastcodesign.com/1661965/architects-use-3-d-tools-to-uncover-a-murder
 
-Possibilties of leveraging this kind of eveidence in a legal setting but also in advocacy
+Possibilties of leveraging this kind of evidence in a legal setting but also in advocacy
 
-David - Storyful - a news agency built for the social media age.
+David - Storyful - a news agency built for the social media age. Mediates/curates citizen/user created media for major news outlets to disseminate.
 Clients are major news agencies who want to know three things
- * 
+ * What content is out there
+ * What content is verified/accurate
+ * How the content fits into the larger story
+
+Example of unverified violent video from Syria, ap
 
 In advance of the session here are the session leader bios:
 
