@@ -88,7 +88,43 @@ Case in Afghanistan involving Physicians for Human Rights who discovered moving 
 GROUP BREAKOUT SESSIONS
 =====================================
 
-'Think then click' - public social marketing around consent. Develop apps that help assess risk level.
+
+Repressive activism scenarios
+
+Technical phenomenon take advantage of
+
+What is the threat to address
+
+Threat:  People rounded up and retaliated against.
+
+Risk Analysis - Who are you?  Are you getting caught up?  Are you trying to be identified?
+
+Challenges:
+        Activists
+        Authority 
+        Journalists
+
+Trained People: could use system - planned action with deliberate intensions
+
+Action as subject - wear mask, IR bulbs, paint, clothing
+
+Application which gives recommendations - checklist
+Risk Level - turn off cell phone/take out battery
+OR alternative panic button
+
+If you are an activist - do you want to get by standers?  
+Risk to others
+
+App as education tool
+
+should all of these people be in this image?
+We over assume people understand the risk
+
+---
+
+Who do you trust?? Region
+
+'Think then click' - public social marketing around consent. Develop apps that help assess risk level. Inform users: How safe is this really?  How long will it take?
 
 For human rights situations, provide public keys for orgs who will accept footage (or have a public key that is shared with a trusted # of sources).
 
@@ -96,9 +132,13 @@ Make sure to explain that encryption is not unbreakable, as is anonymization - b
 
 Go with non-redacted version (to evidentiary repository/trusted source) and a then a redacted version (vs encrypted sections) for public distribution.
 
-To ensure reach: how about having it as installed app on the devices when bought; or built into overall camera functionality? (which also has to do with manufacturers). Could incentivize a manufacturer to do from a market perspective? (Nokia, Sony Ericsson, Samsung?)
+To ensure reach: how about having it as installed app on the devices when bought; or built into overall camera functionality? (which also has to do with manufacturers). Could incentivize a manufacturer to do from a market perspective? (Nokia, Sony Ericsson, Samsung?). Should this be put into the Google camera app source as a patch - get manufacturers using it
 
 Tool that spits junk data - is there a way to effectively create chaf for human rights purposes.
+
+
+
+
 
 
 

@@ -166,8 +166,8 @@ A: Have been using Filemaker internally/ We're seeking advice for metadata as th
 Q: There should be a way to handle all the assets that you're collecting into an information architecture. Although it can sound intimidating, it's as simple as how do you log the information that you're collecting. 
 
 can use visual recognition, genealogy, etc?
+A lot of issues come up with this question/ some of these topics will be more fully explored in the Oral History Best Practices working group tomorrow
 
- 
 
 ===============================================================
 
