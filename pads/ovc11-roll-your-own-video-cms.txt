@@ -47,14 +47,17 @@ Approaches:
 TRANSCODING
 ================
 
-Formats:
--- MP4 + H.264 + AAC/MP3
+Web Formats:
+-- MP4 + H.264 + AAC/MP3 (Commercial license, but free for internet distribution)
 -- Ogg + Theora + Vorbis
 -- WebM (MKV) + VP8 + Vorbis
+-- (FLV + VP6 + MP3)
+-- (Real)
 
 Challenges:
 -- Quality and time, bitrate
--- Licensing: Patent licensing, software licensing
+-- Licensing: patent licensing, software licensing
+-- Device compatibility
 
 Metadata preservation
 -- Some data passed manually alongside of a video (title, author)

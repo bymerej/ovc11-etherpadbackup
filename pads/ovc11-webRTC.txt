@@ -53,7 +53,7 @@ Ethan Hugg, CISCO
 
 DISCUSSION
 
-* SIP - implementation in the browser necessary? 
+* SIP - implementation in the browser necessary? is it possibl to do peer2peer SIP without a SIP server? SIP requires a registrar
 * call recording (real-time processing required, remote machine recording, where to compress, saving to local file)
 * p2p distribution of content?
 * DDOS? protocol to provide a shard secret and IP address is used called ICE; rate-limit the ICE protocol (there will be a native implementation of ICE)
