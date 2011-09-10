@@ -49,9 +49,15 @@ Q8 - How to integrate the content in a relevant web experience ?
 - Consistent metadata. Cataloging, archiving and retrieving. For example http://pbcore.org/ whatever tool, the important part is consistency.
 - The Association of Moving Image Archivist http://amianet.org  might be of interested to contribute for this kind of data structuration. Posting a message to their list-serv could be a good way to get in touch with them.
 
-Q9 - Comment. 
+Q9 - Comment about the specitify of the 30 days roadtrip VS something else (missed it, sounded good if anyone can summarize it).
+
+Q10 - Release strategy for the feature documentary.
+- Composite web
+
 
 ---------------------------------------------------
+
+
 
 AMIA.org
 

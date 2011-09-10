@@ -17,11 +17,15 @@ Silvia Pfeiffer, Google
 ** netstream file construction
 *** Adaptive Streaming
 *** Video Editing
-
+*** Multiplexing
+*** Syncronized Media
+*** Software Transcoding
 
 sourceAppend API: http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html
 
 canvas.getMediaStream() is another way forward
+
+the biggest issue is: how to use canvas with capturing video frames withou
 
 * DRM
 ** What hooks do we need
