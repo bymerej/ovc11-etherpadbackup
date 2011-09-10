@@ -270,12 +270,32 @@ Direct compensation model's effect on advertising
 What will existing companies or institutions (cable, television, US treasury) do to lock down.
 
 ####
+Small Group (Joe, Eric, Dennis)
+Not a lot of existing experience with this because this is our first encounter with Bitcoin—so difficult to find the problem areas—so we expanded discussion to a best world scenario that will allow as many stakeholders to make money as possible.
+We began by stating right up front that in developing online currencies, we should avoid replicating the conditions that have perpetuated economic inequality.  Will people have the ability to save and invest new currencies, and what kinds of constraints on developing a new currency can we expect from regulators and from the global economic scenario.
+Corporate: How do corporations engage with it?  It seems to make sense for individuals.  But how does it make sense for corporations.
+Best-Case Scenario
+Started from the premise that it be based on an economic philosophy that would facilitate internet transaction and incentivize investment.
+Then discussed how to facilitate that:
+So discussed some of the constraints as far as both the legal regulatory hurdles that would be involved, and compatibility with existing models.
+We were particularly concerned with the likelihood that people would manipulate currency and take advantage.  
+We ended discussing not just exchange currency, but also currencies that determine the value of content to advertisers.  Things like radio and television ratings.  We discussed whether compensation models should move away from the sampling method of determining audience size, to a one-to-one relationship between viewers and the advertisers.
+For example, we discussed the possibility of   world in which artists would be paid directly for their content, thus removing the need for an intermediary platform such as Pandora or YouTube.  But we ran into a barrier, when we tried to understand how remixers of content would get paid under this model.  In this framework, should remixers be considered intermediaries, or creators.  If they are considered intermediaries, what incentive would they have to remix content.  If they are considered creators, how do we weigh the value of their art against the value of the underlying works?
+But despite these ideas, we still had an  overall concern with incumbents—whether they are traditional television networks, multichannel video providers… or the treasury--locking down the Internet or preventing innovation in the development of new online currencies that are deemed to have gone too far. 
+Overall, it’s going to take a lot longer than 3 hours to address every issue that comes up.  But we see this as a starting point, and look forward to keeping up the dialogue.
+####
 
 How can we do new currency on the web?
 
 Whatever it is, it has to be widespread
 
-Standardizing 
+Standardizing one currency needs some kind of central authority
+
+The way your business model works depends on whether you already have a community or whether you're just starting
+
+User never gets pissed off with the donation model.  They pay for what they want.  That gives the user a lot of respect.  (users can get pissed off at a monthly fee if they don't use it / don't like it)
+
+
 
 
 
