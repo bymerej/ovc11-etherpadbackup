@@ -1,6 +1,9 @@
 We identified a key set of *nouns* and a key set of *adjectives* that can apply to the nouns.
 
 Nouns:
- * Hardware (cameras, computers, etc.)
- * S
+ * Standards (e.g. encoding formats)
+ * Hardware (cameras, computers, mobile phones, etc.)
+ * Software, divided into players and tools (editors, etc.)
+ * Distribution (e.g. YouTube, broadcast TV)
+ * Content 
 
