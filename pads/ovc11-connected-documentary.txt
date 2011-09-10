@@ -210,10 +210,12 @@ Three main way to "augment" the original feature
 
 Using Zeega. http://zeega.org/ HTML5 platform for interactive doc.
 
+Bringing people into a d
+
 Program from a past event at UnionDocs in June of this year - 
 http://www.uniondocs.org/looking-at-los-sures-a-preview-of-the-2011-uniondocs-collaborative-project/ - showed clips from "Of Memory & Los Sures," "Couchsurferz"
 
-other examples of Place-based, interactive storytelling genre
+Other examples of place-based, interactive storytelling genre
 - The Secret New York 
 - Mapping Main Street
 - Capitolf of Punk
