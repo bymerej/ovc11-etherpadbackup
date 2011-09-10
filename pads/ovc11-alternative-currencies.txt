@@ -86,7 +86,7 @@ Break into groups: 3 ppl per group.  Here's what groups came up with:
 
 [paste your notes here when done]
 
-
+Monetizing th
 
 Super Group Nr 1
 
@@ -104,5 +104,10 @@ Super Group Nr 1
 
 - how to get people do donate to any type of micropayment system?
 
-- Bitcoin's second generation
+- Bitcoin's second generation software to improve UI/Ux.
+
+- a method to obtain Bitcoin without mining or buying with USD.
+
+
+M
 
