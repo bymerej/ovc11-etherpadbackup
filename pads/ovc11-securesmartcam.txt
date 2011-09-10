@@ -156,9 +156,14 @@ Globalleaks - opensource leaking platform launching = Rich, not a good idea, sin
 
 Voice distortion app. Could you use auto-tune or random warble.
 
+Code for Privacy contest (// Code for America); 'not tracking people' hackathon.. to develop plug-ins.
+
+Browser plug-in approaches (e.g. with Greasemonkey script in Firefox/Chrome)
+
 *********
 
 Nathan - will lead into next eight weeks of the Sprint.
+
 
 
 
