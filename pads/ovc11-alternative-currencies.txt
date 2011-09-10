@@ -5,11 +5,12 @@ http://cl1p.net/ovcsession
 
 http://bitcoin.org/
 http://en.wikipedia.org/wiki/Bitcoin
+https://btc.io/
 http://vodo.net/
 http://flattr.com/
 http://www.kickstarter.com/
 http://rockethub.com
-http://onlyonetv.com [The Bitcoin Show]
+http://onlyonetv.com [The Bitcoin Show in 12 languages]
 http://bitcoinnavigator.com [Bitcoin Brick&Motor Locator]
 http://bitsyn.com [NYC Bitcoin Consultancy]
 http://BitInstant.com [Instant Xfers for the Bitcoin Economy] 
@@ -240,4 +241,22 @@ Move away from the abstract attempt at decimal point representation of value. Wh
 
 We need a fundamental new understanding of what value is, how it's exchanged and the organizational intelligence that is exists when transactions retain value into the future.  (Money is just a memory of transactions that happened over past decades)
 
+####
+
+Best world scenario
+
+In developing online currencies we should try to avoid replicating conditions that brought economic inequality
+
+Currency today based on a framework that existed before that is very different than what we have now.
+
+Ability to save and invest
+
+What kind of regulations can we expect?
+
+How do corporations engage with alternative currencies?  
+
+
+
+
+As far with corporation, 
 
