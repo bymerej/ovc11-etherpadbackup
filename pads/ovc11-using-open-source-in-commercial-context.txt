@@ -11,6 +11,5 @@ Session Notes
 Session NotesDescription
 The best software for working with video is open source. Companies everywhere, large and small, are building on open source software like ffmpeg and x264. But too many companies make mistakes when dealing with open source software, like violating software licenses or misunderstanding how open source projects and communities work. So how can businesses and open source video projects not just coexist, but help each other flourish?
 Outcome
-An understanding and appreciation of using FOSS building blocks in a commercial video contex
-esd
+An understanding and appreciation of using FOSS building blocks in a commercial video context
 
