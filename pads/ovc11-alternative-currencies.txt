@@ -160,11 +160,20 @@ it's gotta be easy.
 
 the social part of kickstartr is you know what you're getting, there's the prize.  that's like the virtual good that you pay for.  This is a big key.
 
-Donations were really important to an open source project with a huge server.
+Donations were really important to an open source project with a huge server.  When they made their bandwidth use and costs transparent, people would always donate enough to ensure survival.  Transparency is key.
+
+Like a feature request list.
+
+Users know what they're paying for and know what they're getting.
+
 
 - Bitcoin usibility? bitcoin only perks to create liquidity.
 
+Example: stuff/services you can only buy/use with bitcoin
+
 - Bitcoin's second generation software to improve UI/Ux.
+
+Bitcoin communi
 
 - a method to obtain Bitcoin without mining or buying with USD.
 
