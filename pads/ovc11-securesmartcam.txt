@@ -27,7 +27,13 @@ Points to other examples:
 There's the 'visual detection' side of the house, and the 'data' side - both parts of SSC.
 
 Rich Jones -- OpenWatch
- * iphone & Android apps, records audio then gives option to upload to openwatch site, openwatch redacts ??personally identifi
+ * iphone & Android apps, records audio then gives option to upload to openwatch site, openwatch redacts ??personally identifiable information??
+   * i.e. citizen refuses DUI in San Diego -- http://openwatch.net/view/3543
+     * lead to investigation by state of CA
+ * LectureLeaks
+   * allows students to upload college lectures
+
+Philosophy = We are all under s
 
 
 
