@@ -22,7 +22,11 @@ http://media.ccc.de/browse/conferences/camp2011/cccamp11-4450-imagine_the_future
 http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
 https://mtgox.com/
- 
+
+Solution to Jay's problem of coins 
+http://en.wikipedia.org/wiki/FreedomBox
+http://www.freedomboxfoundation.org/
+
 People and projects involved
 (Add your name, links to your projects here, if you like)
 Joe Miller, http://joemillerjd.com - @joemillerjd

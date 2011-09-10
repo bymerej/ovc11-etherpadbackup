@@ -117,8 +117,8 @@ Risk to others
 
 App as education tool
 
-should all of these people be in this image?
-We over assume people understand the risk
+App that asks: Should all of these people be in this image?
+We over-assume people understand the risk to themselves/presenting to others.
 
 ---
 
