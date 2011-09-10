@@ -11,6 +11,10 @@ Silvia Pfeiffer, Google
 
 WRITE BUG REPORTS if browser implementations are giving you headaches
 
+Bug Trackers:
+* WHATWG/W3C spec
+* Individual Browsers
+
 == Use Cases ==
 
 * AppendBytes, editable byte arrays, the netstream--Dependent on OS media framework
