@@ -48,3 +48,13 @@ Other technology examples
  * yelp type app that uses security cameras to show what a scene looks like in real-time at a restaurant or commercial establishment
  * Berkerley Open Courseware video software that keeps professor from getting in the way of whiteboard by referencing earlier frames and tracking professor
 
+
+IDEAS
+    * TemporalTagAutoSmooshVideo
+    * Google Earth Sat XVerify
+    * Auto-untagger
+    *Option to redact when someone tags you
+    * Layers of access, multiple sources, ACL
+    
+    
+

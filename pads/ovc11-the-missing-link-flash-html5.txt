@@ -37,3 +37,8 @@ the biggest issue is: how to use canvas with capturing video frames without losi
 ** is applicable to many other areas in addition to media (ecrypted messaging, etc.)
 
 
+Other Topics:
+
+* file metadata
+
+

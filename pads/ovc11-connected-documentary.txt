@@ -62,16 +62,18 @@ Q10 - Release strategy for the feature documentary.
 The Tillman Story - Amir Bar-lev || http://www.tillmanstory.com/
 
 First a feature documentary 
-(From Wikipidea : The film is about the 2004 death of U.S. Army Ranger Pat Tillman in the war in Afghanistan, the cover-up of the true circumstances of his death, and his family's struggle to unearth the truth. It was nominated for the Grand Jury Prize at the 2010 Sundance Film Festival. The film is narrated by Josh Brolin.[2] http://en.wikipedia.org/wiki/The_Tillman_Story )
+(From Wikipidea : The film is about the 2004 death of U.S. Army Ranger Pat Tillman in the war in Afghanistan, the cover-up of the true circumstances of his death, and his family's struggle to unearth the truth. http://en.wikipedia.org/wiki/The_Tillman_Story )
 
 Creating a interactive version of the film
 The ending of the movie tends to engage people to act. The audience asked how to engage. That's why they decided to create an interactive edition of the feature film. 
 
-The movie's based on a huge amount of archives with a lot of scribbling in the margins. Filmmaker tried to recreate this experience of margin annotation. Example of the Torah as a way to do this.
+The movie's based on a huge amount of archives with a lot of scribbling in the margins. Filmmaker tried to recreate this experience of margin annotation.
 
 The feature films plays in the center of the frame and is surrounded by a group of widgets. The widgets break down in four categories. Updates, outtakes, documents and forums
 
-- Updates
+Updates. Allows to show updated information abo
+
+Outtakes. Filmmaking is building a story and sheer away everything that does not fit in the story. In the end you have a lot of good material on "the cutting room floor". 
 
 
 

@@ -86,7 +86,21 @@ Break into groups: 3 ppl per group.  Here's what groups came up with:
 
 [paste your notes here when done]
 
-Monetizing th
+Monetizing the web
+
+Cover charge vs. Tipjar
+
+Paywalls might be a failure, while tipjar seems better?
+
+Other ways to monetize the web: everything is a service, give away the content.
+
+Build commuinity access to community, sell an acess fee for the community.  
+
+
+Bitcoin, what's standing in the way of mass adoption of Bitcoin? #1 security #2 liquidity (ease of buying, aka as easy as buying coffee) #3 currency risk
+
+
+
 
 Super Group Nr 1
 
@@ -109,5 +123,4 @@ Super Group Nr 1
 - a method to obtain Bitcoin without mining or buying with USD.
 
 
-M
 
