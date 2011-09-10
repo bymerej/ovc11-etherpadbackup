@@ -106,6 +106,9 @@ Summary:
         - when done, a remix is put generated from these choices
         - audio swapping would be nice
         
+    > an upload feature would be nice
+    
+    
     > is basically a forking model
          
 

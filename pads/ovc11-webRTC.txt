@@ -28,5 +28,12 @@ CISCO
 * this is the right time to address it
 * IETF RTCWEB WB formed in April 2011: focus on network protocols
 * W3C WebRT WG created May  2011: JS API focus
-* focus on 
+* focus on WHATWG specification
+
+== Implementation
+
+* standards and implementations need to go at the same pace
+* open source project developed that Chrome, Firefox & Opera etc can pick up
+* 
+
 

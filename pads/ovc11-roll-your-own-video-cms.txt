@@ -16,7 +16,7 @@ Outcome
 Greater understanding of the range of available options, opportunities and challenges in rolling your own video CMS
 
 
-upload, encode, host, CD
+stack:  upload, encode, host, CDN, player, app
 
 UPLOAD
 ================
@@ -24,4 +24,11 @@ UPLOAD
 Front-end (JS, Flash, HTML5)
 Back-end (handling upload, report progress)
 
+Challenge:
+-- Large file size: 2GB limit in Flash, 4GB in HTML5 (?)
+-- Webcam ingest
+
+TRANSCODING
+================
+Meta
 
