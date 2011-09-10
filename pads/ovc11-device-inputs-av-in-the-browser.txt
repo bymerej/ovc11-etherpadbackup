@@ -1,4 +1,8 @@
 [photobooth mozilla labs demo]
 
-permissions
+permissions dialog
+
+browsers agree on single means to get access to camera/mic, preferably as a media stream object
+
+
 
