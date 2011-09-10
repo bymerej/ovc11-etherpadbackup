@@ -107,4 +107,9 @@ HTML5
 Flash
 -- 99.9% support
 
+Players
+-- Projektor, VideoJS, JWplayer, Flowplayer, Kaltura
+
+steve@zencoder.com
+
 
