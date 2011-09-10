@@ -129,7 +129,15 @@ If the creator could know and customize their site for somebody who had donated.
 
 Kickstarter has been really successful with the prizes.
 
-It's okay to have different levels of return from the creator, it's positive, not necessarily negative th
+It's okay to have different levels of return from the creator, it's positive, not necessarily negative the way a paywall might be
+
+Flattr is like busking(sp?) which we see in NYC all the time.  Talking to folks who live off that and learning about how it functions might be a good approach. 
+
+Maybe we're thinking too narrowly about it, could be donations of resources (studio space)
+
+Has 
+
+Micropayments 
 
 - How to finance movie makers? Donations + movie tickets.
 

@@ -53,5 +53,5 @@ All Topics:
 * devices and camera
 * fullscreen
 * social viewing
-* playlist, gapless playback high level javascript apis
+* playlist and gapless playback high level html tags
 
