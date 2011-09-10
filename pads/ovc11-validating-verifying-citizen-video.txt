@@ -38,7 +38,9 @@ Issues:
 3. Storyful needs corroborating evidence that a video is not only real but that it is relevant NOW as news content i.e. that it is in fact what it appears to be, and is showing what is purported 
 4. This can happen in real-time more easily than weeks or months afterwards - see more journalists and human rights activists working together to corroborate, sharing information and helping both sides of the argument.
 
-
+Harlo-(Guardian Project) -- adding metadata to video
+ * Challenges - Verifying the source
+ * 
 
 
 In advance of the session here are the session leader bios:

@@ -49,10 +49,10 @@ TRANSCODING
 
 Web Formats:
 -- MP4 + H.264 + AAC/MP3 (Commercial license, but free for internet distribution)
--- Ogg + Theora + Vorbis
--- WebM (MKV) + VP8 + Vorbis
--- (FLV + VP6 + MP3)
--- (Real)
+-- Ogg + Theora + Vorbis (Open, royalty-free)
+-- WebM (MKV) + VP8 + Vorbis (Open, royalty-free)
+-- FLV + VP6 (Commercial, royalty-free)
+-- Real (???)
 
 Challenges:
 -- Quality and time, bitrate
