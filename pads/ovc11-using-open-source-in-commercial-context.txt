@@ -57,5 +57,8 @@ Not giving away your competitive advantage
 Ambiguity
 
 Commercializing Open Source Software
-Services (Redhat, Drupal, Wordpress)
+Services/Support (Redhat, Drupal)
+Open + SaaS (Wordpress)
+Dual Licensing
+Add-ons/App Store (Android)
 

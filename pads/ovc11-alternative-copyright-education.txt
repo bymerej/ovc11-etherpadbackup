@@ -47,11 +47,12 @@ Notes:
  * MIT OPEN COURSEWARE:
    * Spearheading the creation of the code of best practices for fair use in open courseware. They have a lot of donate buttons and have not been sued yet. This could be a result of a fear of MIT's general counsel? 
    * Code of Best Practices for Online Video: http://centerforsocialmedia.org/fair-use
+ * 
 
 
 Announcements:
  * Association of Research Libraries With Washington College of Law and Center for Social Media, American University is releasing a code of Fair Use resources and best practices for Research Institutions and Librarians.
  * Reclaiming Fair Use: How to Put Balance Back in Copyright by Pat Aufderheide and Peter Jaszi.
  * PopCulturePirate.com is currently accepting donations.
- * Code of Best Practices for Online Video
+ * 
 

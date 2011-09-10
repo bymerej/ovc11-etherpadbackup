@@ -12,7 +12,6 @@ expectations: good conversations about WebVTT and other accessibilities
 Aaron Crumly (sp?) - openindie.com
 Working on "co-create" film crew and location scouting, crowd-sourcing film production resources. Looking for a ruby on rails developer to demonstrate what can be done in film on the web.
 
-
 Roger MacDonald - archive.org
 Semantic schema on online video, television, candidate background information, and the like. Particularly interested in using sub
 
@@ -187,5 +186,9 @@ Please update the schedule with breakouts as they happens. Reserve rooms through
 
 On Monday we'll be at the Events Center around the corner. That's the official hack space during the conference.
 
-Separation of "technology" and "open media developer"
+Separation of "technology" and "open media developer" tracks
+
+Web Audio API - competing proposals
+Streaming server implementations - Luca, Thomas
+Media Stream API proposal - browser people should talk about that
 

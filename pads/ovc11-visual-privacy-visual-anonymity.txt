@@ -71,11 +71,13 @@ What are the ways to address some of these issues? What are possible solutions?
      * related to helen nissenbaum's idea of 'information flow' and contextual integrity
  * Cultural level
    * Maybe if more 'shaming' is likely, like in British riots, then the criminal-consequences should change.  If no one wants to be shamed, there can at least be less power by the system
+   * changing the way we think of privacy - not a question of whether our data is safe, but to what extent it is safe, for how long
+   * 
 
 Interesting demonstrations of privacy awareness/personal management
  * Facebook Users' Phone Numbers Exposed by “Evil” App
    * http://mashable.com/2010/05/24/evil-facebook/
-* Rich Pell at CMU designed iSee, which was intended to enable users to avoid surveillance by providing maps of camera
+* Rich Pell at CMU designed iSee, which was intended to enable users to avoid surveillance by providing maps of camera locations http://www.appliedautonomy.com/isee.html
  * Facebook´s privacy changes - importance of "a right to awareness"
  * Using Google alerts on names too know what is being put out there 
  * Online identity management tools - Is it naive to think that this is a solution given lack of transparency in much broader data surveillance and tracking?
