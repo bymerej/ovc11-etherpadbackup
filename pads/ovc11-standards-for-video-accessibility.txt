@@ -9,9 +9,12 @@ Potential topics:
  * Descriptions ‒ synthesis?
  * WebVTT in WebM
 
-
+Discussion topics:
  * search
  * chaptering and subchaptering, also useful for metadata-based access
  * url link to chapter
+ * thumbnails are great for navigation
+ * audio descriptions delivered as text descriptions
+ * 
 
 
