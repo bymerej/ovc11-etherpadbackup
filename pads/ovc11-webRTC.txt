@@ -34,9 +34,9 @@ Ethan Hugg, CISCO
 
 * standards and implementations need to go at the same pace
 * open source project developed that Chrome, Firefox & Opera etc can pick up
-* PeerConnection in Webkit and Chrome Sept 2011
-* PeerConnection API in Firefox Q1 2012 (ikran)
-
+* PeerConnection in Webkit and Chrome Sept 2011 (demo provided)
+* PeerConnection API in Firefox Q1 2012 (ikran) (demo provided)
+* 
 
 
 

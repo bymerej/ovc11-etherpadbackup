@@ -62,7 +62,10 @@ Notes:
 
 Solutions:
  * The Website: KnowYourCopy.Org
- * 
+   * Not re-inventing the wheel. 
+   * Making website an aggregate of the resources that are currently in existence. 
+   * Capturing people with the little thing on the side (a badge of sorts).
+   * There are a lot of synergies here that
 
 
 Announcements:

@@ -32,6 +32,8 @@ Challenges:
 
 Approaches:
 -- scp from client to server
+-- Drupal: MediaMover
+-- Send to third party (archive.org, YouTube)
 
 TRANSCODING
 ================
