@@ -23,7 +23,7 @@ http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
 https://mtgox.com/
 
-Solution to Jay's problem of coins 
+Solution to Jay's problem of coins stored on boxen (e.g. phones) where the coin owner doesn't have root: store your coins on your freedombox. run your bitcoin client on your fre
 http://en.wikipedia.org/wiki/FreedomBox
 http://www.freedomboxfoundation.org/
 
@@ -45,15 +45,15 @@ e.g. Holmes Wilson, http://getmiro.com http://universalsubtitles.org/
 
 Possibile projects / primary themes
 
-Make bitcoin easier to use.  Better usability, wider adoption, ability to send money across different platforms 
+Make bitcoin easier to use.  Better usability, wider adoption, ability to send money across different platforms // YIFU
 
-Make a system where virtual goods / game mechanics / transparency / social psychology encourages donations/payments
+Make a system where virtual goods / game mechanics / transparency / social psychology encourages donations/payments TOM
 
-Make it so we can donate to anyone (even collaborators/remixers, even if we don't know who they are)
+Make it so we can donate to anyone (even collaborators/remixers, even if we don't know who they are) PER
 
-Creators tools.  What's it like from creator's perspective.  Licensing.
+Creators tools.  What's it like from creator's perspective.  Licensing.  Product transaction tracking. TOM
 
-What's the economic incentive for people to embrace a new way of financing creative work?  Broad strategy for making people want to use these things?
+JAKE What's the economic incentive for people to embrace a new way of financing creative work?  Broad strategy for making people want to use these things?
 
 Will it work?  Is donation-support a viable way to support artistic creation?
 

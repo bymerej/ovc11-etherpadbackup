@@ -15,6 +15,8 @@ Discussion topics:
  * url link to chapter
  * thumbnails are great for navigation
  * audio descriptions delivered as text descriptions
- * 
+ * concerns of desktop players
+   * why was a new format introduced?
+   * 
 
 
