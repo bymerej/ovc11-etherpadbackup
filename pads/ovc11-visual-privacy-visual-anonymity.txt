@@ -38,6 +38,8 @@ Sam -- issues of misappropriation, i.e. Vancouver Riots, people were assumed as 
 i.e. Anonymous arrests -- 22 photo mug shots of those arrested posted by a lawyer pre-trial
  * issue of due process
 
+Vigila
+
 Key questions raised:
 
 1. Helen - What values and purposes underpinning information flow controls are being disrupted by technological changes? What are the privacy harms in different contexts - we need to understand the implementation of these systems in different contexts.
@@ -71,9 +73,12 @@ What are the ways to address some of these issues? What are possible solutions?
    * Legal precedent with being forced to hand over encryption key
      * i.e. US v. Fricosu, and it's in the Colorado district court -- https://www.eff.org/press/archives/2011/07/08 
        * she refused to hand over encryption key to her hard drive to the courts, case is pending but she seems to be ??winning?? on grounds of 5th Amendment right against self-incrimination
-And right now he's talking about L
+   * And right now he's talking about Luzerne County, PA and the "kids for cash" scandal -- the law schools in the greater Philly area were following this closely last year :)
+   * http://citizensvoice.com/news/ciavarella-timeline-1.1187108#axzz1VINwSG2l
+
  * Corporate Policy level
    * http://my.nameis.me -- Examples of who is harmed by real name policies, campaign to change Google+ policy
+
 
  * Cultural level
    * Maybe if more 'shaming' is likely, like in British riots, then the criminal-consequences should change.  If no one wants to be shamed, there can at least be less power by the system
@@ -87,6 +92,7 @@ And right now he's talking about L
  * Tech development level
 - The people who develop tools and platforms can have a limited understanding of how the technology affects citizens in completely different contexts to the users they imagine they are designing for - particularly for activists in places like Syria for example.
 
+Importance of open data, even when it is sensitive and could impinge on important individual privacy questions - necessary to be able to challenge 
 Any individual intermediary tends not to consider it their own responsibility to provide for  anonymity/data protection--but when we all have to speak through intermediaries--usually multiple intermediaries--to speak, and no one individually feels it is their responsibility, the information environment is one where free speech is suppressed.
 
 False public sphere/private sphere dichotomy in the digital age - it is not always clear what information is being shared "publically", which has reverberations in the legal sphere as there is no adequate definitions
