@@ -76,7 +76,7 @@ Interested in network protocols, codecs. Interested in webrtc background. Please
 Richard Leider - client side scripting at youtube
 Metrics, adaptive streaming, see how the sausage is made
 
-Greg - Youtubne
+Greg - Youtube
 better xp ux
 
 Matt - Youtube
@@ -97,7 +97,7 @@ Interested in Kinect camera. Home motion capture.
 Colin Clark - fluid project
 Open source designer/UX/usability collaboration. Video artist and composer.
 
-Ethan Hugh - Cisco
+Ethan Hugg - Cisco
 RTCWeb references and standards, real time video
 
 Chris Blizzard - Mozilla
@@ -106,5 +106,15 @@ Happy to talk about WebRTC< HTML5 video, etc.
 Colt Gillespie - Mozilla News, IBM Blade center
 Excited about popcorn.js, geolocation, changing the way we consume media, creating journalist tools.
 
+Pippin Lee - student from toronto
+Mozilla News Lab, student journalism, teaching students how to use tools.
 
+Aaron Colwell - Google
+Chrome HTML5 video, adding Adaptive streaming apis. Want to meet collaborators in real life, standardize with other browsers.
+
+Frank G - Google
+WebM spec and tools.
+
+John Kolezar - Google
+libvpx maintainer 
 

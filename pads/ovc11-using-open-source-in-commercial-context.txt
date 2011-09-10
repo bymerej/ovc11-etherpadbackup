@@ -25,8 +25,8 @@ Licensing (I am not a lawyer)
 - Copyright vs. Copyleft
     - Copy left encourages distribution and discourages restriction
     - Strong copy left - anything that touches it also has to be unrestricted
-    Strong C-left: GPL (have to publish
-    Weak C-left: LGPL, Mozilla
-    Not restrictive: MIT, BSD, Apache
+    Strong C-left: GPL (ex. Linux. Have to publish anything that touches it)
+    Weak C-left: LGPL, Mozilla (have to publish changes/patches)
+    Not restrictive: MIT, BSD, Apache (no requirement to publish)
     "More liberal" == MIT, etc. (doesn't infect other software that touches it)
 
