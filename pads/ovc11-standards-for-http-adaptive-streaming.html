@@ -19,13 +19,22 @@
 />* DASH also defines file formats that are suitable for making use of this with MPEG-4 File Format; transport streams work "magically"<br
 />* there is also a common encryption scheme for MPEG-4 file format in DASH<br
 />* defined profiles: 2 for mp4, 2 for transport streams<br
-/>* for transport streams there is a on-deman and a live profile:<br
+/>* for transport streams there is a on-demand and a live profile:<br
 />&nbsp; * on-demand profiles require alignment of files<br
 />&nbsp; * live require chunking of the files<br
 />* example manifest<br
 />&nbsp; * AdaptationSet: groups per resource or per track<br
 />&nbsp; * Representation: different representations for same resource<br
 />&nbsp; * muxed cases are difficult in particular to align the chunks<br
+/>* features:<br
+/>&nbsp; * multiple tracks / accessibility<br
+/>&nbsp; * trick modes (e.g. deal with fast forward by dropping to lower framerate)<br
+/>&nbsp; * 3D, multi-view, scalable video<br
+/>&nbsp; * protected content<br
+/>* implementation: Netflix is using this format<br
+/><br
+/>Comment:<br
+/>* the D<br
 /><br
 /><br
 /></body>
