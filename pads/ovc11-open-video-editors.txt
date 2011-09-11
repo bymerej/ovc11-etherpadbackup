@@ -20,5 +20,8 @@ Shared format
 * Open documed format adoption ( a very sucesfull ) 
 * What about FinalCutPro XML
 * FinalCutPro X makes it even harder to exchange formats. 
-* Pitivi XML format is 
+* Pitivi XML format is ~pretty human~ readable. 
+* Walking through a sample Pitivi xml file
+
+
 
