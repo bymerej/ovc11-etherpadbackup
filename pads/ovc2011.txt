@@ -12,6 +12,8 @@ On Sunday evening it's open mic in the auditorium.
 
 If you'd like to share progress you've made over the weekend with OVC attendees, be sure to scroll to the bottom and sign up.
 
+****NOTES HERE
+
 - Jonathan McIntosh, Bocoup, Kaltura etc. - The HTML5 Remix Maker Maker
 Brian Chirls - Seriously.js vs Rainbow
 - EdiTron // Team: Tom Stroll, Marine Boudeau, Tracey Jaquith (archive.org), Aphid (archive.org), Cole Gillespie. // Project URL: http://bit.ly/pop-ovc11 // About: Real Time and/or Hyperswipe Online Video Editor for Auto Synched Crowd Sourced Media.
