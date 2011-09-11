@@ -1,5 +1,14 @@
 Fun with WebGL
 
 Seriously.js
-Real-time
+Real-time video post-processing
+http://seriouslyjs.org
+
+THREE.js
+Lightweight Javascript 3D engine "for dummies"
+https://github.com/mrdoob/three.js/
+
+CubicVR.js
+Javascript 3D engine (with physics!)
+https://github.com/cjcliffe/CubicVR.js
 
