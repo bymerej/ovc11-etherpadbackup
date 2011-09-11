@@ -9,6 +9,9 @@ Mark Watson (Netflix)
 
 * MPEG is finalizing the DASH specification
 * DASH is a manifest format for describing all available streams for a media resource
-* DASH also defines file formats that are suitable for making use of this; it is right now 
-* there is also a common encryption scheme that 
+* DASH also defines file formats that are suitable for making use of this with MPEG-4 File Format; transport streams work "magically"
+* there is also a common encryption scheme for MPEG-4 file format in DASH
+* defined profiles: 2 
+
+
 
