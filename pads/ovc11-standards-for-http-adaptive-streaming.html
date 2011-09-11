@@ -115,6 +115,8 @@
 />* it would be nice to just have one request per adaptation and then just pull chunks off that same connection; right now every chunk requires another XHR range request<br
 />* feels like you're starting to implement a Web browser in JS with XHRs; something with a lower latency might be useful<br
 />* originally we wanted to have the browser just deal with the manifest, but we discovered that this is much simpler<br
+/>* seeking latency is determined by the time it takes to download a whole chunk<br
+/>* JS devs want early access to data; maybe we can extend XHR to get a stream object<br
 /><br
 /></body>
 </html>

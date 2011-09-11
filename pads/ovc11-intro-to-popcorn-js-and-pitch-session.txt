@@ -102,14 +102,16 @@ A lot of the operations are theoretical at the moment
 
 some links:
 http://popcornjs.org/
-
 https://github.com/webmademovies
 https://gist.github.com/897276#file_popcorn_plugin_patterns.js
 http://popcornjs.org/documentation
 https://github.com/webmademovies/popcorn-js
 https://github.com/webmademovies
 http://webmademovies.org/designing-the-popcorn-maker
-
+https://wiki.mozilla.org/PopcornMaker
+http://www.popcornjs.org/popcornmaker/
+http://webmademovies.org/web-native-projects-an-update-on-the-factorymozilla-collaboration
+http://popcornjs.org/code/
 
 ======================
 

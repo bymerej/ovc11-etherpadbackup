@@ -4,9 +4,9 @@ This is the EtherPad for the OVC Database-Driven Narratives workshop on Sunday 2
 
 Our agenda:
 
- * 1.15 - 1.25 Overview of the Korsakow System: history, our switch to open source (Matt Soar)
- * 1.25 - 1.35 Philosophy behind Korsakow: Why nonlinear? (Florian Thalhofer)
- * 1.35 - 1.45 Overview of the codebase (David Reisch)
+ * 2.00 - 2.10 Overview of the Korsakow System: history, our switch to open source (Matt Soar)
+ * 2.10 - 2.20 Philosophy behind Korsakow: Why nonlinear? (Florian Thalhofer)
+ * 2.20 - 1.45 Overview of the codebase (David Reisch)
  * 1.45 - 2.45 Open discussion, with optional demonstration of the software (Florian)
 
 Korsakow website: http://www.korsakow.org

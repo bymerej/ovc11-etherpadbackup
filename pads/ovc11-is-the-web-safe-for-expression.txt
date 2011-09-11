@@ -75,8 +75,6 @@ Pseudonyms and Social Networks
    * In this country we have extraordinary privilege...
    * but we do have e.g. bandwidth caps as a limit to access here
    * but when you look at a country that has 1.9% internet penetration like Ethiopia, but they filter the internet, arrest bloggers anyway... the small elite who has internet access in that country is already being stifled.
- * 
-   * 
  * Question for technologists: how does the predominance of mobile technology in less developed regions affect this discussion? if we're relying on the internet *per se* then what does it mean if a huge percentage of people get their best shot at access through 4G or some other kind of technology?
    * are we going to have to point our collective will at 4G as a "next step"?
    * or will things like smozzy be a better place to target our support?
@@ -93,6 +91,9 @@ Pseudonyms and Social Networks
  * Freedom of association
    * social networks
    * concern that I might associate myself with something that may not be popular
-   * Friend of Jillian's accused of aiding a terrorist organization for *only* talking to people on the internet - attacking communication.
+ * Friend of Jillian's accused of aiding a terrorist organization for *only* talking to people on the internet - attacking communication.
+   * The precedent for this is Holder v. Humanitarian Law Project, in case anyone is unfamiliar and wants to check it out http://goo.gl/1NJh5
+   * It is widely considered to be a *wrong* decision by first amendment scholars -- the "material support" in this case was expression, not $$
+ * The fact tha
  * 
 
