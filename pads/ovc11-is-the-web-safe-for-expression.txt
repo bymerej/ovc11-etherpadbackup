@@ -48,9 +48,11 @@ Pseudonyms and Social Networks
      * But it may have just been a fad, growth has dropped off, we haven't seen much real change, people still spend most of their time on Facebook
      * and this also has important ramifications in offline communities -- groups that self-segregate to various extents by their choice of platform will be hard to unite in a move toward accountability and transparency if that's the only thing tying them all together
      * Google plus put me (Jillian) on their suggested user list! Which kind of annoyed me b/c I don't like their policies but it was useful too
- * Real problem if all the big 3 platforms are American? Other countries don't have the 1st amendment
+ * Real problem if all the big 3 platforms are American? Other countries don't have the 1st amendment --> commercial operation in those countries requires the big 3 to agree to comply with the laws of those nations, but it can create thorny conflicts between corporate ethos and legal responsibility (and it's not always clear where the responsibility lies or to whom the responsibility is owed)
    * IP law is vastly controlled by American interests
-   * we think of free as a human right / value, so much less vulnerable to economic arguments?
+   * we think of freedom of expression (and, maybe in the future, freedom of access to knowledge/science and culture) as a human right / value, so much less vulnerable to economic arguments?
  * In the future it will be an international law thing
- * 
+   * The political struggles around "internet governance" as an international issue take place to a large degree IRL and between diplomats and representatives of nation-states; it's often 
+   * The internet is not
+   * 
 

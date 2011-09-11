@@ -79,13 +79,17 @@ Bobby Richter
 http://robothaus.org/secretrobotron/
 =====================
 
-Showing Popcorn Maker 
-https://wiki.mozilla.org/PopcornMaker
+Demo'ing early version of Popcorn Maker
+http://popcornjs.org/popcornmaker/
+
+info: https://wiki.mozilla.org/PopcornMaker
 
 Very intuitive interface 
 Drag--and-drop adding footnotes
 Then, just export the code and have a page ready 
 Can save or export as html or ProjectJSON
-"t
+"transfer the server and be done"
+
+Used 
 
 
