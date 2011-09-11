@@ -49,6 +49,7 @@ Pseudonyms and Social Networks
      * and this also has important ramifications in offline communities -- groups that self-segregate to various extents by their choice of platform will be hard to unite in a move toward accountability and transparency if that's the only thing tying them all together
      * Google plus put me (Jillian) on their suggested user list! Which kind of annoyed me b/c I don't like their policies but it was useful too
  * Real problem if all the big 3 platforms are American? Other countries don't have the 1st amendment --> commercial operation in those countries requires the big 3 to agree to comply with the laws of those nations, but it can create thorny conflicts between corporate ethos and legal responsibility (and it's not always clear where the responsibility lies or to whom the responsibility is owed)
+   * In many nation-states that protect civil communication and access, there are rules that would not be
    * IP law is vastly controlled by American interests
    * we think of freedom of expression (and, maybe in the future, freedom of access to knowledge/science and culture) as a human right / value, so much less vulnerable to economic arguments?
  * In the future it will be an international law thing
@@ -61,7 +62,11 @@ Pseudonyms and Social Networks
    * The Universal Declaration of Human Rights
      * Access to science and culture provision
        * http://en.wikipedia.org/wiki/Right_to_science_and_culture
-   * note for non-lawgeeks: the UDHR is a non-binding document, so this does not create any kind of actionable rule. it's more of a codified ethos, parts of which are accepted norms, other parts of which are less widely accepted
- * In the Egypt revolution, Mubarak hit the kill switch and ironically Joe Lieberman was ind
- * 
+     * note for non-lawgeeks: the UDHR is a non-binding document, so this does not create any kind of actionable rule. it's more of a codified ethos, parts of which are accepted norms, other parts of which are less widely accepted
+     * Lea Shaver (Hofstra Law)
+       * http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1354788
+ * In the Egypt revolution, Mubarak hit the kill switch and ironically Joe Lieberman was introducing a bill to create an internet kill switch the next day, so he was universally lampooned.
+   * In San Francisco they've been shutting down phone service and arresting reporters! There's a whole line of SCOTUS cases banning what the BART police are doing >.<
+ * Access as a right
+   * we can talk about free
 

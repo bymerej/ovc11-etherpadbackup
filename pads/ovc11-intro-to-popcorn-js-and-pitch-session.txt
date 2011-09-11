@@ -93,4 +93,8 @@ Can save or export as html or ProjectJSON
 Showing a particular example not using HTML5 particularly / using SoundCloud, Google StreetView  
 http://bavc.org/sites/live/files/factory/historyinthestreets/tour.html
 
+BM:
+A lot of the operations are theoretical at the moment
+
+- The most polished use right now will be out next month ... One Millionth Tower
 
