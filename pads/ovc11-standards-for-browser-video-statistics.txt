@@ -17,7 +17,7 @@ Use cases:
 * network congestion monitoring & devices in specific areas / system performance monitoring -> can the server adapt the media rather than the client
 * page visibility / tab visibility management
 * electricity consumption / CPU utilization / GPU utilization
-* 
+* you can e.g. report on the quality of CDNs
 
 
 What metrics/statistics have the frameworks implemented:
