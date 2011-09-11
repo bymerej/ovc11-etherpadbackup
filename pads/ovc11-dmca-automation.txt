@@ -36,6 +36,6 @@ DMCA often used in place of other kinds of takedown requests such as for politic
    * But if you had evidence that bots were sending takedowns, I would love to take on that case!
  * Rich Jones has been making a website called Forktube during the conference - not live yet
    * Post it!!!
-   * [What does it do, guys?]
+   * Forktube takes videos from other people on YouT
  * 
 
