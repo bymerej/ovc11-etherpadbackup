@@ -105,6 +105,7 @@ Brian Chirls - Seriously.js vs Rainbow
 
 SESSION NOTES
 http://openetherpad.org/ovc2011-data-caps
+http://openetherpad.org/ovc11-showcase
 
 http://openvideoconference.org/notes/ovc11-alternative-copyright-education
 http://openvideoconference.org/notes/ovc11-alternative-currencies
