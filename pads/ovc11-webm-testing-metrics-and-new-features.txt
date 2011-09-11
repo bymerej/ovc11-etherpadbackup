@@ -37,6 +37,7 @@ Discussion:
 * WebM team says they are still learning how to run a community project.
 * There should be more sharing of what the team members are working on with the community.
 * Lots of communication is happening in video conferences. Maybe it should be moved to a hang-out.
-* Issue tracker on code.google.com is public
+* Issue tracker on code.google.com is public. Working with the community through the bug tracker can be really productive.
+* 
 
 

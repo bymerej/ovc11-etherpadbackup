@@ -42,5 +42,8 @@ There are some associations for this field:
     - International Oral History Association
         http://iohanet.org/
     
-Q: What about the resources you guys are using and developing? Could this be applied to 
+Q: What about the resources you guys are using and developing? Could this be applied to archives that have older media that need to converted/ brought into the digital?
+A: 
+
+Q/C: Working from the assumption that these assets are going to be remixed? We're wrestling with that assumption
 
