@@ -16,5 +16,8 @@ Mark Watson (Netflix)
   * on-demand profiles require alignment of files
   * live require chunking of the files
 * example manifest
+  * AdaptationSet: groups per resource or per track
+  * Representation: different representations for same resource
+  * muxed cases are difficult in particular to align the chunks
 
 

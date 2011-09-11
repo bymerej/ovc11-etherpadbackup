@@ -83,7 +83,7 @@ Anything goes.
 
 Sign up hee
 Tom: pap.io
-Rich: I can't make the session (gotta bus back to Boston), but I've been working on ForkTube, a 
+Rich: I can't make the session (gotta bus back to Boston), but I was inspired by Jillian York's talk yester to make ForkTube, a 'Fork' button for youtube. Work in progress screenshot: http://i.imgur.com/9Auwv.png Code: https://github.com/Miserlou/ForkTube (Ignore all ugly hacks!)
 
 /ppl
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄

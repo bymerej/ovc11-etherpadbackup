@@ -1,3 +1,11 @@
+OUTLINE: MAKING THE MAP
+
+I. PHYSICAL: Backbone, peering, interconnection, cloud
+
+II. LOGICAL: software, standards, patents
+
+III. CONTENT: distribution, advertising, privacy
+
 
 google youtube bandwith bill = $0 - http://www.wired.com/epicenter/2009/10/youtube-bandwidth/
 
