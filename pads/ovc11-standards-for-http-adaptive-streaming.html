@@ -131,6 +131,7 @@
 />&nbsp; * Presentation - MediaInterval - MediaGroup - with list of Media elements, their header and index identified through byte ranges<br
 />&nbsp; * it's possible to do it with chained WebM<br
 />* how do we deal with errors, where the web author feeds in the wrong files? JS does not need to do any parsing - it just needs to pull in the right byte ranges and hand the chunks to the browser for decoding<br
+/>* error reporting on media element would be similar to how it happens on real files; e.g. JS calls end-of-stream when it runs out of packets; if bad chunks are being handled to the decoder, the decoder will deal with it<br
 /><br
 /></body>
 </html>
