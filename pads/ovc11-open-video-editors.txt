@@ -13,6 +13,6 @@ Topics for discussion:
 * open document format for video production
 * hardware acceleration
 * Kronos
-
-
+* Scripted interactions
+* Web interfaces and interchange formats. 
 

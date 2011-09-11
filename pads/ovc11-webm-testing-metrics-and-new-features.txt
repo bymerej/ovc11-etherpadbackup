@@ -3,6 +3,7 @@
 John Luther (WebM Google)
 John Koleszar (WebM Google)
 
+=== John K: Presentation on WebM
 
 VP8 Metrics - Research
 * SSIM
@@ -11,4 +12,7 @@ VP8 Metrics - Research
 * Jitter
 
 
+Encoder Speed Improvement (Realtime Mode)
+
+Quality Progress
 
