@@ -40,6 +40,10 @@ Discussion:
 * for privacy reasons we cannot expose the details of the hardware
 * what happens when the data comes from the cache rather than from the network?
 * all metrics in the browser are right now based on time, not on bytes - you need bytes when you want to do rate switching; you need to know if you are not playing back video in realtime (i.e. sec of video played per second)
+* we care about three levels of measurement:
+  * measuring the network performance (bandwidth)
+  * measuring the decoding pipeline performance
+  * measuring the display quality
 
 What can be derived from the current proposal?
 * all min, max, average
@@ -52,6 +56,6 @@ What is missing from the current proposal?
 * it doesn't tell you whether data comes from the cache or the network
 * we need a bytes to time mapping if any of the byte information will be useful
 * on the network-level: no differentiation between a/v
-* on the decoding level: no differentiation between parsing and decoding -> if decoded is less than parsed, then our decoder is too slow
+* on the decoding level: no differentiation between parsing and decoding -> if decoded is less than parsed, then our decoder is too slow --> 
 * on the display level: if played is less than decoded, then our GPU is too slow
 
