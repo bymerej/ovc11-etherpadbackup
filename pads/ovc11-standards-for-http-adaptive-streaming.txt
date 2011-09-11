@@ -43,4 +43,5 @@ Comments:
   * special URL that the browser advertises: webkitMediaSourceURL (media data comes from JS)
   * webkitSourceAppend() call with error handling
   * webkitSourceEdnOfStream with states to manage stage handling
+* browser doesn't care how JS gets the seek point and the tim
 

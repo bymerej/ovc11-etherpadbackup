@@ -41,6 +41,8 @@ Pseudonyms and Social Networks
      * e.g. Cisco --> China
    * Pseudonym policies are not enforced equally - lots of people use pseudonyms on FB for example, but prominent activists and writers are more easily identified as using pseudonyms and are targeted for takedowns
      * Spurious complaints against people can get their accounts removed, these systems are not robust
+ * Diaspora
+   * alternative platforms are possible -- alternatives to the big 3 (FB, twitter, google) that are so big they can essentially proxy for government censorship without any legal accountability (under U.S. law) (and
    * 
 
 
