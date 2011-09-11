@@ -94,11 +94,16 @@ Pseudonyms and Social Networks
  * Friend of Jillian's accused of aiding a terrorist organization for *only* talking to people on the internet - attacking communication.
    * The (RECENT) U.S. Supreme Court precedent for this is Holder v. Humanitarian Law Project, in case anyone is unfamiliar and wants to check it out http://goo.gl/1NJh5
    * It is widely considered to be a *wrong* decision by first amendment scholars -- the "material support" in this case was expression, not $$
+     * topical -- this is post 9/11 SCOTUS law; it's clear from the opinion that the factual circumstances lowered their threshold for first amendment protection (terrorism, like child porn, frightens legislators and judges into bad law)
  * The fact that these platforms have relatively unlimited amounts of info about you and the gov't can get this info pretty easily is a problem that needs to be addressed
  * ECPA Reform is also really important -- the Electronic Communications Privacy Act has not been updated since 1986 and still controls for interception/surveillance
    * http://en.wikipedia.org/wiki/Electronic_Communications_Privacy_Act
  * Let's say you have a social network for private things, and if you don't respond with the right cryptographic hash, that server deletes itself.
    * you can create technology that is actually secure, but that's not going to come from Facebook, and I don't think it'll come from Google.
- * 
+ * Data requests from Wikileaks
+   * volunteers who are no longer with the organization, but the gov't subpoenaed their Twitter information, and the subpoena is pretty expansive
+     * including IP addresses for every time you logged in and everyone who visited your account
+   * they don't need a warrant for this
+   * real problem b/c the gov't tells Twitter they can't even say they've been subpoenaed, we only know about this b/c Twitter challenged this. Many times people don't even know they've be
  * 
 

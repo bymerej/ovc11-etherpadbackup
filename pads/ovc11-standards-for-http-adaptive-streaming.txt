@@ -111,4 +111,6 @@ Discussion:
 * seeking latency is determined by the time it takes to download a whole chunk
 * JS devs want early access to data; maybe we can extend XHR to get a stream object
 * media.buffered property allows you to show the time ranges, because the browser parses the appended buffer as soon as it got it
+* demo doesn't deal well yet with buffer underrun - the time in the player controls increases, then jumps back
+
 
