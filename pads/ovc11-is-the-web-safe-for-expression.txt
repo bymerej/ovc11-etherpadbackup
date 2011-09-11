@@ -20,5 +20,9 @@ Pseudonyms and Social Networks
    * private companies and their terms and policies also play a role
      * censorship by private companies currently has no corresponding legal remedy
      * so the gov. can pressure private internet companies to censor without overt government involvement
+ * when google's legal team researched whether to drop wikileaks, they reported that no laws appeared to have been broken
+ * but most of the intermediaries that dropped WL when controversy arose didn't do that much research and didn't reach that level of legal comprehension before they took action
 
+ * Your online freedom of expression is only as strong as the weakest intermediary.
+   * Lots of points where your expression can be cut off 
 

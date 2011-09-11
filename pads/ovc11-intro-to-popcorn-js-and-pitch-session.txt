@@ -18,8 +18,7 @@ Video on the Web 101
 2005
 2008 HTML 5 Video tag intro'd (http://gul.ly/101)
 
-Ian Hickson "HTML 5: Features you want desperately but stil
-HTML 5: Features you want desperately but still can't use
+Ian Hickson "HTML 5: Features you want desperately but still can't use"
 http://www.whatwg.org/demos/2008-sept/
 
 HTML 5 Video 
@@ -39,9 +38,9 @@ Over 1200 Tests to back up every release
 Popcorn.js
     > is really easy to learn 
     > is really easy to code
-    
-Popcorm.js's Story 
 
+
+Popcorm.js's Story 
 with a video
 do something
 (at some time) 
@@ -51,9 +50,13 @@ What about the HTML5 Video API?
 
 Methods like play(), pause()
 ... are still play(), pause()
-Properties like ...
+Properties like ... (missing - woops) 
 
 Never extend the native. 
 Always return a popcorn object
+
+(becoming evangenalistic - "I don't need Flash for this!") 
+
+
 
 
