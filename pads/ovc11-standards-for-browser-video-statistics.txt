@@ -64,7 +64,7 @@ What is missing from the current proposal?
 * what do we do with variable framerate videos? most videos on the Internet actually don't provide fixed framerate and browsers won't expose this information.
 * how consistent are currentTime and buffered ranges at any point in time? possibly very inaccurate in the browser
 
-What else is in the current proposal?
+What else is not in the current proposal?
 * buffer
   * audioBufferByteLength
   * audioBufferLength (sec)

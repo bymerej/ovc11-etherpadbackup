@@ -187,6 +187,9 @@ Importance of OER
 Free - dont have to pay for it
 Free accessability
 free and publicly available element that can be reused, adapted, remixed
+seperability -
+
+do we need an additive term for open licenses?
 
 
 

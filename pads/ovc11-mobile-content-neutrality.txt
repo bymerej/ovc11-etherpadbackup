@@ -6,6 +6,10 @@ Other Participants: David Carter (Arent Fox)
 Amanda Antico-Majkowski (Mobile Internet Content Coalition)
 Nicoholas Merrill (Calyx Institute)
 
+https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dExkM1M0U2p3UXZsclFFeFByRHNPeVE6MQ#gid=0
+
+Twitter Handle = BLIP Clinic 
+
 Welcome to EtherPad!
 
 This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
@@ -134,5 +138,7 @@ Develop jurisprudence that puts First Amendment and public rights FIRST
 Deep packet inspection - what gives them the right to do this
 right to transmit "lawful" content - but WHO decides whether the content is "lawful" - should the carrier be deciding transmitting the content is lawful
 - if going to block content, then should push for clearer mechanism of DETERMING whether the content is lawful 
+
+
 
 
