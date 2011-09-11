@@ -152,7 +152,8 @@ value and impact of accessibility for OER
 
 Personas for OER users
 who - personality, set of goals
-where - they are doing their learning
-how - what are the teaching methods, 
+where/when - they are doing their learning
+how - what are the teaching methods, collaborative or independant
+What - we design as OER for curricula
 
 
