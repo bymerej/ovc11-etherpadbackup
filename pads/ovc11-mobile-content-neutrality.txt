@@ -102,4 +102,9 @@ ISP
 No law requiring you to provide service to ISPs, unbundling rules affects the carrier when they provide telephone service - no right to access the network otherwise 
 - useful to think about different ISPs that are out there...smaller ISPs not required to be on best behavior, could this be a route for litigation and "test" cases [more regionally based] vs. someone with substantial backing behind them may not pan out with greater success 
 
+Two sides 
+- needs to be much better organization for what is actually happening now [people generating their own versions of the stories...have not collected enough of this in an orgnaized fashion...so we can tell the story!]
+- FCC did compile dozen of bad acts for doing the case of net neutrality 
+Tec
+
 
