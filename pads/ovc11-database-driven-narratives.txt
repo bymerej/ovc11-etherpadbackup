@@ -159,6 +159,9 @@ QUESTIONS:
 
 - What if someone submitted code that we weren't sure about?
 - Considering making a transition to HTML5
-- In term
+- In terms of scope:
+- sidestepping transcoding 
+- Perceptions: is Korsakow something 
+- Korsakow is dynamic, database storytelling - so it's not  
 
 

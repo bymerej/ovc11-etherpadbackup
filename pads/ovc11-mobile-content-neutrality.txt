@@ -79,5 +79,11 @@ Calyx will BE a telecommunications provider = VoIP, voice over service, CLEC
 nonprofit route - profit mode was one of the main reasons big carriers NOT doing anything in this sphere 
 1. didnt want to make enemies within govt - do lots of gov't K work / lucrative 
 2. will come before regulatory bodies and don't want to risk not having favorable attention
- [public relations - want to stay neutral b/c people on both sides who disagr
+ [public relations - want to stay neutral b/c people on both sides who disagree]
+ 
+ Grassroots movement 
+ 
+ Non Neutral Conduct App - Phillip 
+- DivPro - detects when a service is being degraded 
+Phil wants App that goes even further / but also what is the feasibility of this solution
 
