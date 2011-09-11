@@ -24,5 +24,12 @@ Pseudonyms and Social Networks
  * but most of the intermediaries that dropped WL when controversy arose didn't do that much research and didn't reach that level of legal comprehension before they took action
 
  * Your online freedom of expression is only as strong as the weakest intermediary.
-   * Lots of points where your expression can be cut off 
+   * Lots of points where your expression can be cut off -- 
+     * web host (can cut off your access)
+     * the upstream ISP for the web host 
+     * the domain name system (in the form of domain name seizure)
+       * cuts off access unless you know the IP address
+
+ * PIPA (formerly known as COICA) 
+   * routes around jurisdictional issues 
 

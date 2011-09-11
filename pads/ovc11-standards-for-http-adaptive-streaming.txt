@@ -30,4 +30,6 @@ Comments:
 * the DASH file format is very complex and could be simplified and not require such a complicated parser
 * to implement it with Matroska, you will need to extract the Matroska cluster index
 * nicely arranged media in chunks and index them (when authoring) really helps to simplify the adaptive streaming
+* example bitstreams and implementations are in the process of being developed in MPEG
+
 

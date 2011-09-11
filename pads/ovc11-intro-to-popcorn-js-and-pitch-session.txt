@@ -57,6 +57,12 @@ Always return a popcorn object
 
 (becoming evangenalistic - "I don't need Flash for this!") 
 
+Plugin template... http://gul.ly/109
+https://gist.github.com/897276#file_popcorn_plugin_patterns.js
+
+RICK'S SLIDES WILL BE MADE AVAILABLE. Where?
+
+Gone are the days of having to figure out Google Map API through plugins
 
 
 
