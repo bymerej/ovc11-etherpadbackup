@@ -13,6 +13,10 @@ Why does this matter?
 Open Video is a movement to promote free expression and innovation in online video through open standards, open source, and sharing.
 
 
+resources:
+lawrence lessig: Code
+
+http://works.bepress.com/cgi/viewcontent.cgi?article=1000&context=jluteran
 
 
 Solution discussion, as discussed with Becky Kazanksy
