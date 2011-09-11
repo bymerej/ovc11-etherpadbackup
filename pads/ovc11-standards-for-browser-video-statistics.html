@@ -42,6 +42,10 @@
 />* there is an optimal playback quality; a counter that accumulates the lateness of frames can help, but then you cannot catch up with changes; you either need to define a window or be able to reset the counter to do useful measurements<br
 />* you want to be able to separate out whether a frame latency comes from a network or a CPU issue<br
 />* there are two main use cases: measure whether a user's experience is good after-the-fact and collect data to adapt the delivery to improve the user's experience in real-time<br
+/>* you cannot know ahead of time, even when knowing what device you are playing on and what bandwidth is available, what quality the video will playback in because there are other things happening on the machine<br
+/>* for privacy reasons we cannot expose the details of the hardware<br
+/><br
+/><br
 /><br
 />What is missing from the current proposal?<br
 /><br
