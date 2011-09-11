@@ -80,8 +80,9 @@ Next steps:
 * publish a byte stream spec for WebM
 * release command-line flag in Chrome 16 to encourage demos to iron out issues
 * find out how to support MP4 and Ogg with this API
-* for Ogg providing an index to simplify seeking would help
+* for Ogg providing an index to simplify seeking would help (this is essentially a shoutcast stream)
 * start standardisation discussion at WHATWG
+
 
 Have break-out group tomorrow about this!!!
 

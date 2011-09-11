@@ -90,6 +90,7 @@ Then, just export the code and have a page ready
 Can save or export as html or ProjectJSON
 "transfer the server and be done"
 
-Used 
+Showing a particular example not using HTML5 particularly / using SoundCloud, Google StreetView  
+http://bavc.org/sites/live/files/factory/historyinthestreets/tour.html
 
 

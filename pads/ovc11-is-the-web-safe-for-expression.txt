@@ -52,7 +52,10 @@ Pseudonyms and Social Networks
    * IP law is vastly controlled by American interests
    * we think of freedom of expression (and, maybe in the future, freedom of access to knowledge/science and culture) as a human right / value, so much less vulnerable to economic arguments?
  * In the future it will be an international law thing
-   * The political struggles around "internet governance" as an international issue take place to a large degree IRL and between diplomats and representatives of nation-states; it's often 
-   * The internet is not
+   * The political struggles around "internet governance" as an international issue take place to a large degree IRL and between diplomats and representatives of nation-states; it's often forward-thinking but it's usually not reported on widely
+   * http://en.wikipedia.org/wiki/Working_Group_on_Internet_Governance
+   * http://en.wikipedia.org/wiki/World_Summit_on_the_Information_Society
+ * The internet is not cable, it's not a luxury.
+   * 
    * 
 
