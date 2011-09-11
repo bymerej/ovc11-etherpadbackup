@@ -3,7 +3,7 @@ Welcome to EtherPad!
 
 This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
 
-This are my thoughts that have come from a number of opportunities talking about this topic: the course Video and the Open Web at NYU's ITP program, conversations with Ben Moskowitz
+This are my thoughts that have come from a number of opportunities talking about this topic: the courses Video and the Open Web at NYU's ITP program, Social Activism using Mobile Technology, conversations with Ben Moskowitz, Becky Kazansky, and Elisa 
 Thesis: 
 
 
