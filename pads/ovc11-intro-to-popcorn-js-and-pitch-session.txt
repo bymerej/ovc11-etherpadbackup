@@ -1,10 +1,11 @@
-
+=====================
 Rick Waldron 
 http://richardwaldron.com/
+=====================
 
 with Bocoup http://bocoup.com/
 
-- Popcorn.js is 
+- Popcorn.js is ... 
 
 Video on the Web 101
 1991 QT 1.0 (Mac II, System 6) 
@@ -35,9 +36,13 @@ Popcorn.js
     > is really easy to learn 
     > is really easy to code
     
-Story 
+Popcorm.js's Story 
 
 with a video
-do 
+do something
+(at some time) 
+(with some information)
+
+
 
 
