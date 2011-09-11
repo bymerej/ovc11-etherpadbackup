@@ -27,5 +27,7 @@ What metrics/statistics have the frameworks implemented:
   * playbackJitter
 * are these good metrics? what else do we need?
 
+Discussion:
+* frames per second is a bad metric - what does it give you? maybe something like percentage of frames not displayed would be better?
 
 

@@ -75,6 +75,9 @@ Solution discussion, as discussed with Becky Kazanksy
 
 Although this is not the regulation of a technology like Lessig described, his four modalities (law, social norms, markets, and architecture) could possibly be used as tactics to alter the conversation. 
 
+lessig's four modalities that affect regulation of technologies:
+http://libreria.sourceforge.net/library/Free_Culture/images/regulation-balance-tr.png
+
 also: 
 Gene Sharp “198 Methods of Non-Violent Protest and Persuasion”:
 http://www.aeinstein.org/organizations103a.html
