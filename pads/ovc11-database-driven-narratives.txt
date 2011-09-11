@@ -14,6 +14,8 @@ Korsakow showcase: http://korsakow.org/vernissage
 Korsakow download (including sample work files): http://korsakow.org/download
 Handout for regular workshops: http://korsakow.org/downloads/KHandout1.1.pdf 
 
+PDF FROM MATT'S PRESENTATION:
+
 Please let us know if you have any questions or comments prior to the workshop.
 
 Cheers,
@@ -29,10 +31,10 @@ Matt Soar
 Getting us up to speed on the project of the Korsakow system 
 
 Starts in 2000 with Florian's thesis...
-to  DNA (Database Narrative Archive) Symposium http://www.dnasymposium.com/
+Original funding for redevelopment from FQRSC. Thru to  DNA (Database Narrative Archive) Symposium http://www.dnasymposium.com/
 
 Newly funded project - 
-Proof in Process: An Iterative Approach to the Experimental Film and Video in the Age of Transmedia
+Proof in Process: An Iterative Approach to the Experimental Film and Video in the Age of Transmedia (Federally funded by the SSHRC.)
 
 Artists:
 Phil Hoffman
@@ -197,4 +199,6 @@ Q: They aren't mutually exclusive and sometimes viewers are in different modes/ 
 Q: Have you put this in front of a group of game developers?
 
 A: No
+
+A HUGE THANK  YOU TO VERONICA!
 
