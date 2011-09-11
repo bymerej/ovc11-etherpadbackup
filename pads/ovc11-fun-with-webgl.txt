@@ -12,3 +12,9 @@ CubicVR.js
 Javascript 3D engine (with physics!)
 https://github.com/cjcliffe/CubicVR.js
 
+Mozilla Audio Data API (Firefox)
+http://videos.mozilla.org/serv/blizzard/audio-slideshow/
+
+Chrome Web Audio API
+https://chromium.googlecode.com/svn/trunk/samples/audio/index.html
+
