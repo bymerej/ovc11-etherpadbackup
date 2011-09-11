@@ -100,4 +100,6 @@ only way we will know what net neutrality means on practical level is by establi
 
 ISP 
 No law requiring you to provide service to ISPs, unbundling rules affects the carrier when they provide telephone service - no right to access the network otherwise 
+- useful to think about different ISPs that are out there...smaller ISPs not required to be on best behavior, could this be a route for litigation and "test" cases [more regionally based] vs. someone with substantial backing behind them may not pan out with greater success 
+
 

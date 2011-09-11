@@ -165,5 +165,8 @@ QUESTIONS:
 - Korsakow is dynamic, database storytelling - so it's not suited to something like Flash? 
 
 Q: Questions about how keywods work ...     
-A: Keywords can be thematic, they can formal, it i
+A: Keywords can be thematic, they can formal, it is up to the author
+
+MS C: But we're looking to move into the next generation of the keywords... 
+
 
