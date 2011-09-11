@@ -16,7 +16,8 @@ Use cases:
 * playback quality monitoring & dropped frames for measuring the user experience
 * network congestion monitoring & devices in specific areas
 * page visibility / tab visibility management
-* electricity consumption
+* electricity consumption / CPU utilization
+
 
 What metrics/statistics have the frameworks implemented:
 * Zach shows a table with the existing proprties as fimplemented by Firefox and Chrome, as well as the existing proposal and what other frameworks implement (Silverlight, Flash etc)
