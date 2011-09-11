@@ -28,6 +28,7 @@ What metrics/statistics have the frameworks implemented:
 * are these good metrics? what else do we need?
 
 Discussion:
-* frames per second is a bad metric - what does it give you? maybe something like percentage of frames not displayed would be better?
+* frames per second is a bad metric - what does it give you? maybe something like percentage of frames not displayed would be better? maybe measuring the accumulated time that a clock has been stopped/delayed?
+* there is an optimal playback quality; a counter that 
 
 

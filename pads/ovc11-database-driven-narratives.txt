@@ -91,6 +91,16 @@ The main task in korsakow is to SNUify
 SNUifying involves keywording your time-based media assets. 
 
 Origin of the name "Korsakow"...
-Having to do with the content of Florian's thesis, on alcoholism in Germany.
-loss of short-term memory, a compulsion to tell stories
+Having to do with the content of Florian's thesis, on alcoholism in Germany. Results in... loss of short-term memory, a compulsion to tell stories.
+
+Basic Workflow: 
+
+Browser (online or local)
+Interface (default)
+Startscreen (static)
+Preloader
+
+File formats
+
+Michael Niggel
 
