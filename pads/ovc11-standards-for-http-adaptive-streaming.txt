@@ -40,8 +40,33 @@ Comments:
 * stream switching, buffering, delivery, manifest strategies should not be done by the browser - the browser just provides an API to dynamically create content
 * supports adaptive streaming, mashups, ad insertion, streaming services, DVR, video editors (constraint editing)
 * proposed IDL:
+
+interface HTMLMediaElement : HTMLElement {
+    ...
+    // URL passed to src attribute to enable the media source logic.
+    readonly attribute DOMString webkitMediaSourceURL;
+
+    // Appends media to to the source.
+    void webkitSourceAppend(in Uint8Array data) raises (DOMException);
+
+    // Signals the end of stream.
+    const unsigned short EOS_NO_ERROR = 0; // End of stream reached w/o error.
+    const unsigned short EOS_NETWORK_ERR = 1; // A network error triggered end of stream.
+    const unsigned short EOS_DECODE_ERR = 2; // A decode error triggered end of stream.
+    void webkitSourceEndOfStream(in unsigned short status) raises (DOMException);
+
+    // Indicates the current state of the media source.
+    const unsigned short SOURCE_CLOSED = 0;
+    const unsigned short SOURCE_OPEN = 1;
+    const unsigned short SOURCE_ENDED = 2;
+    readonly attribute unsigned short webkitSourceState;
+    ....
+};
+
   * special URL that the browser advertises: webkitMediaSourceURL (media data comes from JS)
   * webkitSourceAppend() call with error handling
   * webkitSourceEdnOfStream with states to manage stage handling
-* browser doesn't care how JS gets the seek point and the tim
+* browser doesn't care how JS gets the seek point and the time stamp - it just allows the JS developer to deal with it
+* you would use JS to parse the Ogg packets
+
 

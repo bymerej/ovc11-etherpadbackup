@@ -47,10 +47,35 @@
 />* stream switching, buffering, delivery, manifest strategies should not be done by the browser - the browser just provides an API to dynamically create content<br
 />* supports adaptive streaming, mashups, ad insertion, streaming services, DVR, video editors (constraint editing)<br
 />* proposed IDL:<br
+/><br
+/>interface HTMLMediaElement : HTMLElement {<br
+/>&nbsp;&nbsp;&nbsp; ...<br
+/>&nbsp;&nbsp;&nbsp; // URL passed to src attribute to enable the media source logic.<br
+/>&nbsp;&nbsp;&nbsp; readonly attribute DOMString webkitMediaSourceURL;<br
+/><br
+/>&nbsp;&nbsp;&nbsp; // Appends media to to the source.<br
+/>&nbsp;&nbsp;&nbsp; void webkitSourceAppend(in Uint8Array data) raises (DOMException);<br
+/><br
+/>&nbsp;&nbsp;&nbsp; // Signals the end of stream.<br
+/>&nbsp;&nbsp;&nbsp; const unsigned short EOS_NO_ERROR = 0; // End of stream reached w/o error.<br
+/>&nbsp;&nbsp;&nbsp; const unsigned short EOS_NETWORK_ERR = 1; // A network error triggered end of stream.<br
+/>&nbsp;&nbsp;&nbsp; const unsigned short EOS_DECODE_ERR = 2; // A decode error triggered end of stream.<br
+/>&nbsp;&nbsp;&nbsp; void webkitSourceEndOfStream(in unsigned short status) raises (DOMException);<br
+/><br
+/>&nbsp;&nbsp;&nbsp; // Indicates the current state of the media source.<br
+/>&nbsp;&nbsp;&nbsp; const unsigned short SOURCE_CLOSED = 0;<br
+/>&nbsp;&nbsp;&nbsp; const unsigned short SOURCE_OPEN = 1;<br
+/>&nbsp;&nbsp;&nbsp; const unsigned short SOURCE_ENDED = 2;<br
+/>&nbsp;&nbsp;&nbsp; readonly attribute unsigned short webkitSourceState;<br
+/>&nbsp;&nbsp;&nbsp; ....<br
+/>};<br
+/><br
 />&nbsp; * special URL that the browser advertises: webkitMediaSourceURL (media data comes from JS)<br
 />&nbsp; * webkitSourceAppend() call with error handling<br
 />&nbsp; * webkitSourceEdnOfStream with states to manage stage handling<br
-/>* browser doesn't care how JS gets the seek point and the tim<br
+/>* browser doesn't care how JS gets the seek point and the time stamp - it just allows the JS developer to deal with it<br
+/>* you would use JS to parse the Ogg packets<br
+/><br
 /><br
 /></body>
 </html>
