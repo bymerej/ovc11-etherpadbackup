@@ -31,5 +31,9 @@ Pseudonyms and Social Networks
        * cuts off access unless you know the IP address
 
  * PIPA (formerly known as COICA) 
-   * routes around jurisdictional issues 
+   * routes around jurisdictional issues that previously kept the US from seizing domain names in other countries
+   * instead it tells the DNS not to resolve specific domain names (so this is an effective way to cut off US access to a top level domain that isn't w/in US jurisdiction)
+
+ * International examples
+   * Hosting - e
 

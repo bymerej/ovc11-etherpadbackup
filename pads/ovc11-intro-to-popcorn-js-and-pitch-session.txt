@@ -64,5 +64,6 @@ RICK'S SLIDES WILL BE MADE AVAILABLE. Where?
 
 Gone are the days of having to figure out Google Map API through plugins
 
+Bill 
 
 
