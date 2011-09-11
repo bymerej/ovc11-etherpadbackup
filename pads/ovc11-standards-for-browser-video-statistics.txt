@@ -52,6 +52,6 @@ What is missing from the current proposal?
 * it doesn't tell you whether data comes from the cache or the network
 * we need a bytes to time mapping if any of the byte information will be useful
 * on the network-level: no differentiation between a/v
-* on the decoding level: no differentiation between parsing and decoding
-* on the display level: d
+* on the decoding level: no differentiation between parsing and decoding -> if decoded is less than parsed, then our decoder is too slow
+* on the display level: if played is less than decoded, then our GPU is too slow
 
