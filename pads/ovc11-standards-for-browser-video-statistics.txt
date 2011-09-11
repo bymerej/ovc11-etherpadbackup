@@ -25,6 +25,7 @@ What metrics/statistics have the frameworks implemented:
   * droppedFrames
   * presentedFrames
   * playbackJitter
-* 
+* are these good metrics? what else do we need?
+
 
 
