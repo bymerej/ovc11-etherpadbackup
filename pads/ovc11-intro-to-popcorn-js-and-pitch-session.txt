@@ -131,5 +131,15 @@ Q: FCP markers imported into HTML5 using popcorn?
 A: PopcornMaker has this feature... 
 
 IDEAS: 
+- Geo Experiences
+- Crowd Source and Share (realtime)
+- META Information ... 
+    embed, build from, create with 
+- Education, Interactivity 
+- MultiSource
+
+github.com/webmademovies
+- popcorn.js
+- butter (early iteration of popcornmaker) 
 - 
 

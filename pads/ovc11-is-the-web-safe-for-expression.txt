@@ -109,5 +109,6 @@ Pseudonyms and Social Networks
    * EFF petition/campaign - https://whohasyourback.eff.org/
  * Of course, corporations are here to make money, not to have your back
    * but this can cost them lawyer hours, aside from PR problems / driving people to competitors
- * 
+ * The FBI "Going Dark" documents
+   * https://www.eff.org/deeplinks/2011/02/newly-released-documents-detail-fbi-s-plan-expand
 

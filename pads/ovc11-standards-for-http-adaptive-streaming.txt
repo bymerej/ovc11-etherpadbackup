@@ -114,5 +114,6 @@ Discussion:
 * media.buffered property allows you to show the time ranges, because the browser parses the appended buffer as soon as it got it
 * demo doesn't deal well yet with buffer underrun - the time in the player controls increases, then jumps back
 * storing the buffers to disk would help in doing offline playback and deal with later; maybe local storage can help, or maybe the browser cache might solve it where there is a special media cache
-* it might be worth pr
+* it might be worth providing an API to the media cache that the JS can invalidate chunk-wise
+
 
