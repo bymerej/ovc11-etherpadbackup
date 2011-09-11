@@ -41,6 +41,8 @@ Color space issues ( camare codecs locked up )
 
 Final Cut XML
 http://developer.apple.com/appleapplications/fcpxml.html
+http://developer.apple.com/library/mac/#documentation/AppleApplications/Reference/FinalCutPro_XML/AboutThisDoc/AboutThisDoc.html
+
 Piviti XML
 http://thomaslevine.com/piviti.xptv
 
