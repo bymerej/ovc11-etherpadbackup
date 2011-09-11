@@ -80,6 +80,7 @@ Pseudonyms and Social Networks
    * or will things like smozzy be a better place to target our support?
      * http://www.intomobile.com/2011/09/09/smozzys-new-android-app-offers-web-surfing-without-a-data-plan/
    * or both?
+     * the differences are greatest in terms of how these different modes of access are regulated (legal/policy differences)
  * You come for the LOLcats but you stay for the politics
    * You're blocking the internet? You're blocking my cats!
    * I feel like the Internet is our chance for an end run... if we can get to a place where the internet is offering more compelling content, then what do the corporations have to offer us?

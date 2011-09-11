@@ -136,11 +136,14 @@ IDEAS:
 - META Information ... 
     embed, build from, create with 
 - Education, Interactivity 
-- MultiSource
+- MultiSource Media Animation
 
 github.com/webmademovies
 - Popcorn.js
 - Butter (early iteration of popcornmaker) 
 - PopcornMaker
 - Butter Cutter
+
+Coming Soon 
+- Popcorn.sequence / inte
 

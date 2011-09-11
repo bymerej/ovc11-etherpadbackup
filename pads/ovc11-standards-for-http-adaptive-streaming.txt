@@ -119,4 +119,6 @@ Discussion:
 
 Questions:
 * SourceAppend ask for byte ranges on each media resource - how does that work for live? you need to use chunked files for live and not use byte range requests any more
+* can we do JSON for DASH?
+* manifest of Frank is completely implemented in JS
 
