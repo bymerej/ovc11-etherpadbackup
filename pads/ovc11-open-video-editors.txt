@@ -26,6 +26,7 @@ Shared format
 Pitivi overview: 
 * Gstreamer based ( widely supported ) 
 * Gstreamer does not have an intermediate format. 
-* Dissadvantage of intermediate format 
+* Dissadvantage of intermediate format not all formats are seekable and work well in video editors. 
+* showing clip editing. 
 
 

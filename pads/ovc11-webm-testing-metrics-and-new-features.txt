@@ -26,5 +26,12 @@ Continuous Integration (coming soon)
 
 Discussion:
 * What's missing in the WebM ecosystem?
-  * what
+  * what features should be added?
+  * what challenges are not yet being addressed?
+  
+  * Could the WebM project be run better?
+    * How can the community become more involved?
+    * How do we go about developing the next free video codec?
+
+
 
