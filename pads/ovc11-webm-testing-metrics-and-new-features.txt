@@ -42,6 +42,6 @@ Discussion:
 * On releases when improvements are announced it would be helpful to actually provide examples that others can replicate that show the improvement.
 
 
-Trans
+Transcribed
 
 

@@ -53,7 +53,7 @@ Blog post on some of these issues: http://blog.witness.org/2010/11/the-ethical-e
 
 USC Shoah using elements of remix (or at least reuse) with USC students: http://dornsife.usc.edu/vhi/studentvoices/
 
-The archive is used in the classroom at USC's Institute for Multimedia Literacy (IML 340: The Praxis of New Media) - http://cinema.usc.edu/iml/programs/course/imlcourses/iml340.cfm
+USC Shoah's is used in the classroom at USC's Institute for Multimedia Literacy (IML 340: The Praxis of New Media) - http://cinema.usc.edu/iml/programs/course/imlcourses/iml340.cfm
 
 Q: Using popcorn to could provide this kind of context/ convey these concerns?
 A: Beyond remix, important to keep in mind how scholarly research has engaged citation, and how that can be considered when using metadata
@@ -70,6 +70,6 @@ A: Beyond remix, important to keep in mind how scholarly research has engaged ci
     - Concerns about what to do with this archive accrued in the filmmaking process
     - Some of this material is sensitive
     
-- As mor
+- As more people create media, this becomes a bigger issue
 
 
