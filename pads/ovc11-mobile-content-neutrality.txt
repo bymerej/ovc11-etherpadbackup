@@ -86,4 +86,9 @@ nonprofit route - profit mode was one of the main reasons big carriers NOT doing
  Non Neutral Conduct App - Phillip 
 - DivPro - detects when a service is being degraded 
 Phil wants App that goes even further / but also what is the feasibility of this solution
+technology in lace since how Comcast got caught
+- Rob P. kept trynig to upload DNS that would not upload, so then trying to download other public domainstuff - discovered blockage 
+- are you getting speed that's advertised? - no tool yet to know if wired ISP is blocking or degrading; just are you getting advertsided speed = need to discover for yourself
+- AT&T blocking skype...was pretty 
+Berkman Center - means to promote online censorship Herdict] 
 

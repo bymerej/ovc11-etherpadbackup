@@ -170,9 +170,7 @@ that plays recordings of OER textbooks.
 
 content on demand in a DVD - filled with  audio and video content - chosen by calling into the library - placing a  unique order for content - then the library could access its oer library and create a customized resource for her.
 
-
-
-social/community network that builds itself around open educational resources 
+Library also offers space and facilitates communities that build their curriculum around open educational resources. so that the resources can be adapted and distributed, depending on the interests and abilities of the group's part
 
 have it read to you over the phone
 have it printed out
