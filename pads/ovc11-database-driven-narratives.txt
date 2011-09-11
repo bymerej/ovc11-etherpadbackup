@@ -140,7 +140,14 @@ things just right and wrong
 "please join us in our mission to not have missions anymore"
 
 =================
-David 
+David Reisch
 =================
+
+Editor (desktop) > scale, transcode  --->> XML/ Video/ Audio/ Images ---> Display (web-based)
+
+Korsakow Editor 
+1) Written in Java
+2) a lot of help from QT, FFMpeg, LAME
+3) A little help fro
 
 

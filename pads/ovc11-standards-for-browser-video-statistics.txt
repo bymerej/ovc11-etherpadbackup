@@ -14,7 +14,7 @@ Use cases:
 * gathering engagement data for analytics
 * adaptive bitrate switching
 * playback quality monitoring & dropped frames for measuring the user experience
-* network congestion monitoring & devices in specific areas
+* network congestion monitoring & devices in specific areas / system performance monitoring -> can the server adapt the media rather than the client
 * page visibility / tab visibility management
 * electricity consumption / CPU utilization / GPU utilization
 

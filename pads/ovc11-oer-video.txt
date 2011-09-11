@@ -180,7 +180,7 @@ express interest via phone number - then if enough people call in with an intere
 
 downloadable part is a curriculum that maps the resources that are available in the area - an OER about OER
 
-DVD on demand - filled with audio and video content
+DVD on demand - filled with audio and video content - chosen by calling into the library - placing a unique order for content - then the library could access its their oer library and create a custom resource for them.
 
 
 
