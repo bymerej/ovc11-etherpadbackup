@@ -18,4 +18,7 @@ Topics for discussion:
 
 Shared format
 * Open documed format adoption ( a very sucesfull ) 
+* What about FinalCutPro XML
+* FinalCutPro X makes it even harder to exchange formats. 
+* Pitivi XML format is 
 

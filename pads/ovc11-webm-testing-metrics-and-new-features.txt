@@ -16,3 +16,8 @@ Encoder Speed Improvement (Realtime Mode)
 
 Quality Progress
 
+Testing Today
+* System level
+* Wide scope
+* Human-readable report
+
