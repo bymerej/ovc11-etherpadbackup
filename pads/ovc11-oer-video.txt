@@ -156,7 +156,7 @@ where/when - they are doing their learning
 how - what are the teaching methods, collaborative or independant
 What - we design as OER for curricula
 
-Bessy, lives in a rural area of US/Canada no highspeed or broadband - she only has a land line telephone
+Bessy, lives in a rural area of US/Canada with no highspeed or broadband a - she only has a land line telephone
 Retirement age - 65 yr old
 independent/lifelong learner
 interested in learning gardening - hosting a wedding at her yard, so she wants to get her yard in tip top shape
@@ -165,12 +165,11 @@ Bessy is avid patron of her local library
 
 she heard about the libraries new services that are made possible by their growing OER collection
 
-voice enabled access to oer via touchtone phones
-that plays recordings of OER textbooks.
+voice enabled access to an OER textbook with a touchtone phone - this would have features like rewind, pause, fast forward, or play at 2x the speed.
 
 content on demand in a DVD - filled with  audio and video content - chosen by calling into the library - placing a  unique order for content - then the library could access its oer library and create a customized resource for her.
 
-Library also offers space and facilitates communities that build their curriculum around open educational resources. so that the resources can be adapted and distributed, depending on the interests and abilities of the group's part
+Library also offers space and facilitates communities that build their curriculum around open educational resources. so that the resources can be adapted and distributed, depending on the interests and abilities of the group's participants.
 
 have it read to you over the phone
 have it printed out
