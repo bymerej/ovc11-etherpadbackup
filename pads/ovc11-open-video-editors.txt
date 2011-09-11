@@ -10,6 +10,7 @@ What are the dependency for pitivi
 Topics for discussion:
 * collaborative  video editing
 * open video standards 
+
 * open document format for video production
 * hardware acceleration
 * Kronos http://www.khronos.org/opengl
@@ -38,6 +39,6 @@ Color space issues ( camare codecs locked up )
 * Final cut pro has filters for camaras to normalize video content. 
 * without intermediate format hard to do this in realtime. 
 
-
-
+Final Cut XML
+http://developer.apple.com/appleapplications/fcpxml.html
 
