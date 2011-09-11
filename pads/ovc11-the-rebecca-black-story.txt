@@ -5,8 +5,14 @@ This pad text is synchronized as you type, so that everyone viewing this page se
 
 This are my thoughts that have come from a number of opportunities talking about this topic: the courses Video and the Open Web at NYU's ITP program, Social Activism using Mobile Technology, conversations with Ben Moskowitz, Becky Kazansky, and Elisa Kreisinger. 
 
-Thesis: Viral moments and memes like Rebecca Black's Friday demonstrate that there is a vocal contigent on the net whose comments and media look to mock and bully netizens based on gender, sexuality or race. What can the Open Video community do add to this contentious and charged conversation? 
+Thesis: Viral moments and memes like Rebecca Black's Friday demonstrate that there is a vocal contigent on the net whose comments and media look to mock and bully netizens based on gender, sexuality or race. What can the Open Video community do to change this contentious and charged conversation and improve the space for expression? 
 
+
+
+
+Why does this matter?
+
+Open Video is a movement to promote free expression and innovation in online video through open standards, open source, and sharing.
 
 
 Solution discussion, as discussed with Becky Kazanksy
