@@ -137,4 +137,13 @@ It's important to have a record of truth with regard to the assets and  metadata
 
 Wherever possible, stick to open standards.
 
+Inclusive Design
+
+Accessibility is about equitable access to the materials and content that is produced or published
+ 
+Equitable access is important because it is fair
+ 
+Designing for everyone creates a better product
+
+
 
