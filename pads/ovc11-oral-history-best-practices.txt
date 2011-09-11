@@ -45,5 +45,8 @@ There are some associations for this field:
 Q: What about the resources you guys are using and developing? Could this be applied to archives that have older media that need to converted/ brought into the digital?
 A: 
 
-Q/C: Working from the assumption that these assets are going to be remixed? We're wrestling with that assumption
+Q: Working from the assumption that these assets are going to be remixed? We're wrestling with that assumption. So how do you embed these issues into the content. How do we embed values into the video itself and how it can be used in remix? How do we encourage an open video system that respect privacy issues?
+
+C: Example of the 
+
 

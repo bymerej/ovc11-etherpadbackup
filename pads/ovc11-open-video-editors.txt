@@ -33,9 +33,11 @@ Pitivi overview:
 ** ( helps address the intermediate codec issues ) 
 
 Color space issues ( camare codecs locked up ) 
-gstreamer full support for 4:4:4 color space representation. 
-auto color correction undone by video editors like final cut.
-Final cut pro has filters for camaras 
+* gstreamer full support for 4:4:4 color space representation. 
+* auto color correction undone by video editors like final cut.
+* Final cut pro has filters for camaras to normalize video content. 
+* without intermediate format hard to do this in realtime. 
+
 
 
 
