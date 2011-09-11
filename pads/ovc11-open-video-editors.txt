@@ -28,5 +28,8 @@ Pitivi overview:
 * Gstreamer does not have an intermediate format. 
 * Dissadvantage of intermediate format not all formats are seekable and work well in video editors. 
 * showing clip editing. 
+* effects do not yet have key framing. 
+* New "Gstreamer Editing Services" core coming in with improved performace
+
 
 
