@@ -130,8 +130,6 @@ next generation:
 Q: FCP markers imported into HTML5 using popcorn?
 A: PopcornMaker has this feature... 
 
-
-
-BM gives an example 
-
+IDEAS: 
+- 
 
