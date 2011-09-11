@@ -76,6 +76,9 @@ interface HTMLMediaElement : HTMLElement {
 
 Future work:
 * make byte stream look more like WebM live streams, so JS handling becomes easier
+* implement frame size change & possibly Vorbis codebook change support
+* publish a byte stream spec for WebM
+* release command-line flag in Chrome 16 to encourage demos to iron out issues
 * 
 
 Have break-out group tomorrow about this!!!
