@@ -37,5 +37,7 @@ Comments:
 
 * implemented in Chrome for adaptive streaming, but may be applicable to other use cases
 * an extension to HTMLMediaElement that allos to pipe data into audio and video, similar to appendBytes in Flash
-* many different requirements 
+* stream switching, buffering, delivery, manifest strategies should not be done by the browser - the browser just provides an API to dynamically create content
+* supports adaptive streaming, mashups, ad insertion, streaming services, DVR, 
+* 
 

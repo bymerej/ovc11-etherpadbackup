@@ -2,6 +2,12 @@ OUTLINE: MAKING THE MAP
 
 I. PHYSICAL: Backbone, peering, interconnection, cloud
 
+A.
+
+B. 
+
+C. 
+
 II. LOGICAL: software, standards, patents
 
 III. CONTENT: distribution, advertising, privacy
