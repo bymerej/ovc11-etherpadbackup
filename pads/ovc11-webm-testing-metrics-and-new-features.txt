@@ -21,3 +21,7 @@ Testing Today
 * Wide scope
 * Human-readable report
 
+Continuous Integration (coming soon)
+* libvpx quality tests
+
+
