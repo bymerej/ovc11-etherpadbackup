@@ -32,7 +32,8 @@ DMCA often used in place of other kinds of takedown requests such as for politic
  * It seems messed up that there are bots doing DMCA takedowns and then humans have to respond... all the burden is on the [users?]. How can we deal with that in a broader sense?
    * So it is illegal for bots to send takedown notices now? but you think this is still going on?
    * When Congress passed this law they meant to give a huge advantage to corporations, and we've been pushing back on that. Most of these humans who push the "takedown" button when given it by the bot... their jobs aren't risked if they screw up, right?
-   * There are no consequences for a frivolous takedown
+   * There are no consequences for a frivolous takedown, right? Well, theoretically you can sue them, that's the Lenz case. But it would be nice to balance it out better.
+   * But if you had evidence that bots were sending takedowns, I would love to take on that case!
  * 
  * 
 

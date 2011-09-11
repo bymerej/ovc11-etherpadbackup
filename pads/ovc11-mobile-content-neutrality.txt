@@ -131,6 +131,8 @@ Develop jurisprudence that puts First Amendment and public rights FIRST
 - if Verizon using my public airways to block speech, then are they violating the first amendment 
 -regulatory means controlling communications - more concerned with gov't blockage; but we need advocacy orgnaization from the regulating the industry angle! 
 
-Deep packet inspection - w
+Deep packet inspection - what gives them the right to do this
+right to transmit "lawful" content - but WHO decides whether the content is "lawful" - should the carrier be deciding transmitting the content is lawful
+- if going to block content, then should push for clearer mechanism of DETERMING whether the content is lawful 
 
 

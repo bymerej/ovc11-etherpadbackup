@@ -62,7 +62,7 @@
 />What is missing from the current proposal?<br
 />* it doesn't tell you whether data comes from the cache or the network<br
 />* we need a bytes to time mapping if any of the byte information will be useful<br
-/>* on the network-level: no differentiation between a/v<br
+/>* on the network-level: no differentiation between a/v -&gt; if we drop audio, that's a disaster, so it would be good to know this<br
 />* on the decoding level: no differentiation between parsing and decoding -&gt; if decoded is less than parsed, then our decoder is too slow --&gt; what is the script going to do about it? aks for a lower resolution / bitrate video<br
 />* on the display level: if played is less than decoded, then our GPU is too slow<br
 />* maybe the WebGL metrics should apply to video, too<br
