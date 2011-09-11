@@ -28,7 +28,10 @@ DMCA often used in place of other kinds of takedown requests such as for politic
  * So there are a lot of people who say fair use is vague, but I think that is actually not true, and the best practices coming out of the Center for Social Media are disproving that. There are judges and lawyers who dislike fair use, but... If you look at the empirical studies, fair use has been gaining ground. ... Best practices tend to do it by community.
    * it's really dangerous to say that fair use is always a crapshoot
    * it's not giving enough credit to work that has been done to clarify it
- * Best practices are wonderful for helping lawyers make decisions
- * 
+   * Best practices are wonderful for helping lawyers make decisions...
+ * It seems messed up that there are bots doing DMCA takedowns and then humans have to respond... all the burden is on the content creators. How can we deal with that in a broader sense?
+   * So it is illegal for bots to send takedown notices now? but you think this is still going on?
    * 
+ * 
+ * 
 
