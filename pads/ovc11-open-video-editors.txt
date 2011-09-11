@@ -23,5 +23,8 @@ Shared format
 * Pitivi XML format is ~pretty human~ readable. 
 * Walking through a sample Pitivi xml file
 
+Pitivi overview: 
+* Gstreamer based ( widely supported ) 
+* 
 
 

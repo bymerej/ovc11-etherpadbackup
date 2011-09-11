@@ -197,9 +197,6 @@ Q: Does linear and non-linear have to be mutually exclusive?
 Q: They aren't mutually exclusive and sometimes viewers are in different modes/ moods at different times... 
 
 Q: Have you put this in front of a group of game developers?
-
-A: No
-
 A: No, but its paths have been mapped before... here's the blogpost Florian and Matt were referencing - http://korsakow.org/korsakow-maps-out-feeling
 
 
