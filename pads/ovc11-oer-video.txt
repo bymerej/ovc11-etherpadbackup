@@ -150,5 +150,9 @@ Retrofit accessibilty - moving towards default, but it is a lot expect from orig
 
 value and impact of accessibility for OER
 
+Personas for OER users
+who - personality, set of goals
+where - they are doing their learning
+how - what are the teaching methods, 
 
 
