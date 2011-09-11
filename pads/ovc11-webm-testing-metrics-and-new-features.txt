@@ -24,4 +24,7 @@ Testing Today
 Continuous Integration (coming soon)
 * libvpx quality tests
 
+Discussion:
+* What's missing in the WebM ecosystem?
+  * what
 
