@@ -5,5 +5,16 @@ Pablo Schklowsky (JWPlayer)
 
 * start off with demo of Flash with adaptive bitrate switching and metrics
   * shows bandwidth
-  * 
+  * shows size of video (width x height)
+  * shows dropped frames
+  * shows switching between different levels
+* there is no way to do this in HTML5 right now
+
+Use cases:
+* gathering engagement data
+* adaptive bitrate switching
+* playback quality monitoring & dropped frames
+* network congestion monitoring & devices in
+
+
 
