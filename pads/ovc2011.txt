@@ -12,6 +12,10 @@ On Sunday evening it's open mic in the auditorium.
 
 If you'd like to share progress you've made over the weekend with OVC attendees, be sure to scroll to the bottom and sign up.
 
+- The Remi
+Hjhbjhb
+
+
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 SATURDAY OPEN SPACE
@@ -86,6 +90,7 @@ Sign up hee
 Krackaboo the Enzyme
 Tom: pap.io
 Rich: I can't make the session (gotta bus back to Boston), but I was inspired by Jillian York's talk yester to make ForkTube, a 'Fork' button for youtube. Work in progress screenshot: http://i.imgur.com/9Auwv.png Code: https://github.com/Miserlou/ForkTube (Ignore all ugly hacks!)
+Brian Chirls - Seriously.js vs Rainbow
 
 /ppl
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
