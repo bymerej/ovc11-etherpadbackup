@@ -140,6 +140,8 @@ IDEAS:
 - MultiSource Media Animation
 - Tagging Clips, Non-linear Experience
 
+- a research engine that will allow us all similar resources to what Jon Stewart and The Daily Show have
+
 github.com/webmademovies
 - Popcorn.js
 - Butter (early iteration of popcornmaker) 
