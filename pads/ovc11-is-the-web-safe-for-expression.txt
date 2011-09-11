@@ -15,5 +15,10 @@ Pseudonyms and Social Networks
      * even the basic definition of identity
  * some people use pseudonyms professionally
  * some people require pseudonymity/anonymity for their personal safety
- * intermediaries making rules for their platforms 
+ * intermediaries making rules for their platforms <-- the main issue underlying these problems
+   * the government plays a role
+   * private companies and their terms and policies also play a role
+     * censorship by private companies currently has no corresponding legal remedy
+     * so the gov. can pressure private internet companies to censor without overt government involvement
+
 

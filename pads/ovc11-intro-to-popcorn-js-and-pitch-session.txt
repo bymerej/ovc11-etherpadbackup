@@ -16,7 +16,11 @@ Video on the Web 101
 2002
 2003   (umm, woops. stuff - Sorenson..)
 2005
-2008 HTML 5 Video tag intro'd (http://gul.ly/101) http://www.whatwg.org/demos/2008-sept/
+2008 HTML 5 Video tag intro'd (http://gul.ly/101)
+
+Ian Hickson "HTML 5: Features you want desperately but stil
+HTML 5: Features you want desperately but still can't use
+http://www.whatwg.org/demos/2008-sept/
 
 HTML 5 Video 
 
@@ -51,4 +55,5 @@ Properties like ...
 
 Never extend the native. 
 Always return a popcorn object
+
 
