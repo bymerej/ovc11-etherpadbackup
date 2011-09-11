@@ -14,8 +14,11 @@ Open Video is a movement to promote free expression and innovation in online vid
 
 
 resources:
-lawrence lessig: Cod
+lawrence lessig: Code and Other Laws of Cyberspace (2000) ISBN 978-0-465-03913-5
 
+
+The Application of Lawrence Lessig’s Four Modalities of Regulation in a Virtual Society: An
+Examination of the Legal Structure of the World of Warcraft
 http://works.bepress.com/cgi/viewcontent.cgi?article=1000&context=jluteran
 
 
