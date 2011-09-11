@@ -139,7 +139,8 @@ IDEAS:
 - MultiSource
 
 github.com/webmademovies
-- popcorn.js
-- butter (early iteration of popcornmaker) 
-- 
+- Popcorn.js
+- Butter (early iteration of popcornmaker) 
+- PopcornMaker
+- Butter Cutter
 
