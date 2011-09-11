@@ -5,4 +5,9 @@ John Koleszar (WebM Google)
 
 
 VP8 Metrics - Research
+* SSIM
+* Consistency
+* Blockiness
+* Jitter
+
 
