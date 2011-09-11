@@ -110,6 +110,8 @@ A: Popcorn itself is infintely flexible. The examples we have are limited, but i
 next generation:
 - composite real time information into a movie
 
+Q: FCP markers imported into HTML5 using popcorn?
+A: PopcornMaker has an 
 
 BM gives an example 
 
