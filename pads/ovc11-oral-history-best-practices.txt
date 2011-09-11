@@ -64,4 +64,5 @@ A: Beyond remix, important to keep in mind how scholarly research has engaged ci
 
 - Digital Rights Management might have applications in these situations that people may not have thought through
 
+-What systems are people in the room using to story
 
