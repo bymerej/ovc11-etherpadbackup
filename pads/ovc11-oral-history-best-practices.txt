@@ -41,4 +41,6 @@ There are some associations for this field:
         http://www.oralhistory.org/
     - International Oral History Association
         http://iohanet.org/
+    
+Q: What about the resources you guys are using and developing? Could this be applied to 
 

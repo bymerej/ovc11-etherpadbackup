@@ -5,19 +5,19 @@ http://pitivi.org/i/history.png
 
 A good reason to not start a new video editor.
 
-What are the depencices for pitivi
+What are the dependency for pitivi
 
 Topics for discussion:
 * collaborative  video editing
 * open video standards 
 * open document format for video production
 * hardware acceleration
-* Kronos
+* Kronos http://www.khronos.org/opengl
 * Scripted interactions
 * Web interfaces and interchange formats. 
 
 Shared format
-* Open documed format adoption ( a very sucesfull ) 
+* Open documented format adoption ( a very successful ) 
 * What about FinalCutPro XML
 * FinalCutPro X makes it even harder to exchange formats. 
 * Pitivi XML format is ~pretty human~ readable. 
@@ -26,10 +26,11 @@ Shared format
 Pitivi overview: 
 * Gstreamer based ( widely supported ) 
 * Gstreamer does not have an intermediate format. 
-* Dissadvantage of intermediate format not all formats are seekable and work well in video editors. 
+* Disadvantage of intermediate format not all formats are seekable and work well in video editors. 
 * showing clip editing. 
 * effects do not yet have key framing. 
-* New "Gstreamer Editing Services" core coming in with improved performace
+* New "Gstreamer Editing Services" core coming in with improved performance
+** ( helps address the intermediate codec issues ) 
 
 
 
