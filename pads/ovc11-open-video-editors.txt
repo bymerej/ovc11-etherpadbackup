@@ -16,3 +16,6 @@ Topics for discussion:
 * Scripted interactions
 * Web interfaces and interchange formats. 
 
+Shared format
+* Open documed format adoption ( a very sucesfull ) 
+
