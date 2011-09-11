@@ -92,8 +92,13 @@ Pseudonyms and Social Networks
    * social networks
    * concern that I might associate myself with something that may not be popular
  * Friend of Jillian's accused of aiding a terrorist organization for *only* talking to people on the internet - attacking communication.
-   * The precedent for this is Holder v. Humanitarian Law Project, in case anyone is unfamiliar and wants to check it out http://goo.gl/1NJh5
+   * The (RECENT) U.S. Supreme Court precedent for this is Holder v. Humanitarian Law Project, in case anyone is unfamiliar and wants to check it out http://goo.gl/1NJh5
    * It is widely considered to be a *wrong* decision by first amendment scholars -- the "material support" in this case was expression, not $$
- * The fact tha
+ * The fact that these platforms have relatively unlimited amounts of info about you and the gov't can get this info pretty easily is a problem that needs to be addressed
+ * ECPA Reform is also really important -- the Electronic Communications Privacy Act has not been updated since 1986 and still controls for interception/surveillance
+   * http://en.wikipedia.org/wiki/Electronic_Communications_Privacy_Act
+ * Let's say you have a social network for private things, and if you don't respond with the right cryptographic hash, that server deletes itself.
+   * you can create technology that is actually secure, but that's not going to come from Facebook, and I don't think it'll come from Google.
+ * 
  * 
 

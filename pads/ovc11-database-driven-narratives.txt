@@ -6,8 +6,8 @@ Our agenda:
 
  * 2.00 - 2.10 Overview of the Korsakow System: history, our switch to open source (Matt Soar)
  * 2.10 - 2.20 Philosophy behind Korsakow: Why nonlinear? (Florian Thalhofer)
- * 2.20 - 1.45 Overview of the codebase (David Reisch)
- * 1.45 - 2.45 Open discussion, with optional demonstration of the software (Florian)
+ * 2.20 - 2.30 Overview of the codebase (David Reisch)
+ * 2.30 - 3.00 Open discussion, with optional demonstration of the software (Florian)
 
 Korsakow website: http://www.korsakow.org
 Korsakow showcase: http://korsakow.org/vernissage 
