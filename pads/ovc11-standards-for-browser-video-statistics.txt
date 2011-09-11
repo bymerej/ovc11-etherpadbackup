@@ -16,7 +16,7 @@ Use cases:
 * playback quality monitoring & dropped frames for measuring the user experience
 * network congestion monitoring & devices in specific areas
 * page visibility / tab visibility management
-* electricity consumption / CPU utilization
+* electricity consumption / CPU utilization / GPU utilization
 
 
 What metrics/statistics have the frameworks implemented:
