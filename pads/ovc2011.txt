@@ -182,6 +182,9 @@ w300 - 150 people
 w302 - 50 people
 w320 - 75 people
 
+MONDAY schedule plan
+http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
+
 ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
 ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
 ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
