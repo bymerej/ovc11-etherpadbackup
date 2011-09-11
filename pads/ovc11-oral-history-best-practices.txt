@@ -35,7 +35,9 @@ Discussion
 C: 
 
 C: Working with the Shoah Foundation / Access restricted to the university community/ archives - http://dornsife.usc.edu/vhi/scholarship/archival_access/accessing/
-It depends what kind of a project you're working on. 
+
+These questions depend on what kind of a project you're working on. 
+
 There are some associations for this field:
     - Oral History Association
         http://www.oralhistory.org/
@@ -58,7 +60,8 @@ A: Beyond remix, important to keep in mind how scholarly research has engaged ci
 
 - Do people use Creative Commons (http://creativecommons.org/) license in the Oral History community? As the field becomes less 'professionalized,' what are some adaptative methods?
 
-- Example of EFF v. Burning Man  
+- Example of EFF v. Burning Man  - https://www.eff.org/deeplinks/2009/08/snatching-rights-playa
 
 - Digital Rights Management might have applications in these situations that people may not have thought through
+
 
