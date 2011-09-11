@@ -181,6 +181,12 @@ express interest via phone number - then if enough people call in with an intere
 
 downloadable part is a curriculum that maps the resources that are available in the area - an OER about OER
 
+Who: Shakir from Ghana -- 34 yo professor 
+
+When: 10:15am, 1 computer in classroom, limited access
+
+What: HTML 5 app that provides a spectrum of options. User downloads an independently runnable package (html, runs in browser) that contains media types appropriate to the user's bandwidth. For instance, someone could get a basic text transcript and have comments/annotations embedded into it in a nicely presented way. They could also opt to add slides or images that are time aligned, or go further up spectrum to add audio or video to the package.
+
 
 Importance of OER
 
