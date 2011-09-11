@@ -68,5 +68,12 @@ interface HTMLMediaElement : HTMLElement {
   * webkitSourceEdnOfStream with states to manage stage handling
 * browser doesn't care how JS gets the seek point and the time stamp - it just allows the JS developer to deal with it
 * you would use JS to parse the Ogg packets
+* Draft spec available: http://tinyurl.com/3aqpknx
+* supports playback of a minimalist WebM byte stream (INFO, TRACKS, CLUSTER)
+* supports muxed & demuxed streams
+* bulk of code is check into WebKit and Chromium, but #ifef
+
+Have break-out group tomorrow about this!!!
+
 
 
