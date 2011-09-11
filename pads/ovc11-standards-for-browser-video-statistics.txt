@@ -60,5 +60,6 @@ What is missing from the current proposal?
 * on the display level: if played is less than decoded, then our GPU is too slow
 * maybe the WebGL metrics should apply to video, too
 * what we don't deal with yet is the situation where metrics need to be reset, e.g. during seeking, pause or stop
+* are the rates more useful than the actual numbers of frames? it's easier to be flexible in the time interval
 
 
