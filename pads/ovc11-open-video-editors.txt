@@ -1,9 +1,18 @@
 Open Video Editors
 
-Opened with lifecyle of open source editors: 
+Lifecyle of open source editors: 
 http://pitivi.org/i/history.png
 
 A good reason to not start a new video editor.
 
-What are the depencices for Pititiv
+What are the depencices for pitivi
+
+Topics for discussion:
+* collaborative  video editing
+* open video standards 
+* open document format for video production
+* hardware acceleration
+* Kronos
+
+
 
