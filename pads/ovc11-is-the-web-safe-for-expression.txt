@@ -39,5 +39,9 @@ Pseudonyms and Social Networks
      * included in recent US executive order blocking exports to Syria is language that blocks hosting, MSN Messenger, Google Chrome
    * US mfrs export surveillance tools to other countries
      * e.g. Cisco --> China
+   * Pseudonym policies are not enforced equally - lots of people use pseudonyms on FB for example, but prominent activists and writers are more easily identified as using pseudonyms and are targeted for takedowns
+     * Spurious complaints against people can get their accounts removed, these systems are not robust
+   * 
+
 
 

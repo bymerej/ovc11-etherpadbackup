@@ -69,6 +69,11 @@ https://webmademovies.lighthouseapp.com/projects/63272/tickets/442-google-maps-n
 Seneca Centre for Development of Open Technology 
 http://zenit.senecac.on.ca/wiki/index.php/Main_Page
 
+Important: Education, to make it accessible
+
+DEMO
+http://popcornjs.org/popcorn-101
+
 
 
 

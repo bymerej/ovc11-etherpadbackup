@@ -1,5 +1,7 @@
 OUTLINE: MAKING THE MAP
 
+start with a simple model of the Internet, then build out to a model that's relevant for online video.
+
 I. PHYSICAL: Backbone, peering, interconnection, cloud
 
 A.
