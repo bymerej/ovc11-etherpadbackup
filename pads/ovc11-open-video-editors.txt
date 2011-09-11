@@ -46,5 +46,5 @@ http://developer.apple.com/library/mac/#documentation/AppleApplications/Referenc
 Piviti XML
 http://thomaslevine.com/piviti.xptv
 
-
+to bring forward to OVA - ernest [at] openvideoalliance.org if there is a possibility to create a consortium for open video editor standards (see open document standart)
 
