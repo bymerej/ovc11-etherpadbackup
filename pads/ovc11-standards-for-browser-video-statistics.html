@@ -18,9 +18,9 @@
 />* there is no way to do this in HTML5 right now<br
 /><br
 />Use cases:<br
-/>* gathering engagement data<br
+/>* gathering engagement data for analytics<br
 />* adaptive bitrate switching<br
-/>* playback quality monitoring &amp; dropped frames<br
+/>* playback quality monitoring &amp; dropped frames for measuring the user experience<br
 />* network congestion monitoring &amp; devices in specific areas<br
 /><br
 />What metrics/statistics have the frameworks implemented:<br
@@ -37,7 +37,10 @@
 />Discussion:<br
 />* frames per second is a bad metric - what does it give you? maybe something like percentage of frames not displayed would be better? maybe measuring the accumulated time that a clock has been stopped/delayed?<br
 />* there is an optimal playback quality; a counter that accumulates the lateness of frames can help, but then you cannot catch up with changes; you either need to define a window or be able to reset the counter to do useful measurements<br
-/>* you want to be able to separate out whe<br
+/>* you want to be able to separate out whether a frame latency comes from a network or a CPU issue<br
+/>* there are two main use cases: measure whether a user's experience is good and collect data to adapt the delivery to improve the user's experience<br
+/><br
+/>What is missing from the current proposal?<br
 /><br
 /><br
 /></body>
