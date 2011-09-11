@@ -5,4 +5,10 @@ Aaron Colwell (Google)
 Mark Watson (Netflix)
 
 
+=== Mark: Introduction to DASH
+
+* MPEG is finalizing the DASH specification
+* DASH is a manifest format for describing all available streams for a media resource
+* DASH also defines file formats that are suitable for making use of this; it is right now 
+* there is also a common encryption scheme that 
 
