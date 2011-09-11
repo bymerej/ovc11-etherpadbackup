@@ -43,6 +43,12 @@ do something
 (at some time) 
 (with some information)
 
+What about the HTML5 Video API?
 
+Methods like play(), pause()
+... are still play(), pause()
+Properties like ...
 
+Never extend the native. 
+Always return a popcorn object
 

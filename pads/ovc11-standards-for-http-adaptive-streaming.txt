@@ -26,7 +26,7 @@ Mark Watson (Netflix)
   * protected content
 * implementation: Netflix is using this format
 
-Comment:
+Comments:
 * the DASH file format is very complex and could be simplified and not require such a complicated parser
 * to implement it with Matroska, you will need to extract the Matroska cluster index
 * nicely arranged media in chunks and index them (when authoring) really helps to simplify the adaptive streaming

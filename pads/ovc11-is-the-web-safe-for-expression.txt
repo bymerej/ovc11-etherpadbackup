@@ -8,5 +8,12 @@ Law
 Policy
 Web censorship (domestic and international)
 
-Pse
+Pseudonyms and Social Networks
+ * identity policies on social networks
+   * lots of complex ideas converge on this issue
+   * identity politics
+     * even the basic definition of identity
+ * some people use pseudonyms professionally
+ * some people require pseudonymity/anonymity for their personal safety
+ * intermediaries making rules for their platforms 
 
