@@ -86,5 +86,7 @@ Next steps:
 
 Have break-out group tomorrow about this!!!
 
-
+Discussion:
+* have you considered ad blocking as an application; we expect there will be the jquery equivalent for adaptive streaming
+* problem w
 

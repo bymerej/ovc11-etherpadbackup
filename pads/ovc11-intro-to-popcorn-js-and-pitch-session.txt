@@ -98,3 +98,10 @@ A lot of the operations are theoretical at the moment
 
 - The most polished use right now will be out next month ... One Millionth Tower
 
+======================
+
+Q + A
+
+Q: What about web sockets?
+A: An example of Socket IO /
+

@@ -49,7 +49,8 @@ Pseudonyms and Social Networks
      * and this also has important ramifications in offline communities -- groups that self-segregate to various extents by their choice of platform will be hard to unite in a move toward accountability and transparency if that's the only thing tying them all together
      * Google plus put me (Jillian) on their suggested user list! Which kind of annoyed me b/c I don't like their policies but it was useful too
  * Real problem if all the big 3 platforms are American? Other countries don't have the 1st amendment --> commercial operation in those countries requires the big 3 to agree to comply with the laws of those nations, but it can create thorny conflicts between corporate ethos and legal responsibility (and it's not always clear where the responsibility lies or to whom the responsibility is owed)
-   * In many nation-states that protect civil communication and access, there are rules that would not be
+   * In many nation-states that protect civil communication and access, there are rules that would not be Constitutional in the US -- for example, rules that limit hate speech.
+     * so this creates a conflict between the rights of US users and the rights of international users, which is a conundrum for platforms
    * IP law is vastly controlled by American interests
    * we think of freedom of expression (and, maybe in the future, freedom of access to knowledge/science and culture) as a human right / value, so much less vulnerable to economic arguments?
  * In the future it will be an international law thing
@@ -68,5 +69,10 @@ Pseudonyms and Social Networks
  * In the Egypt revolution, Mubarak hit the kill switch and ironically Joe Lieberman was introducing a bill to create an internet kill switch the next day, so he was universally lampooned.
    * In San Francisco they've been shutting down phone service and arresting reporters! There's a whole line of SCOTUS cases banning what the BART police are doing >.<
  * Access as a right
-   * we can talk about free
+   * we can talk about free expression all day long, but if people don't have access...
+   * we're seeing the access debate in Brazil.
+   * In this country we have extraordinary privilege...
+   * but we do have e.g. bandwidth caps as a limit to access here
+   * but when you look at a country that has 1.9% internet penetration like Ethiopia, but they filter the internet, arrest 
+   * 
 
