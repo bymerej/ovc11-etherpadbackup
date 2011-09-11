@@ -76,6 +76,9 @@ Pseudonyms and Social Networks
    * but when you look at a country that has 1.9% internet penetration like Ethiopia, but they filter the internet, arrest bloggers anyway... the small elite who has internet access in that country is already being stifled.
  * 
    * 
-
-Question for technologists: how does the predominance of mobile technology in less developed regions affect this discussion? if
+ * Question for technologists: how does the predominance of mobile technology in less developed regions affect this discussion? if we're relying on the internet *per se* then what does it mean if a huge percentage of people get their best shot at access through 4G or some other kind of technology?
+ * You come for the LOLcats but you stay for the politics
+   * You're blocking the internet? You're blocking my cats!
+   * I feel like the Internet is our chance for an end run... if we can get to a place where the internet is offerei
+ * 
 

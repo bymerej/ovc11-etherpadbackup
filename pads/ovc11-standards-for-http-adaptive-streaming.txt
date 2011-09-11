@@ -89,5 +89,11 @@ Have break-out group tomorrow about this!!!
 Discussion:
 * have you considered ad blocking as an application; we expect there will be the jquery equivalent for adaptive streaming
 * problem with implementing adaptive streaming in the player is that it is hard to innovate; if we push that into JS, it is easier to improve and allow support; a more fundamental API for how to manipulate video is useful and the browser is just used as a playback engine
-* don't use encoded frames, but clusters to give a nicer abstraction to the JS pl
+* don't use encoded frames, but clusters to deal with larger chunks and make it still performant
+
+
+=== Frank: adaptive streaming demo
+
+* I have a manifest file in xml, but it could be in JSON
+* average bitrates for streams are being shown
 

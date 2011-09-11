@@ -103,5 +103,7 @@ A lot of the operations are theoretical at the moment
 Q + A
 
 Q: What about web sockets?
-A: An example of Socket IO / mentioned an example from the JSConf
+A: An example of Socket IO / mentioned an example from the JSConf http://2011.jsconf.us/
+
+A: Popcorn itself is infintely flexible. The examples we have are limited, but if you're a developer -- whatever you would like to see 
 
