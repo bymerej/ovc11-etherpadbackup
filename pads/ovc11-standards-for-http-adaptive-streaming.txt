@@ -95,5 +95,8 @@ Discussion:
 === Frank: adaptive streaming demo
 
 * I have a manifest file in xml, but it could be in JSON
-* average bitrates for streams are being shown
+* average bitrates for streams are being shown in video player
+* browser downloads and parses manifest, starts with lowest bitrate stream
+* demo limits the birate to 1000kbps artificially
+* JS gets datarate and decides to switch based on that
 
