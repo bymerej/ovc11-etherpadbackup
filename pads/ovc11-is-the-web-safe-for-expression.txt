@@ -104,6 +104,10 @@ Pseudonyms and Social Networks
    * volunteers who are no longer with the organization, but the gov't subpoenaed their Twitter information, and the subpoena is pretty expansive
      * including IP addresses for every time you logged in and everyone who visited your account
    * they don't need a warrant for this
-   * real problem b/c the gov't tells Twitter they can't even say they've been subpoenaed, we only know about this b/c Twitter challenged this. Many times people don't even know they've be
+   * real problem b/c the gov't tells Twitter they can't even say they've been subpoenaed, we only know about this b/c Twitter challenged this. Many times people don't even know they've been subpoenaed.
+ * If the gov't comes after you, who has your back? Will the companies you use stand up to your gov't?
+   * EFF petition/campaign - https://whohasyourback.eff.org/
+ * Of course, corporations are here to make money, not to have your back
+   * but this can cost them lawyer hours, aside from PR problems / driving people to competitors
  * 
 

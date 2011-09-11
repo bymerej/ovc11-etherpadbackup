@@ -97,7 +97,7 @@
 />* have you considered ad blocking as an application; we expect there will be the jquery equivalent for adaptive streaming<br
 />* problem with implementing adaptive streaming in the player is that it is hard to innovate; if we push that into JS, it is easier to improve and allow support; a more fundamental API for how to manipulate video is useful and the browser is just used as a playback engine<br
 />* don't use encoded frames, but clusters to deal with larger chunks and make it still performant<br
-/><br
+/>* how will this deal with offline viewing<br
 /><br
 />=== Frank: adaptive streaming demo<br
 /><br
@@ -119,7 +119,7 @@
 />* JS devs want early access to data; maybe we can extend XHR to get a stream object<br
 />* media.buffered property allows you to show the time ranges, because the browser parses the appended buffer as soon as it got it<br
 />* demo doesn't deal well yet with buffer underrun - the time in the player controls increases, then jumps back<br
-/><br
+/>* storing the buffers to disk would help in doing offline playback and deal with&nbsp;<br
 /><br
 /></body>
 </html>
