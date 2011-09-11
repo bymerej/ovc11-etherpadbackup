@@ -100,6 +100,19 @@ A lot of the operations are theoretical at the moment
 
 ======================
 
+some links:
+http://popcornjs.org/
+
+https://github.com/webmademovies
+https://gist.github.com/897276#file_popcorn_plugin_patterns.js
+http://popcornjs.org/documentation
+https://github.com/webmademovies/popcorn-js
+https://github.com/webmademovies
+http://webmademovies.org/designing-the-popcorn-maker
+
+
+======================
+
 Q + A
 
 Q: What about web sockets?
@@ -111,7 +124,9 @@ next generation:
 - composite real time information into a movie
 
 Q: FCP markers imported into HTML5 using popcorn?
-A: PopcornMaker has an 
+A: PopcornMaker has this feature... 
+
+
 
 BM gives an example 
 

@@ -106,6 +106,6 @@ Discussion:
 
 Discussion:
 * it would be nice to just have one request per adaptation and then just pull chunks off that same connection; right now every chunk requires another XHR range request
-* feels like you're starting to implement a Web browser in JS
-*originally we wanted to 
+* feels like you're starting to implement a Web browser in JS with XHRs; something with a lower latency might be useful
+* originally we wanted to have the browser just deal with the manifest, but we discovered that this is much simpler
 
