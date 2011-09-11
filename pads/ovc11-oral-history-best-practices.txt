@@ -58,7 +58,7 @@ The Shoah Visual History archive is used in the classroom at USC's Institute for
 Q: Using popcorn to could provide this kind of context/ convey these concerns?
 A: Beyond remix, important to keep in mind how scholarly research has engaged citation, and how that can be considered when using metadata
 
-- Do people use Creative Commons (http://creativecommons.org/) license in the Oral History community? As the field becomes less 'professionalized,' what are some adaptative methods? Could we use a type of Creative Commons lice
+- Do people use Creative Commons (http://creativecommons.org/) license in the Oral History community? As the field becomes less 'professionalized,' what are some adaptative methods? Could we use a type of Creative Commons license that is focused on subject intention rather than on attribution/derivatives or commercial/non-commercial? Would be hard to enforce legally but might have normative value. 
 
 - Example of EFF v. Burning Man  - https://www.eff.org/deeplinks/2009/08/snatching-rights-playa
 
@@ -72,4 +72,6 @@ A: Beyond remix, important to keep in mind how scholarly research has engaged ci
     
 - As more people create media, this becomes a bigger issue
 
+This was maybe mentioned? http://library.columbia.edu/content/dam/libraryweb/libraries/ohro/PROCEDURES%20FOR%20VIDEO%20INTERVIEWS.pdf 
+May
 
