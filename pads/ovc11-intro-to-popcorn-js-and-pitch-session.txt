@@ -2,7 +2,7 @@
 Rick Waldron 
 http://richardwaldron.com/
 
-with Bocoup
+with Bocoup http://bocoup.com/
 
 - Popcorn.js is 
 
@@ -10,6 +10,7 @@ Video on the Web 101
 1991 QT 1.0 (Mac II, System 6) 
 1995 Realplayer (streaming video to the web) 
 1996 Flash 
+"History of Flash" article (link?) 
 2000 Real, AT, Windows Media Player
 2002
 2003   (umm, woops. stuff - Sorenson..)
@@ -24,7 +25,19 @@ Event driven
 Immersive
 
 "popcorn is not a magic wand"
+it is a framework , that will give you tools to build
 
+Today, we're going to see how the code works...
 
-"History of Flash" article (link?) 
+Over 1200 Tests to back up every release
+
+Popcorn.js
+    > is really easy to learn 
+    > is really easy to code
+    
+Story 
+
+with a video
+do 
+
 

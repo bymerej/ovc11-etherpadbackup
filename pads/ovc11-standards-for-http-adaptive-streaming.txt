@@ -27,6 +27,7 @@ Mark Watson (Netflix)
 * implementation: Netflix is using this format
 
 Comment:
-* the D
+* the DASH file format is very complex and could be simplified and not require such a complicated parser
+* to implement it with Matroska, y
 
 
