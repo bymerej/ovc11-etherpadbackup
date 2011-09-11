@@ -5,3 +5,5 @@ http://pitivi.org/i/history.png
 
 A good reason to not start a new video editor.
 
+What are the depencices for Pititiv
+
