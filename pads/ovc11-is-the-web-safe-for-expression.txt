@@ -73,6 +73,9 @@ Pseudonyms and Social Networks
    * we're seeing the access debate in Brazil.
    * In this country we have extraordinary privilege...
    * but we do have e.g. bandwidth caps as a limit to access here
-   * but when you look at a country that has 1.9% internet penetration like Ethiopia, but they filter the internet, arrest 
+   * but when you look at a country that has 1.9% internet penetration like Ethiopia, but they filter the internet, arrest bloggers anyway... the small elite who has internet access in that country is already being stifled.
+ * 
    * 
+
+Question for technologists: how does the predominance of mobile technology in less developed regions affect this discussion? if
 

@@ -103,5 +103,5 @@ A lot of the operations are theoretical at the moment
 Q + A
 
 Q: What about web sockets?
-A: An example of Socket IO /
+A: An example of Socket IO / mentioned an example from the JSConf
 
