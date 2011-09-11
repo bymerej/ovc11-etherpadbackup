@@ -163,5 +163,7 @@ QUESTIONS:
 - sidestepping transcoding 
 - Perceptions: is Korsakow like iMovie? If I were a serious maker, why would I use it?
 - Korsakow is dynamic, database storytelling - so it's not suited to something like Flash? 
-- 
+
+Q: Questions about how keywods work ...     
+A: Keywords can be thematic, they can formal, it i
 
