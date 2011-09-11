@@ -42,6 +42,97 @@ Discussion:
 * On releases when improvements are announced it would be helpful to actually provide examples that others can replicate that show the improvement.
 
 
-Transcribed
+Transcribed:
+Tim: Some things are checked in and later is abandoned because they said they couldn't make it work. Without much information. Improving that visibility might help other people working on stuff. We could make suggestions or pick that research up.
+
+We are still working on and this and learning. Communication.
+
+You don't know it but other people on the team don't necessarily know it either.
+
+We need to work on it too because a lot of people are moving out of the same office. Maybe move something to hangouts.
+
+----------------------------
+Do you have an issue tracker? Yes on code.google.com/p/webm/issues
+
+He found making that central helps other developers. Talking about specific issues on the issue tracker.
+
+We found not necessarily someone working on  something they found won't put it into the issue tracker. Mozilla does this and it helps.
+
+In one case Gerrit does this with the review process. Review process has been good for us.
+
+We also had to make sure people do not review and submit their own code. Nothing to force it in Gerrit, but it is coming.
+
+--------------------------------
+
+Phillip: Communication issue, when you have a blog post with graph improvements. I was excited to reproduce the improvements. It would be nice to also have the arguments that made those graphs so we can reproduce. 
+
+Luther: I understand but it is tricky because those graphs are made over a large set of clips. 
+
+Phillip: What if you had it for a set of one or 2 clips.
+
+----------------------------
+
+One reason to provide an example is because running a set of encodes to actually find a combination that it matters can take a very long time.
+
+
+Philip: Have an example where one specific clip shows the difference or new feature.
+
+-----------------------------
+
+Luther: I wrote the CQ post and that is maybe why it was lacking in technical
+
+-------------------------------
+
+
+That is what the encoder is missing a true quality parameter.
+
+Philip: Yes that is what I want.
+
+John: Most of our focus has been on streaming.
+
+Most of the people that want that don't.
+
+Some people are against quality because then you will get files that are not streamable.
+
+--------------------------------
+
+We get questions with tools all the time. RE FFmpeg we all know but most people it is complex.
+
+-------------------------------
+
+Are technical solutions for doing all the test encodes.
+
+I wrote a batch scheduler.
+
+John: I thought it would be cool to make resources from Google available for compression cluster.
+
+----------------------------------
+
+Are you working on the new QT api?
+
+Eric: Nothing is publicly available to extend.
+
+If there is one available we will make a plug-in.
+
+-----------------------------------
+
+
+Philip: Anyone looking into VP9? 
+
+John: We are looking into it somewhat. No code written yet. Anyone have better ideas on how we can develop vp9?
+
+Luther: I don't want it to release until it is significantly better.
+
+Philip: True but you ave to have incremental releases. But are there no ideas?
+
+John: We are at the point of wrapping up our last release. I think maybe the focus will be the experimental branch soon.
+
+Luther: That is hwy the experimental exists.
+
+-----------------------------------
+
+Philip: What is biggest change you would want to make? Adaptive Quantizer? Different block sizes.
+
+John: Nothing has been decided yet. More block sizes, people have complained about we have done our segmentation.
 
 
