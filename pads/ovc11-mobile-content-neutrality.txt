@@ -68,5 +68,11 @@ Additional Approaches to Addressing Issue - Nick
 NSA - became involved in huge lawsuit against FBI. lasted 8 years 
 organizations supporting lawsuit were more from literary, publishing, academic world rather than telecom world 
 lawsuit filed under "John Doe" = monk like existence 
-telecom service focused on privacy
+telecom service focused on privacy and the rights of consumers [CALYX] 
+Aug 2010 - partially released from gag order 
+
+Originally - focused on privacy and right to anonymity
+now - network neutrality and other issues coming into the mix 
+- many gray areas in the law that have become much more apparent post Sept 11 Patriot Act and other legislation [wants to test this in terms of their consitutionality] 
+Calyx will BE a telecommunications provider = VoIP, voice over service, CLEC 
 

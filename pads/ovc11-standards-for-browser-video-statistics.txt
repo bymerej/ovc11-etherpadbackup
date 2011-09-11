@@ -23,7 +23,7 @@ What metrics/statistics have the frameworks implemented:
 * Zach shows a table with the existing proprties as fimplemented by Firefox and Chrome, as well as the existing proposal and what other frameworks implement (Silverlight, Flash etc)
 * current proposal:
   * bytesReceived
-  * bytesDecoded
+  * bytesDecoded: audioBytesDecoded, videoBytesDecoded
   * decodedFrames
   * droppedFrames
   * presentedFrames
@@ -38,8 +38,13 @@ Discussion:
 * you cannot know ahead of time, even when knowing what device you are playing on and what bandwidth is available, what quality the video will playback in because there are other things happening on the machine
 * for privacy reasons we cannot expose the details of the hardware
 
-
+What can be derived from the current proposal?
+* all min, max, average
+* downloadBytesPerSecond
+* playbackRate
+  * audioPlaybackBitrate
+  * videoPlaybackBitrate
 
 What is missing from the current proposal?
-
+* 
 
