@@ -22,5 +22,8 @@ DMCA often used in place of other kinds of takedown requests such as for politic
    * if it's 10 seconds out of a 3 minute video, I can say "well, that sounds like fair use to me"
    * most of these takedowns are done by humans who press the button after they are screened by bots
  * A part of the problem with automation is that many of these questions come down to judgment... but isn't judgment like taste? Can't taste be automated through e.g. Pandora? [or spam filters / Gmail's important e-mail filter]
+ * Fair use clairvoyance: find "experts" whose taste is measured to be consistent with what is actually fair use! :D
+ * No one understands fair use (including my parents!)
+   * fair use is lawyer employment :P
  * 
 

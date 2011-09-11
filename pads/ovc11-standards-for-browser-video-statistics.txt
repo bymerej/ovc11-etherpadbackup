@@ -58,5 +58,7 @@ What is missing from the current proposal?
 * on the network-level: no differentiation between a/v
 * on the decoding level: no differentiation between parsing and decoding -> if decoded is less than parsed, then our decoder is too slow --> what is the script going to do about it? aks for a lower resolution / bitrate video
 * on the display level: if played is less than decoded, then our GPU is too slow
-* maybe the WebGL metrics should apply to 
+* maybe the WebGL metrics should apply to video, too
+* what we don't deal with yet is the situation where metrics need to be reset, e.g. during seeking, pause or stop
+
 
