@@ -71,7 +71,12 @@ interface HTMLMediaElement : HTMLElement {
 * Draft spec available: http://tinyurl.com/3aqpknx
 * supports playback of a minimalist WebM byte stream (INFO, TRACKS, CLUSTER)
 * supports muxed & demuxed streams
-* bulk of code is check into WebKit and Chromium, but #ifef
+* bulk of code is check into WebKit and Chromium, but #ifdef-ed out; about to add command-line flag
+* two demos available: basic VOD  & adaptive streaming
+
+Future work:
+* make byte stream look more like WebM live streams, so JS handling becomes easier
+* 
 
 Have break-out group tomorrow about this!!!
 
