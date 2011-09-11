@@ -18,7 +18,13 @@ Use cases:
 
 What metrics/statistics have the frameworks implemented:
 * Zach shows a table with the existing proprties as fimplemented by Firefox and Chrome, as well as the existing proposal and what other frameworks implement (Silverlight, Flash etc)
+* current proposal:
+  * bytesReceived
+  * bytesDecoded
+  * decodedFrames
+  * droppedFrames
+  * presentedFrames
+  * playbackJitter
 * 
-
 
 

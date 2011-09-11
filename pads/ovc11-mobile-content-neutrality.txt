@@ -24,8 +24,10 @@ Net neutrality - uncertainty in the mobile space / how this will be affected [to
 wireline vs. wireless carriers - different rules applied 
 
 David Carter - Metro PCS
-calls routed to place in rural Iowa - could call into telephone numbers to listen to enws channels around the world [getting news directly from the 
-
+calls routed to place in rural Iowa - could call into telephone numbers to listen to radio news channels around the world [getting news directly from the source] 
+PCS began to see high volumes of traffic going to these numbers [increase volumes = moving telephone number into a blocked pattern] 
+- value of your unlimited long distance plan decreases if this is type of access you want 
+- Dist of Maryland Judge - wireless carrier be able to set pricing plans any way they wanted; asked Judge to go to FCC - REFUSED to even ask FCC to look at issue and analyze if this was a legal issue with the 
 
 
 
