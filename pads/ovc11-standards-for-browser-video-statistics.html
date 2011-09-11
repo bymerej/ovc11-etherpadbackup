@@ -44,6 +44,8 @@
 />* there are two main use cases: measure whether a user's experience is good after-the-fact and collect data to adapt the delivery to improve the user's experience in real-time<br
 />* you cannot know ahead of time, even when knowing what device you are playing on and what bandwidth is available, what quality the video will playback in because there are other things happening on the machine<br
 />* for privacy reasons we cannot expose the details of the hardware<br
+/>* what happens when the data comes from the cache rather than from the network?<br
+/>* all metrics in the browser are right now based on time, not on bytes - you need bytes when you want to do rate swit<br
 /><br
 />What can be derived from the current proposal?<br
 />* all min, max, average<br
@@ -53,7 +55,8 @@
 />&nbsp; * videoPlaybackBitrate<br
 /><br
 />What is missing from the current proposal?<br
-/>*&nbsp;<br
+/>* it doesn't tell you whether data comes from the cache or the network<br
+/><br
 /><br
 /></body>
 </html>
