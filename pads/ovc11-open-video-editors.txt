@@ -1,4 +1,7 @@
 Open Video Editors
 
+Opened with lifecyle of open source editors: 
+http://pitivi.org/i/history.png
 
+A good reason to not start a new video editor.
 
