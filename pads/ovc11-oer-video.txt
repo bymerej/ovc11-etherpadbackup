@@ -145,5 +145,6 @@ Equitable access is important because it is fair
  
 Designing for everyone creates a better product
 
-
+Challenges:
+Retrofit accessibilty - moving towards default, but it is a lot 
 
