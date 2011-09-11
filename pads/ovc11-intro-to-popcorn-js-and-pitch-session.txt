@@ -133,10 +133,12 @@ A: PopcornMaker has this feature...
 IDEAS: 
 - Geo Experiences
 - Crowd Source and Share (realtime)
+    collaborative experience
 - META Information ... 
     embed, build from, create with 
 - Education, Interactivity 
 - MultiSource Media Animation
+- Tagging Clips, Non-linear Experience
 
 github.com/webmademovies
 - Popcorn.js
@@ -145,5 +147,6 @@ github.com/webmademovies
 - Butter Cutter
 
 Coming Soon 
-- Popcorn.sequence / inte
+- Popcorn.sequence (to be integrated into PopcornMaker)
+
 
