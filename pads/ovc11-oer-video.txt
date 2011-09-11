@@ -82,6 +82,59 @@ Competition/Competing: http://kwissle.com/
 
 Licensing OER Content
 
+Instructors take pains to construct their material... related to UCB's no derivs.
 
+MIT Mission: content repository. They hope others will take it and make it useful. Institutional decision to use NC.
+
+MIT faculty -- saw people becoming rockstars via MITOCW, encouraged each other.
+
+90% or 100% of students who go to MIT have looked at OCW before applying
+
+Hewlett is requiring most open license for open materials they fund -- wondering why?
+
+If foundation is funding you -- they want the material to be of maximal usefulness. They want to allow improvements.
+
+Saylor: Interested in diff between BY and BY-NC. Following Hewlett's lead on CC-BY
+
+UCB: Wants to retain control... important to maintain context around material. 
+
+What's the most interesting use of your material that you've seen?
+
+MIT: Guy in Hati learned EE from our site and started building solar panels and grew it into a business
+
+This goes back to the idea of traditional education being replaced
+
+An org is working with Walmart to offer open edu courses to employees for management and professional development
+
+Licenses help users know how they can/can't use stuff
+
+
+Nuts & Bolts of Tools
+
+How to effectively evaluate tools vs. the cost of development, assessment, and implementation.
+-maintaining our ability to have a strategic vision for the future and  being open to new opportunities while being careful to be good stewards  of the programs and resources we are responsible for.
+
+Potential solutions:
+Engaging in/using open source software solutions
+-may not get exactly what you need, but might save some of the effort  you would have to expend if you are doing it all by yourself
+
+Software as a service
+-if based on open source software, can be very cost effective way to deliver services to your community
+
+Proprietary solutions
+-locked into business model and feature roadmap of the commercial entity
+-not customizable
+-costly
+
+What is a holistic approach to engage tools?
+Is the functionality of layered engage tools on top of video enough/too much?
+Where do we invest our time?
+What is the value of these deeper tools to the students?
+
+How can we do more with less?
+
+It's important to have a record of truth with regard to the assets and  metadata that you publish. As your catalog of content grows, it will be  harder and harder to maintain information manually. Having the canonical  record of truth allows you to implement machine processes for future  needs that are difficult to articulate in the present, but we know they  will be there.
+
+Wherever possible, stick to open standards.
 
 
