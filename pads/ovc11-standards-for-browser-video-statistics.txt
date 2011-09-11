@@ -15,6 +15,8 @@ Use cases:
 * adaptive bitrate switching
 * playback quality monitoring & dropped frames for measuring the user experience
 * network congestion monitoring & devices in specific areas
+* page visibility / tab visibility management
+* electricity consumption
 
 What metrics/statistics have the frameworks implemented:
 * Zach shows a table with the existing proprties as fimplemented by Firefox and Chrome, as well as the existing proposal and what other frameworks implement (Silverlight, Flash etc)
@@ -31,7 +33,7 @@ Discussion:
 * frames per second is a bad metric - what does it give you? maybe something like percentage of frames not displayed would be better? maybe measuring the accumulated time that a clock has been stopped/delayed?
 * there is an optimal playback quality; a counter that accumulates the lateness of frames can help, but then you cannot catch up with changes; you either need to define a window or be able to reset the counter to do useful measurements
 * you want to be able to separate out whether a frame latency comes from a network or a CPU issue
-* there are two main use cases: measure whether a user's experience is good and collect data to adapt the delivery to improve the user's experience
+* there are two main use cases: measure whether a user's experience is good after-the-fact and collect data to adapt the delivery to improve the user's experience in real-time
 
 What is missing from the current proposal?
 
