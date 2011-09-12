@@ -11,7 +11,7 @@ http://flattr.com/
 http://www.kickstarter.com/
 http://rockethub.com
 http://onlyonetv.com ["The Bitcoin Show" in 12 languages]
-http://bitcoinnavigator.com [Bitcoin Brick&Motor Locator]
+http://bitcoinnavigator.com [Bitcoin Brick & Motor Locator]
 http://bitsyn.com [NYC Bitcoin Consultancy]
 http://BitInstant.com [Instant Xfers for the Bitcoin Economy] 
 "coffee and power"
