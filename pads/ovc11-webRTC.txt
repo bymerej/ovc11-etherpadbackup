@@ -86,4 +86,8 @@ DISCUSSION
 Outcome:
 Create a break-out group to discuss use cases, signalling needs, metrics needs, error reporting needs for the mediaStream API
 
+Please review mediaStream API and send feedback to Mozilla:
+http://hg.mozilla.org/users/rocallahan_mozilla.com/specs/raw-file/tip/StreamProcessing/StreamProcessing.html
+
+
 
