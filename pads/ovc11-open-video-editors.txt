@@ -25,15 +25,15 @@ Shared format
 * Walking through a sample Pitivi xml file
 
 Pitivi overview: 
-* Gstreamer based ( widely supported ) 
+* Gstreamer based (widely supported) 
 * Gstreamer does not have an intermediate format. 
 * Disadvantage of intermediate format not all formats are seekable and work well in video editors. 
 * showing clip editing. 
 * effects do not yet have key framing. 
 * New "Gstreamer Editing Services" core coming in with improved performance
-** ( helps address the intermediate codec issues ) 
+** (helps address the intermediate codec issues) 
 
-Color space issues ( camare codecs locked up ) 
+Color space issues (camera codecs locked up) 
 * gstreamer full support for 4:4:4 color space representation. 
 * auto color correction undone by video editors like final cut.
 * Final cut pro has filters for camaras to normalize video content. 
