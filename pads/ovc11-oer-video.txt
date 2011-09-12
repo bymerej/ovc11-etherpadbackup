@@ -203,8 +203,30 @@ Find and integrate information on Best Practices: Specifics on what open means (
 
 OER Video Competition
 
-
-
+1. What do you see as the essential benefits or characteristics of OER that should be communicated in a short video? 
+ * free, as in beer
+ * accessibility
+ * adaptability
+ * modularity
+2. Big  picture, what do you think public education could look like 10 years  down the road if teachers, students and institutions adopt OER  (including leveraging open video)?
+ * more personalized, ie. boston tea party, diversity of resources to  choose from that cater to dif types of learning (result of lower barrier  to creation of that material)
+ * more diverse
+ * make teachers lives easier
+ * learning is everywhere (outside classroom)
+ * less classroom, distributed learning
+ * incompatibilities of license, confusion around fair use, is gone -  people are not threatened by using anything in an educational setting  (policy for education)
+ * students and teachers are aware that there is this exception for education
+ * better ways for teachers to collaborate across spectrum of teaching
+ * teachers' roles are as learning guides, facilitators. more strategic  about using our presenters/lecturers, but teachers are people who can  identify those people. information sorters.
+ * automatic that any public employee shares back the curriculum they make (in edu policy)
+   * and we have professional development to make that possible
+ * larger portion of public education would be about skills-based learning. dif models of assessment, dif professional tracks
+ * 
+ * connecting to openness aspects
+ * *elements of inclusive design, things are transferrable to other platforms and formats
+ * *copyright barriers abolished
+ * *frustration of current issues and situations, counterpoint to each (drag and drop easy)
+ * *ask people to illustrate real use cases
 
 
 
