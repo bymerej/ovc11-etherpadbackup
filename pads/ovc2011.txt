@@ -159,6 +159,8 @@ http://openvideoconference.org/notes/ovc11-vimeo-rights
 http://openvideoconference.org/notes/ovc11-visual-privacy-visual-anonymity
 http://openvideoconference.org/notes/ovc11-webm-testing-metrics-and-new-features
 http://openvideoconference.org/notes/ovc11-webRTC
+http://openvideoconference.org/notes/ovc11-content-protection
+
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
