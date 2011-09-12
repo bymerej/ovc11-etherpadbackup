@@ -93,7 +93,7 @@ The main task in korsakow is to SNUify
 SNUifying involves keywording your time-based media assets. 
 
 Origin of the name "Korsakow"...
-Having to do with the content of Florian's thesis, on alcohol consumption in Germany. One effect of esult of  in... loss of short-term memory, a compulsion to tell stories.
+Having to do with the content of Florian's thesis, on alcohol consumption in Germany. One effect of advanced alcoholism is loss of short-term memory, leading to a compulsion to tell stories. This is called the Korsakow Syndrome. 
 
 Basic Workflow: 
 
@@ -108,7 +108,7 @@ Michael Niggel maps out "Journey Under the Sea"
 http://flowingdata.com/wp-content/uploads/2009/08/CYO-2-Flowchart_8.pdf
 
 A Korsakow film is different than the choose-your-own-adventure model 
-- discouraging mapping out before
+- discouraging mapping out before (not rhizomatic);
 - think of it as a cloud "you're entering into a cloud"
 
 Go to the website for more info - 
