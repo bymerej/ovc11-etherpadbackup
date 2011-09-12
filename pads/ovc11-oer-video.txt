@@ -221,12 +221,21 @@ OER Video Competition
  * automatic that any public employee shares back the curriculum they make (in edu policy)
    * and we have professional development to make that possible
  * larger portion of public education would be about skills-based learning. dif models of assessment, dif professional tracks
- * 
- * connecting to openness aspects
- * *elements of inclusive design, things are transferrable to other platforms and formats
- * *copyright barriers abolished
- * *frustration of current issues and situations, counterpoint to each (drag and drop easy)
- * *ask people to illustrate real use cases
+specifically connecting to openness aspects
+ * elements of inclusive design, things are transferrable to other platforms and formats
+ * copyright barriers abolished
+ * frustration of current issues and situations, counterpoint to each (drag and drop easy)
+ * ask people to illustrate real use cases
+ * juxtaposition of images, lecture amid other resources
+3. Who are great high profile judges? Think big! (And broadly, e.g. film, video, education spheres, etc) Which persons and organizations are desirable to partner with for promotion and outreach? 
+ * questions for the contest runners
+   * who is the audience
+   * who do we want to convince
+   * what is it exactly that we're promoting (defining OER) - platform or philosophy?
+   * 
+ * have with the contest, a curriculum designed around how to create a video for the contest
+   * so groups and classes can do it as a classroom activity to create videos
+ * international foundations
 
 
 
