@@ -49,5 +49,7 @@ http://thomaslevine.com/piviti.xptv
 to bring forward to OVA as project - ernest [at] openvideoalliance.org - if there is a possibility to create a consortium for open video editor standards (see open document standart) - but also check what happens lightworks
 
 set up a mailinglist for FLOSS video editors
-set up a FLOSS video editors page @ open video alliance, or
+set up a FLOSS video editors page @ open video alliance [issues page], or within one of the following pages?:
+    http://openvideoalliance.org/issues/html5-standards/?l=en
+    http://openvideoalliance.org/issues/collaborative-video/?l=en
 
