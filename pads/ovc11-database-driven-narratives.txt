@@ -157,14 +157,14 @@ Korsakow Player
 2) A lot of help from JS
 3) A little help from jQuery, SWFAddress, SWFObject, Flex
 
-QUESTIONS:
+QUESTIONS FROM THE TEAM:
 
 - What if someone submitted code that we weren't sure about?
-- Considering making a transition to HTML5
+- Working on exporting to HTML5 (currently only exports to Flash Player)
 - In terms of scope:
 - sidestepping transcoding 
 - Perceptions: is Korsakow like iMovie? If I were a serious maker, why would I use it?
-- Korsakow is dynamic, database storytelling - so it's not suited to something like Flash? 
+- Korsakow is dynamic, database storytelling - Flash  does something else.
 
 Q: Questions about how keywods work ...     
 A: Keywords can be thematic, they can formal, it is up to the author
