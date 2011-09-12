@@ -188,6 +188,10 @@ w320 - 75 people
 MONDAY schedule plan
 http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
 
+MONDAY session notes
+http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
+
+
 ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
 ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
 ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
