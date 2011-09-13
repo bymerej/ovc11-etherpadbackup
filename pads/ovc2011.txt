@@ -8,6 +8,7 @@ http://openvideoconference.org/notes/ovc11-content-protection
 
 SESSION NOTES
 http://openvideoconference.org/notes/ovc11-showcase <---demos from the weekend
+http://openvideoconference.org/notes/
 
 http://openvideoconference.org/notes/ovc11-alternative-copyright-education
 http://openvideoconference.org/notes/ovc11-alternative-currencies
