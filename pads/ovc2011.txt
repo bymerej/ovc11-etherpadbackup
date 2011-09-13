@@ -3,6 +3,8 @@ http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
 
 MONDAY session notes
 http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
+http://openvideoconference.org/notes/ovc11-content-protection
+
 
 SESSION NOTES
 http://openvideoconference.org/notes/ovc11-showcase <---demos from the weekend
@@ -154,7 +156,6 @@ Brian Chirls - Seriously.js vs Rainbow
 
 
 
-
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 SATURDAY PRE-ASSIGNED ROOMS
@@ -176,5 +177,4 @@ w220 - 75 people
 w300 - 150 people
 w302 - 50 people
 w320 - 75 people
-
 
