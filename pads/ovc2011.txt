@@ -5,12 +5,13 @@ MONDAY session notes
 http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
 
 SESSION NOTES
-http://openetherpad.org/ovc11-showcase
+http://openvideoconference.org/notes/ovc11-showcase <---demos from the
+
 http://openvideoconference.org/notes/ovc11-alternative-copyright-education
 http://openvideoconference.org/notes/ovc11-alternative-currencies
 http://openvideoconference.org/notes/ovc11-connected-documentary
 http://openvideoconference.org/notes/ovc11-database-driven-narratives
-http://openetherpad.org/ovc2011-data-caps
+http://openvideoconference.org/notes/ovc2011-data-caps
 http://openvideoconference.org/notes/ovc11-defensive-patent-license
 http://openvideoconference.org/notes/ovc11-designing-a-next-generation-tv-interface 
 http://openvideoconference.org/notes/ovc11-designing-storyworlds 
