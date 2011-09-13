@@ -47,7 +47,6 @@ http://openvideoconference.org/notes/ovc11-webm-testing-metrics-and-new-features
 http://openvideoconference.org/notes/ovc11-webRTC
 http://openvideoconference.org/notes/ovc11-content-protection
 
-
 ===OPEN SPACE===
 
 Want to hack on a project, or meet with a future collaborator? Want to present your work in an ad-hoc session? Or just hang out and watch funny cat videos?
@@ -178,22 +177,4 @@ w300 - 150 people
 w302 - 50 people
 w320 - 75 people
 
-
-
-
-░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
-░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
-░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
-░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░
-░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░
-█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█
-█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
-░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░
-░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░
-░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░
-░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░
-░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░
-░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░
-░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░
-░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
 
