@@ -1,3 +1,53 @@
+MONDAY schedule plan
+http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
+
+MONDAY session notes
+http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
+
+SESSION NOTES
+http://openetherpad.org/ovc2011-data-caps
+http://openetherpad.org/ovc11-showcase
+
+
+http://openvideoconference.org/notes/ovc11-alternative-copyright-education
+http://openvideoconference.org/notes/ovc11-alternative-currencies
+http://openvideoconference.org/notes/ovc11-connected-documentary
+http://openvideoconference.org/notes/ovc11-database-driven-narratives
+http://openvideoconference.org/notes/ovc11-defensive-patent-license
+http://openvideoconference.org/notes/ovc11-designing-a-next-generation-tv-interface 
+http://openvideoconference.org/notes/ovc11-designing-storyworlds 
+http://openvideoconference.org/notes/ovc11-device-inputs-av-in-the-browser
+http://openvideoconference.org/notes/ovc11-dmca-automation 
+http://openvideoconference.org/notes/ovc11-fun-with-webgl
+http://openvideoconference.org/notes/ovc11-intro-to-popcorn-js-and-pitch-session
+http://openvideoconference.org/notes/ovc11-is-the-web-safe-for-expression
+http://openvideoconference.org/notes/ovc11-making-remix-maker
+http://openvideoconference.org/notes/ovc11-making-the-map
+http://openvideoconference.org/notes/ovc11-many-faces-of-open
+http://openvideoconference.org/notes/ovc11-mobile-content-neutrality
+http://openvideoconference.org/notes/ovc11-oer-video
+http://openvideoconference.org/notes/ovc11-open-media-developers-plenary
+http://openvideoconference.org/notes/ovc11-open-video-editors
+http://openvideoconference.org/notes/ovc11-oral-history-best-practices
+http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
+http://openvideoconference.org/notes/ovc11-popcorn-js-plugin-sprint
+http://openvideoconference.org/notes/ovc11-roll-your-own-video-cms
+http://openvideoconference.org/notes/ovc11-scalable-html5-players
+http://openvideoconference.org/notes/ovc11-securesmartcam
+http://openvideoconference.org/notes/ovc11-standards-for-browser-video-statistics
+http://openvideoconference.org/notes/ovc11-standards-for-http-adaptive-streaming
+http://openvideoconference.org/notes/ovc11-standards-for-video-accessibility
+http://openvideoconference.org/notes/ovc11-the-missing-link-flash-html5
+http://openvideoconference.org/notes/ovc11-the-rebecca-black-story
+http://openvideoconference.org/notes/ovc11-using-open-source-in-commercial-context
+http://openvideoconference.org/notes/ovc11-validating-verifying-citizen-video
+http://openvideoconference.org/notes/ovc11-video-archives
+http://openvideoconference.org/notes/ovc11-vimeo-rights
+http://openvideoconference.org/notes/ovc11-visual-privacy-visual-anonymity
+http://openvideoconference.org/notes/ovc11-webm-testing-metrics-and-new-features
+http://openvideoconference.org/notes/ovc11-webRTC
+http://openvideoconference.org/notes/ovc11-content-protection
+
 ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
 ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
 ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
@@ -119,48 +169,7 @@ Brian Chirls - Seriously.js vs Rainbow
 /ppl
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
-SESSION NOTES
-http://openetherpad.org/ovc2011-data-caps
-http://openetherpad.org/ovc11-showcase
 
-http://openvideoconference.org/notes/ovc11-alternative-copyright-education
-http://openvideoconference.org/notes/ovc11-alternative-currencies
-http://openvideoconference.org/notes/ovc11-connected-documentary
-http://openvideoconference.org/notes/ovc11-database-driven-narratives
-http://openvideoconference.org/notes/ovc11-defensive-patent-license
-http://openvideoconference.org/notes/ovc11-designing-a-next-generation-tv-interface 
-http://openvideoconference.org/notes/ovc11-designing-storyworlds 
-http://openvideoconference.org/notes/ovc11-device-inputs-av-in-the-browser
-http://openvideoconference.org/notes/ovc11-dmca-automation 
-http://openvideoconference.org/notes/ovc11-fun-with-webgl
-http://openvideoconference.org/notes/ovc11-intro-to-popcorn-js-and-pitch-session
-http://openvideoconference.org/notes/ovc11-is-the-web-safe-for-expression
-http://openvideoconference.org/notes/ovc11-making-remix-maker
-http://openvideoconference.org/notes/ovc11-making-the-map
-http://openvideoconference.org/notes/ovc11-many-faces-of-open
-http://openvideoconference.org/notes/ovc11-mobile-content-neutrality
-http://openvideoconference.org/notes/ovc11-oer-video
-http://openvideoconference.org/notes/ovc11-open-media-developers-plenary
-http://openvideoconference.org/notes/ovc11-open-video-editors
-http://openvideoconference.org/notes/ovc11-oral-history-best-practices
-http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
-http://openvideoconference.org/notes/ovc11-popcorn-js-plugin-sprint
-http://openvideoconference.org/notes/ovc11-roll-your-own-video-cms
-http://openvideoconference.org/notes/ovc11-scalable-html5-players
-http://openvideoconference.org/notes/ovc11-securesmartcam
-http://openvideoconference.org/notes/ovc11-standards-for-browser-video-statistics
-http://openvideoconference.org/notes/ovc11-standards-for-http-adaptive-streaming
-http://openvideoconference.org/notes/ovc11-standards-for-video-accessibility
-http://openvideoconference.org/notes/ovc11-the-missing-link-flash-html5
-http://openvideoconference.org/notes/ovc11-the-rebecca-black-story
-http://openvideoconference.org/notes/ovc11-using-open-source-in-commercial-context
-http://openvideoconference.org/notes/ovc11-validating-verifying-citizen-video
-http://openvideoconference.org/notes/ovc11-video-archives
-http://openvideoconference.org/notes/ovc11-vimeo-rights
-http://openvideoconference.org/notes/ovc11-visual-privacy-visual-anonymity
-http://openvideoconference.org/notes/ovc11-webm-testing-metrics-and-new-features
-http://openvideoconference.org/notes/ovc11-webRTC
-http://openvideoconference.org/notes/ovc11-content-protection
 
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
@@ -185,11 +194,7 @@ w300 - 150 people
 w302 - 50 people
 w320 - 75 people
 
-MONDAY schedule plan
-http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
 
-MONDAY session notes
-http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
 
 
 ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
