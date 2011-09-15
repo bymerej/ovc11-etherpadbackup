@@ -41,7 +41,7 @@ http://openvideoconference.org/notes/ovc11-securesmartcam
 http://openvideoconference.org/notes/ovc11-standards-for-browser-video-statistics
 http://openvideoconference.org/notes/ovc11-standards-for-http-adaptive-streaming
 http://openvideoconference.org/notes/ovc11-standards-for-video-accessibility
-http://openvideoconference.org/notes/ovc11-the-missing-link-flash-habout Flash antml5
+http://openvideoconference.org/notes/ovc11-the-missing-link-flash-and-html5
 http://openvideoconference.org/notes/ovc11-the-rebecca-black-story
 http://openvideoconference.org/notes/ovc11-using-open-source-in-commercial-context
 http://openvideoconference.org/notes/ovc11-validating-verifying-citizen-video
