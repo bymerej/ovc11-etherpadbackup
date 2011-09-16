@@ -1,0 +1,108 @@
+Key questions/challenges:
+
+Sarah - Perpetrator shot video appeared to be evidence of abuses in Sri Lanka (mobile video of extrajudicial killings)...illicited public outrage and led to UN investigation. But perpetrators also becoming increasingly sophisticated in how they counter such allegations. Requires new tools, training to be able to bridge the knowledge gap. Highlights importance of identifying other methods, less resource intensive, more accessible.
+
+Bradley - B'Tselem case of demonstrator´s death - ballistics information, aerial maps, photos post facto, a lot of documentation from day of the protest, syncing video from different vantage points, mapping trajectory of missile
+
+Forensic architectural analysis.  demonstrator killed by a gas canister round fired directly at victim.  Legal question as to whether laws were broken with regard to the soldier's firing orders.
+
+ * http://www.fastcodesign.com/1661965/architects-use-3-d-tools-to-uncover-a-murder
+
+Possibilties of leveraging this kind of evidence in a legal setting but also in advocacy
+
+David - Storyful - a news agency built for the social media age. Mediates/curates citizen/user created media for major news outlets to disseminate.
+Clients are major news agencies who want to know three things
+ * What content is out there
+ * What content is verified/accurate
+ * How the content fits into the larger story
+
+Example of unverified violent video from Syria, apparently showed execution of protester.
+Here's how Storyful verified within a few hours to guide news publishers
+ * The human algorithm
+   * that video {{http://storyful.com/stories/1000007681}} originally showed up on Facebook
+     * shot by the soldier themselves, had to investigate, how did it get onto facebook if a soldier shot it
+       * Did a soldier sell the video for someone else to post? (it happens)
+ * Forensic process
+     * What kind of weapons did the video show
+     * What accents did soldiers speak with, how does the street look, does the weather match
+       * They matched buildings with Google Earth images to verify location was Homs, Syria
+
+Example of video doctored by Syrian government
+ * Storyful advised not to use video, match river on Google maps, was dryer.
+
+Example of Ivory Coast video
+
+Issues:
+1. video take-downs almost automatically - we do not know why, perhaps because of graphic images. Crucial that it is preserved if taken down from social media platforms. (Storyful does this)
+2. counter narratives to explain context of videos - disparity between Syrian authorities version and opposition groups (or international advocates/media who sometimes assume version of events before verification) -- verification is helped by increased contact via social networks with people on the ground in Syria, Ivory Coast, &c., contacts that traditional journalism doesn't immediately identify or value (large part of Storyful's verification is social networking awareness) i.e. what David calls the human algorithm
+3. Storyful needs corroborating evidence that a video is not only real but that it is relevant NOW as news content i.e. that it is in fact what it appears to be, and is showing what is purported 
+4. This can happen in real-time more easily than weeks or months afterwards - see more journalists and human rights activists working together to corroborate, sharing information and helping both sides of the argument.
+
+Harlo-(Guardian Project) -- adding metadata to video
+ * Challenges - Verifying the source
+   * collaboration between press, content distributers, human rights groups
+     * takes a LOT of work, a privilege that is difficult to afford
+
+Key challenge is how much expertise is required simply to verify one video - as more and more content online there is a need to identify alternative ways of verification, or streamlining processes/data itself
+
+ * Contemporary Metadata Schematics
+   * Dublin Core, Internet Archive, SMIL, PBCore, HTML5
+     * PROS - interoperable. "future proof"
+     * CONS - metadata is easy to wipe, it's not "sticky"
+       * fails the "Daubert" test for admissibility of technical analysis as expert witness evidence in US -- http://en.wikipedia.org/wiki/Daubert_standard
+ * Future Metadata standards
+   * ??system from John Hopkins??
+   * Smartphones
+     * i.e. "Color" app http://www.color.com/ takes geolocation, light sensor, with whom, social context, ties into social graph
+     * Viewdle, API for facial recognition. Images themselves have biometric data.
+
+"We shouldn't think ourselves as victimized by this, we should figure out how to take advantage of it"
+
+Informa Metadata Schematic
+ * Intent - ownership, sharing, context
+ * Consent 
+ * Genealogy - kind of like tracking provenance (who's the owner, whose image is it, chain of permission and preference)
+ * Data
+
+Packaging Metadata
+ * JSON vs XML
+
+Watermark as storage Vecor
+ * would it pass the Daubert test?
+ * infungible part of image, robust technological object
+
+Tech challenges of preserving watermark during encoding process
+
+Creating more of an interdisciplinary approach to work on tech and human rights
+
+Packaging these tools - is there a way to easily plug in 
+ * EXIF data can be easily manipulated without rooting Android
+
+What progress can be made by technology development community and human rights community to facilitate the work of Storyful (or more widely to verify citizen media in real-time for news or human rights)?
+David @Storyful - from a journalism perspective, if you're not concerned about anonymity, it's incredibly frustrating to be unable to verify fake facebook/youtube accounts
+Sifting through vast sea of citizen media online to be able to identify the news worthy videos/content that are worth looking at - "sorting the news from the noise" (proliferation of fake content)
+Speed and real-time are ESSENTIAL - need to live and breathe the social web in real-time - essential information, content, contacts (and potentially evidence). Human rights community is behind on this. You have to capture the human algorithm while it exists - it won´t be there several months (let alone years) later when trying to put together a case.
+
+How to increase evidentiary value of citizen recordings?
+Different/evolving legal standards for recordings made by soldiers in combat zones? Standards of admissibility, standards for verification? With more frequent videos shot by perpetrators are there ways to use software verification tools to determine gov/police video?
+    * Bradley: forensic analysis used in testimony at International Criminal Tribunal for the Former Yugoslavia; difficult to get forensic analysis admitted under that court's (complex, obscure) standards (more traditional standards which probably do not anticipate the technical specifics of something like metadata or spatial reconstructions, although this is a guess) 
+
+What progress can be made by technology development community or human rights community to facilitate the work of Storyful?
+
+In advance of the session here are the session leader bios:
+
+Session Leader BIOS: Validating and Verifying Citizen Video Panel
+ 
+David Clinch is the former Senior International Editor and Social Media expert for CNN. He is the Editorial Director of Storyful.com and Founder of Clinch Media.
+ 
+Sam Gregory helps people use the power of the moving image to create change. He is the Program Director at the human rights organization WITNESS (www.witness.org), where he supervises initiatives that partner on impactful campaigns with grassroots activists using video, and train and support the growing number of video activists to use video safely, effectively and ethically. Within WITNESS ‘Cameras Everywhere’ Leadership Initiative he identifies solutions to the challenges, and ways to capitalize on the opportunities, presented by increasingly ubiquitous video for human rights. Sam has created training tools and programs including the WITNESS Video Advocacy Institute, was lead editor on ‘Video for Change’ (Pluto Press, 2005) and teaches ‘Human Rights Advocacy Using Video and Related Multimedia’ as an Adjunct Lecturer at the Harvard Kennedy School. Sam graduated from the University of Oxford and completed a Masters in Public Policy as a Kennedy Memorial Scholar at Harvard.    
+ 
+Sarah Knuckey is the Director, Project on Extrajudicial Executions, New York University. She has worked with non-governmental and international organisations in Australia, Nepal, Papua New Guinea, Cambodia, the UK and the USA, leading human rights fact-finding missions, reporting on human rights violations and providing humanitarian and human rights legal and policy advice. Her work has addressed a range of humanitarian and human rights concerns, including refugee rights and detention, indigenous rights, counter-terrorism, torture, rape, the right to life, forced relocation, and the liability of transnational corporations and other non-state actors for human rights abuses. Previously, she was a Clerk to the Hon Justice Michael Kirby at the High Court of Australia, Fulbright Postgraduate Scholar, Lionel Murphy Postgraduate Scholar, Harvard Human Rights Program Summer Fellow, and Everett Public Interest Internship recipient (at Human Rights Watch). She has a BA and LLB (Hons) (University of Western Australia), an LLM (Harvard), and is currently a PhD candidate (University of London).
+ 
+Bradley Samuels is one of Situ Studio's five founding members. He holds a B.A. from Vassar College in Art History and a B.Arch from the Cooper Union School of Architecture. Concentrating on research, design and fabrication, Situ Studio utilizes emerging technologies at the intersection of architecture and a variety of other disciplines.  Recent projects include the reOrder installation in the Brooklyn Museum's Great Hall and the design and fabrication of six analytical models for the Guggenheim Museum’s exhibition Frank Lloyd Wright: From Within Outward. 
+
+Situ Studio is currently working with Eyal Weizman, Director of the Centre for Research Architecture at Goldsmiths, University of London and Thomas Keenan, Director of the Human Rights Project at Bard College on a project titled: Forensic Architecture. Proceeding with a series of case studies, this project explores roles for emerging tools of spatial analysis and visualization in Human Rights cases and International law. This work is supported by a grant from the European Research Council. 
+ 
+Harlo Holmes is a mobile developer and media scholar, who currently hacks for the Guardian Project. Harlo holds a BA in Comparative Literature from Oberlin College and an MA from New York University's Media, Culture and Communication program.  Her research interests include: media steganography, technological infrastructures of the public sphere, and the sociopolitical foundations of digital codices and metadata schematics.  Please tweet @harlo.
+ 
+
