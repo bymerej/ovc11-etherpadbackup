@@ -1,0 +1,256 @@
+Video and Open Educational Resources
+
+Session Type: Working Group (Invite-Only)
+Time: 1:30-4:30, Saturday and Sunday
+
+pre-session planning document: http://openetherpad.org/videooer
+
+Goals
+ * Build relationships between key players in the open education community working with or interested in using video
+ * Identify challenges and gaps in the open education landscape with regard to video
+ * Identify potential opportunities and collaborations
+ * Identify principles, values and standards for this field
+ * Share experiences and brainstorm innovative strategies
+ * Cross pollinate ideas between different areas within this community, such as higher education, public media, secondary education, youth empowerment, online learning and digital literacy
+ * Achieve consensus on one or two technical/design challenges/gaps in the field that are the most pressing, to be addressed at the Mozilla Drumbeat Festival in November
+
+
+Big Ideas/ Planned Collaborations
+
+Principles/Standards
+
+Resources and Links
+
+Projects and Platforms
+
+Open Courseware
+ * MIT OpenCourseWare: http://ocw.mit.edu/index.htm
+ * Open.Michigan: http://open.umich.edu/
+ * webcast.berkeley http://webcast.berkeley.edu/
+ * Open Yale Courses http://oyc.yale.edu/
+ * Stanford Engineering Everywhere http://see.stanford.edu/
+ * 
+
+Other University OER Video Projects
+ * Stanford E-Corner http://ecorner.stanford.edu/
+ * New Media UFM http://newmedia.ufm.edu/
+
+Online Educational Video Projects (or projects making prominent use of video)
+ * Khan Academy http://www.khanacademy.org/
+ * YouTube Education http://www.youtube.com/education
+ * iTunes U http://www.apple.com/education/itunes-u/whats-on.html
+ * TED http://www.ted.com/
+ * Wikimedia: http://commons.wikimedia.org/wiki/Category:Videos and http://www.wikiversity.org/
+ * Big Think http://bigthink.com/
+ * Academic Earth http://academicearth.org/
+ * Sookmyung Network for an Open World http://www.snow.or.kr/
+ * Udemy http://www.udemy.com/
+
+
+
+(the organization of this session is inspired by Aspiration Tech's Facilitation Model - http://facilitation.aspirationtech.org/index.php?title=Main_Page)
+
+Engagement Online: What works for learning?
+
+Demo/example: hyper-audio.org/r/
+ popcorn.js based - synced audio and video with a raining transcript
+ text color changes based on who is speaking
+ interactive transcript that allows users to jump to specific content
+
+Demo/example: student created videos, which are a remix of http://www.rebelliouspixels.com/semanticremix/, with different videos
+
+Mediathread.ccnmtl.columbia.edu: 
+looking for partners - happy to setup demo accounts.
+
+Noticing self-organizing groups. ex; skillshare startup
+How can video be best harnessed to engage people within a colloboration
+
+overlay video feeds of people watching (live) an openvideo lecture so that it turns watching an openvideo into a community activity. Can see other people raise hands, etc.
+
+Question: how do you ensure diversity within online learning communities? 
+
+newmedia.ufm.edu/gsm
+Nice video clipping and sharing options
+
+pbskids.org
+Forces user interaction with linear video - play along 
+
+pbskids.org/electriccompany
+smashup tools - create and watch video smashups
+
+Competition/Competing: http://kwissle.com/
+
+Licensing OER Content
+
+Instructors take pains to construct their material... related to UCB's no derivs.
+
+MIT Mission: content repository. They hope others will take it and make it useful. Institutional decision to use NC.
+
+MIT faculty -- saw people becoming rockstars via MITOCW, encouraged each other.
+
+90% or 100% of students who go to MIT have looked at OCW before applying
+
+Hewlett is requiring most open license for open materials they fund -- wondering why?
+
+If foundation is funding you -- they want the material to be of maximal usefulness. They want to allow improvements.
+
+Saylor: Interested in diff between BY and BY-NC. Following Hewlett's lead on CC-BY
+
+UCB: Wants to retain control... important to maintain context around material. 
+
+What's the most interesting use of your material that you've seen?
+
+MIT: Guy in Hati learned EE from our site and started building solar panels and grew it into a business
+
+This goes back to the idea of traditional education being replaced
+
+An org is working with Walmart to offer open edu courses to employees for management and professional development
+
+Licenses help users know how they can/can't use stuff
+
+
+Nuts & Bolts of Tools
+
+How to effectively evaluate tools vs. the cost of development, assessment, and implementation.
+-maintaining our ability to have a strategic vision for the future and  being open to new opportunities while being careful to be good stewards  of the programs and resources we are responsible for.
+
+Potential solutions:
+Engaging in/using open source software solutions
+-may not get exactly what you need, but might save some of the effort  you would have to expend if you are doing it all by yourself
+
+Software as a service
+-if based on open source software, can be very cost effective way to deliver services to your community
+
+Proprietary solutions
+-locked into business model and feature roadmap of the commercial entity
+-not customizable
+-costly
+
+What is a holistic approach to engage tools?
+Is the functionality of layered engage tools on top of video enough/too much?
+Where do we invest our time?
+What is the value of these deeper tools to the students?
+
+How can we do more with less?
+
+It's important to have a record of truth with regard to the assets and  metadata that you publish. As your catalog of content grows, it will be  harder and harder to maintain information manually. Having the canonical  record of truth allows you to implement machine processes for future  needs that are difficult to articulate in the present, but we know they  will be there.
+
+Wherever possible, stick to open standards.
+
+Inclusive Design
+
+Accessibility is about equitable access to the materials and content that is produced or published
+ 
+Equitable access is important because it is fair
+ 
+Designing for everyone creates a better product
+
+Challenges:
+Retrofit accessibilty - moving towards default, but it is a lot expect from original creator of content
+
+value and impact of accessibility for OER
+
+Personas for OER users
+who - personality, set of goals
+where/when - they are doing their learning
+how - what are the teaching methods, collaborative or independant
+What - we design as OER for curricula
+
+Bessy, lives in a rural area of US/Canada with no highspeed or broadband access - she only has a land line telephone and a library that is an hour away.
+Retirement age - 65 yr old
+independent/lifelong learner
+interested in learning gardening - hosting a wedding at her yard, so she wants to get her yard in tip top shape
+
+Bessy is avid patron of her local library
+
+she heard about the libraries new services that are made possible by their growing OER collection
+
+voice enabled access to an OER textbook with a touchtone phone - this would have features like rewind, pause, fast forward, or play at 2x the speed.
+
+content on demand in a DVD - filled with  audio and video content - chosen by calling into the library - placing a  unique order for content - then the library could access its oer library and create a customized resource for her.
+
+Library also offers space and facilitates communities that build their curriculum around open educational resources. so that the resources can be adapted and distributed, depending on the interests and abilities of the group's participants.
+
+have it read to you over the phone
+have it printed out
+send mix tape of OER audio
+
+facilitated learning meet up network
+
+express interest via phone number - then if enough people call in with an interest, then they build a meeting around it.
+
+downloadable part is a curriculum that maps the resources that are available in the area - an OER about OER
+
+Who: Shakir from Ghana -- 34 yo professor 
+
+When: 10:15am, 1 computer in classroom, limited access
+
+What: HTML 5 app that provides a spectrum of options. User downloads an independently runnable package (html, runs in browser) that contains media types appropriate to the user's bandwidth. For instance, someone could get a basic text transcript and have comments/annotations embedded into it in a nicely presented way. They could also opt to add slides or images that are time aligned, or go further up spectrum to add audio or video to the package.
+
+
+Importance of OER
+
+Free - dont have to pay for it
+Free accessability
+free and publicly available element that can be reused, adapted, remixed
+seperability 
+
+do we need an additive term for open licenses?
+
+Michigan OER: Use
+
+Find and integrate information on Best Practices: Specifics on what open means (different layers: legal, tech, etc). What the choices mean in context of education -- vastly expanded in some interactive form. A FAQ to help navigate choices. Provide inspiring case studies (the hook), examples, benefits, incentives of what different choices they make during the process will outcome. 
+
+OER Video Competition
+
+1. What do you see as the essential benefits or characteristics of OER that should be communicated in a short video? 
+ * free, as in beer
+ * accessibility
+ * adaptability
+ * modularity
+2. Big  picture, what do you think public education could look like 10 years  down the road if teachers, students and institutions adopt OER  (including leveraging open video)?
+ * more personalized, ie. boston tea party, diversity of resources to  choose from that cater to dif types of learning (result of lower barrier  to creation of that material)
+ * more diverse
+ * make teachers lives easier
+ * learning is everywhere (outside classroom)
+ * less classroom, distributed learning
+ * incompatibilities of license, confusion around fair use, is gone -  people are not threatened by using anything in an educational setting  (policy for education)
+ * students and teachers are aware that there is this exception for education
+ * better ways for teachers to collaborate across spectrum of teaching
+ * teachers' roles are as learning guides, facilitators. more strategic  about using our presenters/lecturers, but teachers are people who can  identify those people. information sorters.
+ * automatic that any public employee shares back the curriculum they make (in edu policy)
+   * and we have professional development to make that possible
+ * larger portion of public education would be about skills-based learning. dif models of assessment, dif professional tracks
+specifically connecting to openness aspects
+ * elements of inclusive design, things are transferrable to other platforms and formats
+ * copyright barriers abolished
+ * frustration of current issues and situations, counterpoint to each (drag and drop easy)
+ * ask people to illustrate real use cases
+ * juxtaposition of images, lecture amid other resources
+3. Who are great high profile judges? Think big! (And broadly, e.g. film, video, education spheres, etc) Which persons and organizations are desirable to partner with for promotion and outreach? 
+ * questions for the contest runners
+   * who is the audience
+   * who do we want to convince
+   * what is it exactly that we're promoting (defining OER) - platform or philosophy?
+ * outreach ideas
+   * have with the contest, a curriculum designed around how to create a video for the contest so groups and classes can do it as a classroom activity to create videos
+   * trailer for contest
+ * outreach foundations/organzations
+   * international foundations
+   * gates, macarthur, hewlett, wikimedia, mozilla, skoll, khan, ocwc, networkchannel.org, p2pu, universities, global org's, youth media ed org's
+ * judges
+   * matt damon
+   * jimmy wales
+   * bill gates
+   * cathy davidson
+   * howard rhein
+   * marissa mayer
+   * ken burns or filmy types
+   * george lucas
+   * davis guggenheim
+   * jesse dylan
+   * astrid taylor
+   * lessig
+
+
+
