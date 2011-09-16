@@ -5,6 +5,8 @@ http://cl1p.net/ovcsession
 http://firecoin.com
 http://bitcoin.org/
 http://en.wikipedia.org/wiki/Bitcoin
+https://mtgox.com/ [Leading Bitcoin Exchange]
+http://bitcoin.it/ [Bitcoin Wiki]
 https://btc.io/
 http://vodo.net/
 http://flattr.com/
@@ -21,7 +23,7 @@ http://media.ccc.de/browse/conferences/camp2011/cccamp11-4450-imagine_the_future
 
 http://pixomania.net/money/firecoin
 https://www.bitinstant.com/
-https://mtgox.com/
+
 
 Solution to Jay's problem of coins stored on boxen (e.g. phones) where the coin owner doesn't have root: store your coins on your freedombox. run your bitcoin client on your freedombox. run an app (maybe a webapp) on the freedombox that allows something on another box to manipulate some coins. (maybe with rate limits)
 http://en.wikipedia.org/wiki/FreedomBox
