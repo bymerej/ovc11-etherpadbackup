@@ -1,0 +1,83 @@
+Using Open Source Video Software in a Commercial Context
+Session Type:
+Discussion
+Session Category:
+Technical, business
+Session Leader:
+Jon Dahl, Zencode
+Room: W303
+Time: 10:30am – 12:00pm
+Session Notes
+Session NotesDescription
+The best software for working with video is open source. Companies everywhere, large and small, are building on open source software like ffmpeg and x264. But too many companies make mistakes when dealing with open source software, like violating software licenses or misunderstanding how open source projects and communities work. So how can businesses and open source video projects not just coexist, but help each other flourish?
+Outcome
+An understanding and appreciation of using FOSS building blocks in a commercial video context
+
+Discussion Topics
+
+Developer/Corporate Relations
+- MediaEncoder heated discussion example
+- EFF & Free Software foundation will advocate for developers in legal situations
+
+Licensing (I am not a lawyer)
+- Open source vs. Free Software
+    - If you don't provide a license with code, it's assumed to be restrictive
+- Copyright vs. Copyleft
+    - Copy left encourages distribution and discourages restriction
+    - Strong copy left - anything that touches it also has to be unrestricted
+    Strong C-left: GPL (ex. Linux. Have to publish anything that touches it)
+    Weak C-left: LGPL, Mozilla (have to publish changes/patches)
+    Not restrictive: MIT, BSD, Apache (no requirement to publish)
+    "More liberal" == MIT, etc. (doesn't infect other software that touches it)
+GPL gets triggered when you distribute. Gray area if you're doing SaaS, but most people assume you're free to do what you want.
+Affero GPL (AGPL) addresses this. If you use it in a SaaS model you have to contribute back.
+Not a lot of organizations will choose to use AGPL.
+Dual license, Commerical & AGPL. If you're not free-softare, pay me money (Zed Shaw note, Kaltura).
+
+Can businesses embrace Free Software?
+- iPhone vs. Android (will be interested to see who wins)
+- OSMF (Adobe) licensing is unclear so difficult for lawyers
+
+Benefits of choosing to be Open vs. Closed
+
+Open
+-------
+Lower development costs (if you can make a community)
+Easier Adoption
+Disadvantage: Might be giving people tools they can't use and creating a support burden
+Good Will
+Innovation
+
+Closed
+----------
+Less (? sorry, missed it)
+Building community isn't easy
+IP
+Not giving away your competitive advantage
+Ambiguity
+
+Commercializing Open Source Software
+Services/Support (Redhat, Drupal)
+Open + SaaS (Wordpress)
+Dual Licensing
+Add-ons/App Store (Android) 70/30 rev split
+Advertising
+Drive to other revenue. Promoting other revenue generating products
+Open + Closed
+Freemium (MySQL)
+Brand use criterea (Rails, Mozilla)
+
+Five Suggestions (if using open source software)
+- Don't try to hide it (powerd by apache)
+- Donate to open source projects (might be paypal-ing $ to a dev)
+    - Check out BitCoin if you're an open source dev.
+    - Could donate through pledging $ for X feature to be developed
+- Contribute back
+- Join the community (IRC, mailinglists, forums)
+    - Learn how to communicate there
+- Follow the licencse
+
+For Open source Devs
+- Provide easy ways for people to contribute
+
+
