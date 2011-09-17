@@ -10,11 +10,11 @@ Post Conf. Momentum
 http://openvideoconference.org/notes/ovc11-showcase <---demos from the weekend
 
 
-
 SESSION NOTES
 http://openvideoconference.org/notes/ovc11-alternative-copyright-education
 http://openvideoconference.org/notes/ovc11-alternative-currencies
 http://openvideoconference.org/notes/ovc11-connected-documentary
+http://openvideoconference.org/notes/ovc11-content-protection
 http://openvideoconference.org/notes/ovc11-database-driven-narratives
 http://openvideoconference.org/notes/ovc2011-data-caps
 http://openvideoconference.org/notes/ovc11-defensive-patent-license
@@ -50,7 +50,7 @@ http://openvideoconference.org/notes/ovc11-vimeo-rights
 http://openvideoconference.org/notes/ovc11-visual-privacy-visual-anonymity
 http://openvideoconference.org/notes/ovc11-webm-testing-metrics-and-new-features
 http://openvideoconference.org/notes/ovc11-webRTC
-http://openvideoconference.org/notes/ovc11-content-protection
+
 
 ===OPEN SPACE===
 
