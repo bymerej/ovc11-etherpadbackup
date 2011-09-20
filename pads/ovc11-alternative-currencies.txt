@@ -15,6 +15,7 @@ http://rockethub.com
 http://onlyonetv.com ["The Bitcoin Show" in 12 languages]
 http://bitcoinnavigator.com [Bitcoin Brick & Motor Locator]
 http://bitsyn.com [NYC Bitcoin Consultancy]
+http://freecoin.ch/
 http://BitInstant.com [Instant Xfers for the Bitcoin Economy] 
 "coffee and power"
 
