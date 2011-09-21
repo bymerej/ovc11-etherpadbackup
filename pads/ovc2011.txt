@@ -42,7 +42,7 @@ http://openvideoconference.org/notes/ovc11-standards-for-browser-video-statistic
 http://openvideoconference.org/notes/ovc11-standards-for-http-adaptive-streaming
 http://openvideoconference.org/notes/ovc11-standards-for-video-accessibility
 http://openvideoconference.org/notes/ovc11-the-missing-link-flash-html5
-http://openvideoconference.org/notes/ovc11-the-rebecca-`-story
+http://openvideoconference.org/notes/ovc11-the-rebecca-black-story
 http://openvideoconference.org/notes/ovc11-using-open-source-in-commercial-context
 http://openvideoconference.org/notes/ovc11-validating-verifying-citizen-video
 http://openvideoconference.org/notes/ovc11-video-archives
