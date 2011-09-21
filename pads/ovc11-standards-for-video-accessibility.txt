@@ -27,7 +27,7 @@ Discussion topics:
  * security considerations: CORS & same-origin; no cross-origin xml file like Flash?
  * events are great
  * voice tag: how to expose special styling? apply class to <v> tag
- * why have a "WEBVTT" magic string at the file start? file tle type identification
+ * why have a "WEBVTT" magic string at the file start? file type identification
  * WebVTT in WebM
  * Create tracks later: add <track> later or use MutableTextTrack
  * @srclang is not on audio or video, so missing for multitrack API
