@@ -2,7 +2,7 @@ Fun with WebGL
 
 Seriously.js
 Real-time video post-processing
-http://seriousep/pad/create?padId=lyjs.org
+http://seriouslyjs.org
 
 THREE.js
 Lightweight Javascript 3D engine "for dummies"
