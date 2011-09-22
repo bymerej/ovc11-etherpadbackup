@@ -1,0 +1,183 @@
+MONDAY schedule plan
+http://www.openmediadevelopers.org/pmwiki.php/Main/Schedule
+
+MONDAY session notes
+http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
+http://openvideoconference.org/notes/ovc11-content-protection
+
+
+Post Conf. Momentum
+http://openvideoconference.org/notes/ovc11-showcase <---demos from the weekend
+
+
+SESSION NOTES
+http://openvideoconference.org/notes/ovc11-alternative-copyright-education
+http://openvideoconference.org/notes/ovc11-alternative-currencies
+http://openvideoconference.org/notes/ovc11-connected-documentary
+http://openvideoconference.org/notes/ovc11-content-protection
+http://openvideoconference.org/notes/ovc11-database-driven-narratives
+http://openvideoconference.org/notes/ovc2011-data-caps
+http://openvideoconference.org/notes/ovc11-defensive-patent-license
+http://openvideoconference.org/notes/ovc11-designing-a-next-generation-tv-interface 
+http://openvideoconference.org/notes/ovc11-designing-storyworlds 
+http://openvideoconference.org/notes/ovc11-device-inputs-av-in-the-browser
+http://openvideoconference.org/notes/ovc11-dmca-automation 
+http://openvideoconference.org/notes/ovc11-fun-with-webgl
+http://openvideoconference.org/notes/ovc11-intro-to-popcorn-js-and-pitch-session
+http://openvideoconference.org/notes/ovc11-is-the-web-safe-for-expression
+http://openvideoconference.org/notes/ovc11-making-remix-maker
+http://openvideoconference.org/notes/ovc11-making-the-map
+http://openvideoconference.org/notes/ovc11-many-faces-of-open
+http://openvideoconference.org/notes/ovc11-mobile-content-neutrality
+http://openvideoconference.org/notes/ovc11-oer-video
+http://openvideoconference.org/notes/ovc11-open-media-developers-plenary
+http://openvideoconference.org/notes/ovc11-open-video-editors
+http://openvideoconference.org/notes/ovc11-oral-history-best-practices
+http://openvideoconference.org/notes/ovc11-playlist-and-gapless-playback
+http://openvideoconference.org/notes/ovc11-popcorn-js-plugin-sprint
+http://openvideoconference.org/notes/ovc11-roll-your-own-video-cms
+http://openvideoconference.org/notes/ovc11-scalable-html5-players
+http://openvideoconference.org/notes/ovc11-securesmartcam
+http://openvideoconference.org/notes/ovc11-standards-for-browser-video-statistics
+http://openvideoconference.org/notes/ovc11-standards-for-http-adaptive-streaming
+http://openvideoconference.org/notes/ovc11-standards-for-video-accessibility
+http://openvideoconference.org/notes/ovc11-the-missing-link-flash-html5
+http://openvideoconference.org/notes/ovc11-the-rebecca-black-story
+http://openvideoconference.org/notes/ovc11-using-open-source-in-commercial-context
+http://openvideoconference.org/notes/ovc11-validating-verifying-citizen-video
+http://openvideoconference.org/notes/ovc11-video-archives
+http://openvideoconference.org/notes/ovc11-vimeo-rights
+http://openvideoconference.org/notes/ovc11-visual-privacy-visual-anonymity
+http://openvideoconference.org/notes/ovc11-webm-testing-metrics-and-new-features
+http://openvideoconference.org/notes/ovc11-webRTC
+
+
+===OPEN SPACE===
+
+Want to hack on a project, or meet with a future collaborator? Want to present your work in an ad-hoc session? Or just hang out and watch funny cat videos?
+
+Mark your name here to reserve an open space. You can hold your own sessions or begin working on your own projects.
+
+Tweet #ovc11 to let people know what you're up to.
+
+===SUNDAY EVENING SHOWCASE==
+
+On Sunday evening it's open mic in the auditorium.
+
+If you'd like to share progress you've made over the weekend with OVC attendees, be sure to scroll to the bottom and sign up.
+
+****HELP US WITH NOTES HERE*** http://openetherpad.org/ovc11-showcase
+
+- Jonathan McIntosh, Bocoup, Kaltura etc. - The HTML5 Remix Maker Maker
+Brian Chirls - Seriously.js vs Rainbow
+- EdiTron // Team: Tom Stroll, Marine Boudeau, Tracey Jaquith (archive.org), Aphid (archive.org), Cole Gillespie. // Project URL: http://bit.ly/pop-ovc11 // About: Real Time and/or Hyperswipe Online Video Editor for Auto Synched Crowd Sourced Media. 
+- Going for a walk - Kate Hudson, Pippin Lee (openjournalism.ca)
+Jacob Quinn- knowyourecology.net
+- http://cubicvr.org/OVC3DQR/ :)
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+SATURDAY OPEN SPACE
+
+w301 - 150 people
+t
+Saturday 10:30—12:00 {UNCLAIMED}
+Saturday 12:00—1:30 Video Remixing Brainstorming Group
+Saturday 2:30—4:00 {UNCLAIMED}
+Saturday 4:00—5:30 {UNCLAIMED}
+
+w505 - 25 people
+
+Saturday 10:30—12:00 {UNCLAIMED}
+Saturday 12:00—1:30 {UNCLAIMED}
+Saturday 2:30—4:00 video & OER
+Saturday 4:00—5:30 {UNCLAIMED}
+
+wa11 - 25 people
+
+Saturday 10:30—12:00 {UNCLAIMED}
+Saturday 12:00—1:30 {UNCLAIMED}
+Saturday 2:30—4:00 {UNCLAIMED}
+Saturday 4:00—5:30 zixan (please add session name + short phrase description)
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+SUNDAY OPEN SPACE
+
+w301 - 150
+
+Sunday 11:30—1:00 {UNCLAIMED}
+Sunday 2:00—3:30 CLAIMED}
+Sunday 3:30—5:00 WebM: Testing, Metrics and New Features
+
+w303 - 25 people
+
+Sunday 11:30—1:00 {UNCLAIMED}
+Sunday 2:00—3:30 {UNCLAIMED}
+Sunday 3:30—5:00 {UNCLAIMED} 
+(Session moved to Popcorn Plugin Sprint 2:30pm rm w220-  @tomstroll)
+
+
+w403 - 25 people
+
+Sunday 11:30—1:00 {UNCLAIMED}
+Sunday 2:00—3:30 {UNCLAIMED}
+Sunday 3:30—5:00 {UNCLAIMED}
+
+w505 - 25 people
+
+Sunday 11:30—1:00 {UNCLAIMED}
+Sunday 2:00—3:30 {UNCLAIMED}
+Sunday 3:30—5:00 {UNCLAIMED}
+
+wa11 - 25 people
+
+Sunday 11:30—1:00 {UNCLAIMED}
+Sunday 2:00—3:30 {UNCLAIMED}
+Sunday 3:30—5:00 {UNCLAIMED}
+
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+SUNDAY EVENING SHOWCASE/OPEN-MIC
+
+Take 5 minutes to share your big idea, your new software prototype, or your video in progress.
+
+Anything goes.
+
+Sign up hee
+Krackaboo the Enzyme
+Tom: pap.io
+Rich: I can't make the session (gotta bus back to Boston), but I was inspired by Jillian York's talk yester to make ForkTube, a 'Fork' button for youtube. Work in progress screenshot: http://i.imgur.com/9Auwv.png Code: https://github.com/Miserlou/ForkTube (Ignore all ugly hacks!)
+Brian Chirls - Seriously.js vs Rainbow
+- Jonathan McIntosh, Bocoup, Kaltura etc. - The HTML5 Remix Maker Maker
+Brian Chirls - Seriously.js vs Rainbow
+- EdiTron // Team: Tom Stroll, Marine Boudeau, Tracey Jaquith (archive.org), Aphid (archive.org), Cole Gillespie. // Project URL: http://bit.ly/pop-ovc11 // About: Real Time and/or Hyperswipe Online Video Editor for Auto Synched Crowd Sourced Media.
+
+/ppl
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+SATURDAY PRE-ASSIGNED ROOMS
+
+wa10 - 50 people
+FC - 60 people
+w220 - 75 people
+w300 - 150 people
+w302 - 50 people
+w303 - 25 people
+w320 - 75 people
+w403 - 25 people
+
+SUNDAY PRE-ASSIGNED ROOMS
+
+wa10 - 50 people
+FC - 60 people
+w220 - 75 people
+w300 - 150 people
+w302 - 50 people
+w320 - 75 people
+

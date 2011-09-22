@@ -1,0 +1,87 @@
+Creating an Alternative Copyright Education 
+Session Leaders:
+ * Katie Baxter (NYLS Free Culture)
+ * Pat Aufderheide (American University Center for Social Media)
+   * Fair Use: Creating codes of best practices in fair use--a muscle (you use it or you lose it). This muscle is currently being under used.
+   * A link to the DMCA exemption for noncommercial remix video: http://transformativeworks.org/us-library-congress-grants-dmca-exemption-vidders
+   * Important in the struggle to expand freedom of speech to press on fair use issues in existing copyright law.
+   * No lack of bad information on fair use online--does more harm than good.
+ * Elisa Kreisinger (http://www.popculturepirate.com/)
+   * Fair Use Friend and Ally.
+   * Reclaiming ones identity from corporate commodification.
+   * Getting the proper education at critical moments when we're learning how to use media.
+   * Talking from the creator perspective.
+   * POWER BY NUMBERS. Use your Fair Use Muscle to make Fair Use Stronger.
+   * Fair use is free speech
+ * Karl Fogel (QuestionCopyright.Org)
+   * Copyright and free speech as in opposition with each other. 
+     * Quality of copyright discussion as very low, and creating ways to create an "fuller" discussion.
+     * Minute Memes: http://questioncopyright.org/minute_memes
+     * Addressing Right/Wrong v. Legal/Illegal in sharing culture w/o getting permission
+ * Richard Esguerra (Electronic Frontier Foundation)
+   * 2006- EFF caught whiff of CA passing a law mandating schools to teach copyright as part of their curriculum.
+   * Created a curriculum available @ http://teachingcopyright.org
+
+Canvasing the audience on what we want to achieve:
+ * Add a symmetry with how people understand copyright. 
+ * Correct misunderstandings on copyright (i.e. Fair Use)
+ * Understanding valid alternatives that are in practice.
+ * Listing new business models that help content creators who feel threatened by changes in copyright laws.
+ * Disentangle the business issues from the legal issues.
+ * Getting the education out to the public in general.
+ * Taking alternative copyright education from the genreal to the specifics of how to do very specific things.
+ * Address the best practices of fair use in a very specific way.
+ * Be able to direct people to one page that represents the status quo or at least the trends.
+
+Notes:
+ * Recognition of the right to commoditize one's work and the fact that people will use your work without permission. 
+ * Lawrence Lessig: "Fair Use is the right to hire a lawyer."
+   * He said this at a different era of fair use. Ordinary people should know their rights enough to exercise them. 
+ * EFF's beef with YouTube's Content ID, an automated system that doesn't know when something is fair use that will issue a warning to someone who may be engaging in something (normal to them and among their friends) that is completely okay.
+ * Intimidation tactics by the "big guys" discouraging knowledge and accurate understanding of fair use.
+   * What can change this trend?
+     * ENOUGH PEOPLE AND CONSTITUENCIES MAKING POLITICAL ACTION HAPPEN. Until people understand their rights, they won't be taking political action.
+ * Looking beyond the non-commercial context of fair use, and bringing it to a commercial context???
+   * Accepting donations or money for ones work does not diminish ones use of fair use.
+ * Catering education to the type of user.
+ * MIT OPEN COURSEWARE:
+   * Spearheading the creation of the code of best practices for fair use in open courseware. They have a lot of donate buttons and have not been sued yet. This could be a result of a fear of MIT's general counsel? 
+   * Code of Best Practices for Online Video: http://centerforsocialmedia.org/fair-use
+ * Living in Dream Land:
+   * If your youtube video gets taken down, there would be a set of tools where you can click check boxes claiming you had fair use. Have an interactive interface through which you can engage with the ways in which decisions are made. As it is now, little transparency.
+   * Again in fantasy land, you can also keep track of how many times fair use has been claimed and/or exercised.
+ * Even if you know your rights, it's scary.
+ * Link to the Lenz v. Universal EFF page: http://www.eff.org/cases/lenz-v-universal
+ * Moving away from morality and move toward how we can make it clear in a business environment that it's ultimately bad for business. Demonstrating the potential for creativity.
+ * A lot of people are afraid of transgressing, which changes what fair use becomes. You cannot make fair use become a transgressive instrument. 
+   * Technically, everyone is a transgressor?
+     * Should we leave it that way so as to not introduce a new fear in people who do not even know that they are transgressors. 
+ * Consolidating cases cataloguing what's happened, how, why, etc.
+ * ACLU's book mark with the Bill of Rights. Can we adopt this model?
+ * Blog Badges: I AM A FAIR USE ADVOCATE.
+ * Other people's ability to profit doesn't change my ethical relationship to my own work.
+ * People who license their stuff under a CC-SA license could use dual licensing schemes... If someone from Hollywood wants to use your stuff without using a CC-SA license they have to pay you.  There is no need to change the laws, just release your stuff under a license that is so toxic to Hollywood that they must negotiate. This is very common in the software industry but pretty rare in art.
+
+
+Solutions:
+ * The Website: KnowYourCopy.Org
+   * Making website an aggregate of the resources that are currently in existence. 
+   * Capturing people with the little thing on the side (a badge of sorts).
+ * Generating the right content/knowledge is an intensive process. 
+ * New York Law School as a volunteer coordinator to channel the energy of interested people to the right places.
+ * Asking critical questions of why people will come to the website? To get answers to questions they may have about the website as well as lead people to the right resources.
+ * Importance of emphasizing what the website should be about: YOUR RIGHTS.
+ * Covering all interest groups. 
+ * Have people understand that there are no straight forward answers about some of these topics.
+ * Not just covering what to do with someone else's content, but also what to do with your own content.
+
+YouTomb: http://youtomb.mit.edu/
+
+
+Announcements:
+ * Association of Research Libraries With Washington College of Law and Center for Social Media, American University is releasing a code of Fair Use resources and best practices for Research Institutions and Librarians.
+ * Reclaiming Fair Use: How to Put Balance Back in Copyright by Pat Aufderheide and Peter Jaszi.
+ * PopCulturePirate.com is currently accepting donations.
+ * EFF is open to accept cases--open to finding the right case. Disclaimer: Richard is not a lawyer. More information: https://www.eff.org/pages/legal-assistance
+ * Remix Contest - Political Remix
+
